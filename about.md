@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-<center>The Data Analyst Who Found His Way</center>
 
-# About Alex
+
+<h1><center>The Data Analyst Who Found His Way</center></h1>
+
+
+<h1>About Alex</h1>
 
 <!-- I’m a trained sustainability consultant with an interdisciplinary background in project management, data analysis, industrial-organizational psychology, and environmental science. I find critical facts from data and help people and organizations make well-informed decisions—but I didn’t start as a data analyst. -->
 
 As a data analyst with a passion for sustainability, I use my knowledge and skills to help people and organizations make well-informed decisions, bringing an interdisciplinary background in project management, data analysis, industrial-organizational psychology, and environmental science to make data-driven decisions. I didn’t start as a data analyst, however.
 
-## A Unique Beginning
+<h2>A Unique Beginning</h2>
 
 On a service trip in 2013, I was shocked by the complete lack of waste management infrastructure: no dumpsters, garbage trucks, recycling bins. A manmade disaster only compounded the earthquake of years past, where littering, dumping, and open burning resulted in a vicious cycle of crime; loss of natural beauty; and air, soil, and water pollution. The truth was in the data. Island nations will bear losses of almost $2.5 billion per year if they cannot transform the outdated make-take-waste model. I became a lover of garbage, the most visual aspect of sustainability challenges. This experience sparked my passion for sustainability and led me to pursue a career in data analysis, where I use data to drive positive change.
 
@@ -23,7 +26,7 @@ As an undergraduate at Cornell University, I was (overly) enthusiastic to turn g
 
 After a few consulting gigs, blogging, and self-exploration, I got a masters in sustainability management at Stevens Institute of Technology to round out the contours of my garbage-filled life. Although I studied environmental science, graduate school made me plainly aware of the planetary crises: climate change, biodiversity loss, deforestation, ocean acidification, and so much more.
 
-## Professional Data Analyst
+<h2>Professional Data Analyst</h2>
 
 My experiences inculcated a passion to use data to tell stories that matter and express urgency for social action to the planetary crises—and show how to use data effectively. As a data analyst and researcher, I have:
 
@@ -34,7 +37,7 @@ My experiences inculcated a passion to use data to tell stories that matter and 
 
 This portfolio shows my thought process when reading through data—and how you can to. I am skilled in R, Python, Excel and VBA, Tableau, SQL, and HTML and CSS. I am well-versed in Git and can easily navigate the command line.
 
-## Personal Life
+<h2>Personal Life</h2>
 
 I was born in the US to a clinical psychologist father and religious educator mother. My surroundings grew me into a person highly concerned about the well-being of others, as well as my own personal growth. When I’m not volunteering, networking, or supporting community growth, I enjoy reading, learning for its own sake, and spending time with friends.
 

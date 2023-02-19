@@ -8,9 +8,11 @@ title: Home
 
 # Welcome to my page!
 
-I'm a data analyst that will help you and/or your organization make well-informed decisions by efficiently and effectively making sense of your data. 
+I'm a data analyst that will help you and/or your organization make well-informed decisions by efficiently and effectively making sense of your data. Originally trained as a sustainability consultant, I've self-taught Python, SQL, Tableau, R, Git, Linux, and LaTeX. I am, additionally, a Certified Scrum Master (CSM) and Data Analyst Associate and Data Analyst Professional by Data Camp, and working toward the Project Management Professional (PMP) certification.
 
-You can find independent samples of my work using Excel, Python, SQL, and Tableau below.
+I regularly complete independent projects using Excel, Python, SQL, or Tableau (or a mix), all of which are below. I [blog](https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d) regularly and invite you to learn about "circular economy!"
+
+Please feel free to contact me at any time [here](<add0794@gmail.com>).
 
 <html>
   <head>

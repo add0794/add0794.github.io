@@ -12,9 +12,9 @@ permalink: /about/
 
 <!-- I’m a trained sustainability consultant with an interdisciplinary background in project management, data analysis, industrial-organizational psychology, and environmental science. I find critical facts from data and help people and organizations make well-informed decisions—but I didn’t start as a data analyst. -->
 
-As a data analyst with a passion for sustainability, I use my knowledge and skills to help people and organizations make well-informed decisions, bringing an interdisciplinary background in project management, data analysis, industrial-organizational psychology, and environmental science to make data-driven decisions. I didn’t start as a data analyst, however.
+As a data analyst with a passion for sustainability, I use my knowledge and skills to help people and organizations make well-informed decisions. Bringing an interdisciplinary background in project management, industrial-organizational psychology, and environmental science, I support those who want to utilize data efficiently and effectively. I didn’t start as a data analyst, but my unique beginnings provide the background I need for this field.
 
-<h2>A Unique Beginning</h2>
+<h2>Unique Beginnings</h2>
 
 On a service trip in 2013, I was shocked by the complete lack of waste management infrastructure: no dumpsters, garbage trucks, recycling bins. A manmade disaster only compounded the earthquake of years past, where littering, dumping, and open burning resulted in a vicious cycle of crime; loss of natural beauty; and air, soil, and water pollution. The truth was in the data. Island nations will bear losses of almost $2.5 billion per year if they cannot transform the outdated make-take-waste model [[1](https://pubmed.ncbi.nlm.nih.gov/31232294/)]. I became a lover of garbage, the most visual aspect of sustainability challenges. This experience sparked my passion for sustainability and led me to pursue a career in data analysis, where I use data to drive positive change.
 

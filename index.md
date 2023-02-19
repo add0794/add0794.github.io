@@ -8,6 +8,10 @@ title: Home
 
 # Welcome to my page!
 
+I'm a data analyst that will help you and/or your organization make well-informed decisions by efficiently and effectively making sense of your data. 
+
+You can find independent samples of my work using Excel, Python, SQL, and Tableau below.
+
 <html>
   <head>
   </head>

@@ -12,7 +12,7 @@ permalink: /about/
 
 <!-- I’m a trained sustainability consultant with an interdisciplinary background in project management, data analysis, industrial-organizational psychology, and environmental science. I find critical facts from data and help people and organizations make well-informed decisions—but I didn’t start as a data analyst. -->
 
-As a data analyst with a passion for sustainability, I use my knowledge and skills to help people and organizations make well-informed decisions. Bringing an interdisciplinary background in project management, industrial-organizational psychology, and environmental science, I support those who want to utilize data efficiently and effectively. I didn’t start as a data analyst, but my unique beginnings provide the background I need for this field.
+As a data analyst with a passion for circular economy and sustainability, I help people and organizations make well-informed decisions. My interdisciplinary background in project management, industrial-organizational psychology, and environmental science set me apart. I didn’t start my career as a data analyst (or even intending to work with software), but my beginnings provide a unique perspective.
 
 <h2>Unique Beginnings</h2>
 

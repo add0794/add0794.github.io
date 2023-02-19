@@ -12,7 +12,7 @@ I'm a data analyst that will help you and/or your organization make well-informe
 
 I regularly complete independent projects using Excel, Python, SQL, or Tableau (or a mix), all of which are below. I [blog](https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d) regularly and invite you to learn about "circular economy!"
 
-Please feel free to contact me at any time [here](<add0794@gmail.com>).
+Please feel free to contact me at any time [here](mailto:add0794@gmail.com?subject=excited-to-connect-with-you).
 
 <html>
   <head>

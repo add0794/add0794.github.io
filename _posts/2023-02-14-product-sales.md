@@ -19,7 +19,7 @@ Laid forth by Data Camp in its practical examination for the Data Analyst Associ
 
 Find answers to these questions and learn how I did so by accessing the project [here](https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md).
 
-<h2>FAQ:</h2>
+<h2>Lessons Learned:</h2>
 
 - What programming language did you use? **Python**
 - Why did you do this project? **Practical examination for DataCamp's Data Analyst Professional certificate.**

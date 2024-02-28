@@ -13,7 +13,7 @@ This form of communication uses a series of dots and dashes to represent letters
 
 ### Program Description
 
-This [program](https://github.com/add0794/text-to-morse-code-converter) tests if two English Morse code messages match.
+This program tests if two English Morse code messages match.
 
 1. The first Morse code message is developed by using Selenium to get its alphabet entirely by scraping from [this website](https://morsedecoder.com/). Using an input message as its output, the Morse code is created using the nested list from the Selenium-derived alphabet.
 

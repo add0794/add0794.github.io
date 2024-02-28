@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Age Calculator"
+title:  "Age Calculator Project"
 date:   2024-02-27 01:23:02 -0500
 categories: javascript
 published: true

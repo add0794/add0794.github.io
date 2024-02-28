@@ -2,7 +2,7 @@
 layout: post
 title:  "Text to Morse Code Converter"
 date:   2024-02-08 15:56:02 -0500
-categories: Python
+categories: python
 published: true
 permalink: /:categories/:title.html
 ---

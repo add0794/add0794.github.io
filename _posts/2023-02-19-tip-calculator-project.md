@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tip Calculator"
+title:  "Tip Calculator Project"
 date:   2024-02-19 07:49:23 -0500
 categories: javascript
 published: true

@@ -1,7 +1,7 @@
 ---
-# layout: page
-# title: Publications & Presentations
-# permalink: /publications-presentations.html
+layout: page
+title: Publications & Presentations
+permalink: /publications-presentations
 ---
 
 |  |  |

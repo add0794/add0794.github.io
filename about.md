@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-
-
 <h1><center><i>The Data Analyst Who Found His Way</i></center></h1>
 
 <h1>About Alex</h1>

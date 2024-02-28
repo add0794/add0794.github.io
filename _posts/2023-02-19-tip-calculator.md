@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Age Calculator"
+title:  "Tip Calculator"
 date:   2024-02-19 07:49:23 -0500
 categories: javascript
 published: true

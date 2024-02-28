@@ -8,7 +8,7 @@ permalink: /projects
     <body>
         <h1>JavaScript</h1>
         {% for post in site.posts %}
-            {% if post.categories contains "python" %}
+            {% if post.categories contains "javascript" %}
                 <article>
                     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                     <p>{{ post.excerpt }}</p>

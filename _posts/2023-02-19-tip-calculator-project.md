@@ -7,7 +7,7 @@ published: true
 permalink: /:categories/:title.html
 ---
 
-Simply calculate your tip and bill amount in dollars calculated when you enter a percentage value that you usually use for tipping.
+Simply [calculate](https://github.com/add0794/tip-calculator) your tip and bill amount in dollars calculated when you enter a percentage value that you usually use for tipping.
 
 - What programming language did you use? **HTML and JavaScript/TypeScript (JS)**
 - Why did you do this project? **As with the Age Calculator, I wanted to try something different. JavaScript is so necessary, whether I do or don't use web development, because having another perspective on software programming will help me in learning new languages or improving coding skills. I wanted to try a basic project.**

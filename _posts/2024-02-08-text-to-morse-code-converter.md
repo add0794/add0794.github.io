@@ -7,7 +7,7 @@ published: true
 permalink: /:categories/:title.html
 ---
 
-This project involves creating a text-to-Morse code converter, comparing the outputs using Selenium. The first output uses a dictionary derived from the Morse code alphabet while the other takes the keys from that dictionary to check for accuracy.
+This [project](https://github.com/add0794/text-to-morse-code-converter) involves creating a text-to-Morse code converter, comparing the outputs using Selenium. The first output uses a dictionary derived from the Morse code alphabet while the other takes the keys from that dictionary to check for accuracy.
 
 Morse code was developed in the early 1830s by Samuel Morse and his colleague Alfred Vail, but became widely used by telegraph operators in war-like settings. It found widespread use in World War I and World War II in military communication, allowing commanders to send orders and coordinate troops over long distances. It was also crucial for commercial purposes, such as sending urgent messages related to business, trade, and transportation until it was replaced by the telephone.
 

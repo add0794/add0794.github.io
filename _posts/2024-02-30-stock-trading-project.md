@@ -7,7 +7,7 @@ published: true
 permalink: /:categories/:title.html
 ---
 
-This [program](https://github.com/add0794/stock-trading) not only tracks changes in its stock value, but automatically texts you when a significant event happens (e.g. 5 `%` increase or decrease).
+This [program](https://github.com/add0794/stock-trading) not only tracks changes in its stock value, but automatically texts you when a significant event happens (e.g. 5% increase or decrease).
 
 Make your investing life easier, and perhaps, stop using a certified financial analyst (CFA) to do the dirty work.
 

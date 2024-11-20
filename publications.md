@@ -16,51 +16,52 @@ permalink: /publications-presentations
 | 2018 | Zero Waste Island Initiative Waste Audit Report | **A Dubro** and D Ip |
 
 <footer>
-
-<div class="social-links">
-    <a href="https://www.linkedin.com/in/alexdubro/">
-        <img src="linkedin-icon.png" alt="LinkedIn Icon" />LinkedIn
-    </a>
-    <a href="https://github.com/add0794">
-        <img src="github-icon.png" alt="GitHub Icon" />GitHub
-    </a>
-    <a href="mailto:add0794@gmail.com">
-        <img src="email-icon.png" alt="Email Icon" />Email
-    </a>
-</div>
+    <div class="social-links">
+        <a href="https://www.linkedin.com/in/alexdubro/" aria-label="LinkedIn profile">
+            <img src="linkedin-icon.png" alt="LinkedIn Icon" />
+            <!-- LinkedIn -->
+        </a>
+        <a href="https://github.com/add0794" aria-label="GitHub profile">
+            <img src="github-icon.png" alt="GitHub Icon" />
+            <!-- GitHub -->
+        </a>
+        <a href="mailto:add0794@gmail.com" aria-label="Email">
+            <img src="email-icon.png" alt="Email Icon" />
+            <!-- Email -->
+        </a>
+    </div>
 
 <style>
-    /* General styling for the list */
-    .social-links {
-        display: flex; /* Arrange items horizontally */
-        gap: 15px; /* Add spacing between items */
-        list-style: none; /* Remove bullets */
-        padding: 0; /* Remove padding */
-        margin: 0; /* Remove margin */
-        text-align: center; 
-    }
+/* General styling for the list */
+.social-links {
+    display: flex; /* Arrange items horizontally */
+    gap: 15px; /* Add spacing between items */
+    list-style: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
 
-    .social-links li {
-        display: flex; /* Align icon and text */
-        align-items: center; /* Vertically center items */
-    }
+.social-links li {
+    display: flex; /* Align icon and text */
+    align-items: center; /* Vertically center items */
+}
 
-    .social-links a {
-        text-decoration: none; /* Remove underline from links */
-        color: #333; /* Default text color */
-        font-family: Arial, sans-serif;
-        font-size: 14px;
-    }
+.social-links a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Default text color */
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
 
-    .social-links a:hover {
-        color: #0073b1; /* Change color on hover */
-    }
+.social-links a:hover {
+    color: #0073b1; /* Change color on hover */
+}
 
-    .social-links img {
-        width: 20px; /* Set icon width */
-        height: 20px; /* Set icon height */
-        margin-right: 5px; /* Add spacing between icon and text */
-    }
+.social-links img {
+    width: 20px; /* Set icon width */
+    height: 20px; /* Set icon height */
+    margin-right: 5px; /* Add spacing between icon and text */
+}
 </style>
 
 </footer>

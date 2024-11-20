@@ -46,15 +46,12 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
     <div class="social-links">
         <a href="https://www.linkedin.com/in/alexdubro/" aria-label="LinkedIn profile">
             <img src="linkedin-icon.png" alt="LinkedIn Icon" />
-            <!-- LinkedIn -->
         </a>
         <a href="https://github.com/add0794" aria-label="GitHub profile">
             <img src="github-icon.png" alt="GitHub Icon" />
-            <!-- GitHub -->
         </a>
         <a href="mailto:add0794@gmail.com" aria-label="Email">
             <img src="email-icon.png" alt="Email Icon" />
-            <!-- Email -->
         </a>
     </div>
 

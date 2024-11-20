@@ -4,34 +4,54 @@ title: Projects
 permalink: /projects
 ---
 
-<html>
-    <body>
-        <h1>JavaScript</h1>
-        {% for post in site.posts %}
-            {% if post.categories contains "javascript" %}
-                <article>
-                    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                    <p>{{ post.excerpt }}</p>
-                </article>
-            {% endif %}
-        {% endfor %}
-        <h1>Python</h1>
-        {% for post in site.posts %}
-            {% if post.categories contains "python" %}
-                <article>
-                    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                    <p>{{ post.excerpt }}</p>
-                </article>
-            {% endif %}
-        {% endfor %}
-        <h1>Excel</h1>
-        {% for post in site.posts %}
-            {% if post.categories contains "excel" %}
-                <article>
-                    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                    <p>{{ post.excerpt }}</p>
-                </article>
-            {% endif %}
-        {% endfor %}
-    </body>
-</html>
+# Data Analysis (Python)
+
+## Pet Sales Analysis
+
+PetMind aims to launch a monthly pet box subscription to enhance customer retention and foster brand loyalty. The analysis focuses on identifying patterns in product repurchases and their implications for sales. Key questions addressed include:  
+- **Product Repurchases**: How many products are being purchased multiple times?  
+- **Sales Performance**: Do products purchased repeatedly perform better in sales?  
+- **Pet-Specific Trends**: What products are frequently repurchased for different pet types?  
+
+The project explores these questions using the provided sales dataset, offering insights to guide subscription product offerings. Full project details are available [here](https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md).
+
+## Product Sales Analysis
+
+Pens and Partners plans to launch a new product line and seeks to evaluate the effectiveness of various sales tactics. The analysis investigates the following:  
+- **Customer Engagement**: How many customers engaged with each sales method?  
+- **Revenue Distribution**: What is the overall revenue spread, and how does it differ by sales method?  
+- **Trends Over Time**: Are there notable revenue differences over time for each method?  
+- **Recommended Tactics**: Which sales method is most effective, factoring in team effort and similar results?  
+
+Insights from the dataset guide decisions on which sales tactics to prioritize for maximum impact. Full project details are available [here](https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md).
+
+---
+
+# Data Analysis (Excel)
+
+## Space Missions Analysis
+
+A rich dataset from [Next Space Flight](https://nextspaceflight.com) offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset to answer key questions:
+
+- **Top Launchers**: Who launched the most missions in any given year?  
+- **Cost Trends**: How has the cost of a space mission varied over time?  
+- **Seasonal Patterns**: Which months are the most popular for launches?  
+- **Mission Safety**: Have space missions gotten safer, or has the chance of failure remained unchanged?  
+
+Explore the analysis and findings in the full project [here](https://github.com/add0794/space_race/blob/8a1ebe36f9c88862b1bd0f89841e1685f2bf2cf5/README.md).
+
+---
+
+# API Requests 
+
+## Stock Trading
+
+This [project](https://github.com/add0794/stock-trading/) uses API requests to text you when a public company's stock significantly increases or decreases (i.e. by more or less than 5%). It can be time-consuming to follow a company's stock value, but you still want to earn a little extra income from investing. By tracking the percentage change, author, title, and content, you'll get changes straight to your phone -- all you need is to read text messages! The data comes from the stock's daily low. Make your investing life easier, and perhaps, stop using a certified financial analyst (CFA) to do the dirty work.
+
+---
+
+# Web Scraping
+
+## Text-to-Morse Code Converter Project
+
+This [project](https://github.com/add0794/text-to-morse-code-converter) uses web scraping to build and verify a text-to-Morse code converter. It leverages Selenium to scrape the Morse code alphabet from [this website](https://morsedecoder.com/) and uses the data to generate a dictionary-based conversion. The program compares this output against a second message created by directly inputting text into the website’s field and retrieving the resulting Morse code. This approach highlights the power of web scraping in automating data collection and testing for accuracy. The project also demonstrates Morse code's historical importance and modern programming applications in verifying message integrity.

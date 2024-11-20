@@ -64,6 +64,7 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
 <style>
 
 /* Styling for the intro header and image */
+<style>
 .intro {
   display: flex;
   align-items: center;
@@ -78,6 +79,22 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
   max-width: 300px;
   height: auto;
 }
+
+@media (max-width: 768px) {
+  .intro {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .text {
+    text-align: center;
+  }
+
+  .image img {
+    max-width: 100%;
+  }
+}
+</style>
 
 /* Styling for the social media */
 .social-links {

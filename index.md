@@ -10,6 +10,8 @@ Alex Dubro
 
 Data Scientist
 
+<img src="intro-img.png" alt="Image not supported">
+
 [About](/Users/alexdubro/Documents/add0794.github.io/about.md)
 [Projects](/Users/alexdubro/Documents/add0794.github.io/projects.md)
 [Publications](/Users/alexdubro/Documents/add0794.github.io/publications.md)

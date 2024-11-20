@@ -6,9 +6,9 @@ layout: default
 title: Home
 ---
 
-Alex Dubro
+# Alex Dubro
 
-Data Scientist
+## Data Scientist from 
 
 <img src="intro-img.png" alt="Image not supported">
 

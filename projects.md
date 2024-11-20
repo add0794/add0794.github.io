@@ -63,3 +63,58 @@ This [project](https://github.com/add0794/text-to-morse-code-converter) uses web
 ## Book Library Project
 
 This [project](https://github.com/add0794/flask-sqlalchemy-library) uses flask-sqlalchemy to create a library of your favorite books. You can easily add, edit, and delete at your convenience. By rating your books, you can conduct SQL queries or analyze the library with pandas and matplotlib. Unhappy with the library? Clear the table with ease. Want the library's data? Download it as a JSON file. Having a library has never been easier.
+
+<footer>
+
+<ul class="social-links">
+    <li>
+        <a href="https://www.linkedin.com/in/alexdubro/">
+            <img src="linkedin-icon.png" alt="LinkedIn Icon" /> Connect with me on LinkedIn
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/add0794">
+            <img src="github-icon.png" alt="GitHub Icon" /> Check out my GitHub
+        </a>
+    </li>
+    <li>
+        <a href="mailto:add0794@gmail.com?subject=Excited to Connect with You!">
+            <img src="email-icon.png" alt="Email Icon" /> Contact me by email
+        </a>
+    </li>
+</ul>
+
+<style>
+    /* General styling for the list */
+    .social-links {
+        display: flex; /* Arrange items horizontally */
+        gap: 15px; /* Add spacing between items */
+        list-style: none; /* Remove bullets */
+        padding: 0; /* Remove padding */
+        margin: 0; /* Remove margin */
+    }
+
+    .social-links li {
+        display: flex; /* Align icon and text */
+        align-items: center; /* Vertically center items */
+    }
+
+    .social-links a {
+        text-decoration: none; /* Remove underline from links */
+        color: #333; /* Default text color */
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+    }
+
+    .social-links a:hover {
+        color: #0073b1; /* Change color on hover */
+    }
+
+    .social-links img {
+        width: 20px; /* Set icon width */
+        height: 20px; /* Set icon height */
+        margin-right: 5px; /* Add spacing between icon and text */
+    }
+</style>
+
+</footer>

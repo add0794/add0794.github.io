@@ -17,23 +17,17 @@ permalink: /publications-presentations
 
 <footer>
 
-<ul class="social-links">
-    <li>
-        <a href="https://www.linkedin.com/in/alexdubro/">
-            <img src="linkedin-icon.png" alt="LinkedIn Icon" /> Connect with me on LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="https://github.com/add0794">
-            <img src="github-icon.png" alt="GitHub Icon" /> Check out my GitHub
-        </a>
-    </li>
-    <li>
-        <a href="mailto:add0794@gmail.com?subject=Excited to Connect with You!">
-            <img src="email-icon.png" alt="Email Icon" /> Contact me by email
-        </a>
-    </li>
-</ul>
+<div class="social-links">
+    <a href="https://www.linkedin.com/in/alexdubro/">
+        <img src="linkedin-icon.png" alt="LinkedIn Icon" />
+    </a>
+    <a href="https://github.com/add0794">
+        <img src="github-icon.png" alt="GitHub Icon" />
+    </a>
+    <a href="mailto:add0794@gmail.com">
+        <img src="email-icon.png" alt="Email Icon" />
+    </a>
+</div>
 
 <style>
     /* General styling for the list */

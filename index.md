@@ -8,7 +8,7 @@ title: Home
 
 # Alex Dubro
 
-## Data Scientist from 
+## Data Scientist with an Unexpected Background
 
 <img src="intro-img.png" alt="Image not supported">
 
@@ -16,36 +16,19 @@ title: Home
 [Projects](/Users/alexdubro/Documents/add0794.github.io/projects.md)
 [Publications](/Users/alexdubro/Documents/add0794.github.io/publications.md)
 
-<!-- <ul>
-    <li><a href="https://www.linkedin.com/in/alexdubro/"><i class="fab fa-linkedin"></i>Connect with me on LinkedIn</a></li>
-    <li><a href="https://github.com/add0794"><i class="fab fa-github"></i>Check out my GitHub.</a></li>
-    <li><a href="mailto:add0794@gmail.com?subject=Excited to Connect with You!"><i class="far fa-envelope"></i>Contact me by email.</a></li>
-</ul> -->
+<footer>
 
-# Connect With Me
-
-<!-- - ![LinkedIn Icon](linkedin-icon.png)(https://www.linkedin.com/in/alexdubro/)
-- ![GitHub Icon](github-icon.png)(https://github.com/add0794)
-- ![Email Icon](email-icon.png)(mailto:add0794@gmail.com?subject=Excited%20to%20Connect%20with%20You!) -->
-
-
-<ul class="social-links">
-    <li>
-        <a href="https://www.linkedin.com/in/alexdubro/">
-            <img src="linkedin-icon.png" alt="LinkedIn Icon" /> Connect with me on LinkedIn
-        </a>
-    </li>
-    <li>
-        <a href="https://github.com/add0794">
-            <img src="github-icon.png" alt="GitHub Icon" /> Check out my GitHub
-        </a>
-    </li>
-    <li>
-        <a href="mailto:add0794@gmail.com?subject=Excited to Connect with You!">
-            <img src="email-icon.png" alt="Email Icon" /> Contact me by email
-        </a>
-    </li>
-</ul>
+<div class="social-links">
+    <a href="https://www.linkedin.com/in/alexdubro/">
+        <img src="linkedin-icon.png" alt="LinkedIn Icon" />
+    </a>
+    <a href="https://github.com/add0794">
+        <img src="github-icon.png" alt="GitHub Icon" />
+    </a>
+    <a href="mailto:add0794@gmail.com">
+        <img src="email-icon.png" alt="Email Icon" />
+    </a>
+</div>
 
 <style>
     /* General styling for the list */
@@ -79,3 +62,5 @@ title: Home
         margin-right: 5px; /* Add spacing between icon and text */
     }
 </style>
+
+</footer>

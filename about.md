@@ -35,6 +35,9 @@ I make software and data projects for fun, too. Those can be found in [Projects]
 
 ---
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
 ## Tools
 
 - **Programming**: Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript

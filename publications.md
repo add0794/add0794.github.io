@@ -4,6 +4,9 @@ title: Publications & Presentations
 permalink: /publications-presentations
 ---
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
 | Year | Title | Authors |
 |------|---------|-------|
 | 2021 | [Assessing the Sustainability Components of Engineering Capstone Projects](https://strategy.asee.org/assessing-the-sustainability-components-of-engineering-capstone-projects)<br/> Paper presented at 2021 ASEE Virtual Annual Conference Content Access, Virtual Conference.<br/>doi: 10.18260/1-2--36722 | LR Brunell, **A Dubro**, and VV Rokade |

@@ -41,6 +41,7 @@ title: Home
         list-style: none; /* Remove bullets */
         padding: 0; /* Remove padding */
         margin: 0; /* Remove margin */
+        text-align: center; 
     }
 
     .social-links li {

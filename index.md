@@ -24,9 +24,9 @@ Data Scientist
 
 # Connect With Me
 
-- ![LinkedIn Icon](linkedin-icon.png)(https://www.linkedin.com/in/alexdubro/)
+<!-- - ![LinkedIn Icon](linkedin-icon.png)(https://www.linkedin.com/in/alexdubro/)
 - ![GitHub Icon](github-icon.png)(https://github.com/add0794)
-- ![Email Icon](email-icon.png)(mailto:add0794@gmail.com?subject=Excited%20to%20Connect%20with%20You!)
+- ![Email Icon](email-icon.png)(mailto:add0794@gmail.com?subject=Excited%20to%20Connect%20with%20You!) -->
 
 
 <ul class="social-links">

@@ -4,6 +4,37 @@ title: About
 permalink: /about
 ---
 
+# Hello, I'm Alex!
+
+I'm your typical nerdy data scientist guiding organizations make sense of their data to make well-informed decisions. 
+
+But I didn’t start my career doing data science. In fact, I wanted to be an industrial-organizational (IO) psychologist.
+
+I stayed away from programming until graduate school when I learned R. That moment on, I fell in love with IDEs, the command line, git, and all that software development entailed. 
+
+---
+
+Highlights:
+
+- Developed recommendations for the [Trust for Governors Island](https://www.govisland.com/about/the-trust-for-governors-island) by analyzing results on Excel of a waste audit conducted in 2018.
+- Published a 7-page [report](https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/) for the Facilities department of Stevens Institute of Technology analyzing results of a survey, recommending best practices for educating students on environmental sustainability in 2020.
+- Published a 10-page report profiling greenhouse gas (GHG) emissions of [Dairy Farmers of America (DFA)](https://www.dfamilk.com/), highlighting prominent sources and showing viability of achieving target by using R and Markdown.
+- Visualized for professors how well students incorporate sustainability into their capstone design projects, alongside their final grades, by using R and Markdown and presented results at a [peer conference](https://strategy.asee.org/assessing-the-sustainability-components-of-engineering-capstone-projects).
+
+I'm self-taught:
+
+- **Programming**: Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript
+- **Data science packages**: IPython/Jupyter, Pandas, NumPy, Matplotlib, Seaborn, 
+- **No-code programming**: Tableau, Notion, Airtable
+Additionally, I can comfortably navigate the command line (Linux), Git, Word, Excel, PowerPoint, Markdown, Google Drive, and Slack. I am, additionally, a Certified Scrum Master (CSM) and Data Analyst Associate and Data Analyst Professional by Data Camp.
+
+I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also [blog](https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d) regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it.
+
+I regularly complete independent projects using Excel, Python, SQL, or Tableau (or a mix), all of which are below. I [ regularly and invite you to learn about "circular economy!"
+
+Please feel free to:
+
+
 <h1><center><i>The Data Analyst Who Found His Way</i></center></h1>
 
 <h1>About Alex</h1>
@@ -27,10 +58,7 @@ After a few consulting gigs, blogging, and self-exploration, I got a masters in 
 
 My experiences inculcated a passion to use data to tell stories that matter and express urgency for social action to the planetary crises—and show how to use data effectively. As a data analyst and researcher, I have:
 
-- Developed recommendations for the [Trust for Governors Island](https://www.govisland.com/about/the-trust-for-governors-island) by analyzing results on Excel of a waste audit conducted in 2018.
-- Published a 7-page [report](https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/) for the Facilities department of Stevens Institute of Technology analyzing results of a survey, recommending best practices for educating students on environmental sustainability in 2020.
-- Published a 10-page report profiling greenhouse gas (GHG) emissions of [Dairy Farmers of America (DFA)](https://www.dfamilk.com/), highlighting prominent sources and showing viability of achieving target by using R and Markdown.
-- Visualized for professors how well students incorporate sustainability into their capstone design projects, alongside their final grades, by using R and Markdown and presented results at a [peer conference](https://strategy.asee.org/assessing-the-sustainability-components-of-engineering-capstone-projects).
+
 
 In addition to data analysis (or, rather, using analytical skills), I am an active blogger on ["circular economy"](https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d) (i.e. how we make high-quality products and ensuring they don't end up in the trash) and mentor college students through my litter cleanup initiative, [CleaNR New Ro](https://instagram.com/cleanrnewro?utm_medium=copy_link). I present on sustainability regularly, covering [environmental crime](https://www.linkedin.com/in/alexdubro/details/featured/1635490901962/single-media-viewer/?profileId=ACoAABKLzZkBC25qA9yl8hJFtQOPzBXfM-UBmBs) and translating research to social action.
 

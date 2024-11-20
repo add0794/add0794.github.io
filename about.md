@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about
+title: Home
+permalink: /
 ---
 
 # Hello, I'm Alex!
@@ -41,19 +41,58 @@ I make software and data projects for fun, too. Those can be found in [Projects]
 I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also [blog](https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d) regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it.
 
 <footer>
+    <div class="social-links">
+        <a href="https://www.linkedin.com/in/alexdubro/" aria-label="LinkedIn profile">
+            <img src="linkedin-icon.png" alt="LinkedIn Icon" />
+            <!-- LinkedIn -->
+        </a>
+        <a href="https://github.com/add0794" aria-label="GitHub profile">
+            <img src="github-icon.png" alt="GitHub Icon" />
+            <!-- GitHub -->
+        </a>
+        <a href="mailto:add0794@gmail.com" aria-label="Email">
+            <img src="email-icon.png" alt="Email Icon" />
+            <!-- Email -->
+        </a>
+    </div>
 
-<div class="social-links">
-    <a href="https://www.linkedin.com/in/alexdubro/">
-        <img src="linkedin-icon.png" alt="LinkedIn Icon" />LinkedIn
-    </a>
-    <a href="https://github.com/add0794">
-        <img src="github-icon.png" alt="GitHub Icon" />GitHub
-    </a>
-    <a href="mailto:add0794@gmail.com">
-        <img src="email-icon.png" alt="Email Icon" />Email
-    </a>
-</div>
+<style>
+/* General styling for the list */
+.social-links {
+    display: flex; /* Arrange items horizontally */
+    gap: 15px; /* Add spacing between items */
+    list-style: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
 
+.social-links li {
+    display: flex; /* Align icon and text */
+    align-items: center; /* Vertically center items */
+}
+
+.social-links a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Default text color */
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.social-links a:hover {
+    color: #0073b1; /* Change color on hover */
+}
+
+.social-links img {
+    width: 20px; /* Set icon width */
+    height: 20px; /* Set icon height */
+    margin-right: 5px; /* Add spacing between icon and text */
+}
+</style>
+
+</footer>
+
+
+<!-- 
 <style>
     /* General styling for the list */
     .social-links {
@@ -62,7 +101,7 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
         list-style: none; /* Remove bullets */
         padding: 0; /* Remove padding */
         margin: 0; /* Remove margin */
-        text-align: center; 
+        text-align: center;
     }
 
     .social-links li {
@@ -75,17 +114,18 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
         color: #333; /* Default text color */
         font-family: Arial, sans-serif;
         font-size: 14px;
+        padding: 8px 12px;
+        border-radius: 4px;
     }
 
     .social-links a:hover {
+        background-color: #f5f5f5;
         color: #0073b1; /* Change color on hover */
     }
 
     .social-links img {
-        width: 20px; /* Set icon width */
-        height: 20px; /* Set icon height */
-        margin-right: 5px; /* Add spacing between icon and text */
+        width: 24px; /* Set icon width */
+        height: 24px; /* Set icon height */
+        margin-right: 8px; /* Add spacing between icon and text */
     }
-</style>
-
-</footer>
+</style> -->

@@ -6,7 +6,9 @@ permalink: /
 
 # Hello, I'm Alex!
 
-<img src="intro-img.png" alt="Image not supported">
+<div class="intro-image">
+    <img src="intro-img.png" alt="Image not supported">
+</div>
 
 ## Who Am I?
 
@@ -56,7 +58,18 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
     </div>
 
 <style>
-/* General styling for the list */
+
+/* Styling for the image */
+.intro-image {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.intro-image img {
+    max-width: 200px;
+}
+
+/* Styling for the social media */
 .social-links {
     display: flex; /* Arrange items horizontally */
     gap: 15px; /* Add spacing between items */

@@ -41,11 +41,6 @@ title: Home
         text-align: center; 
     }
 
-    .social-links li {
-        display: flex; /* Align icon and text */
-        align-items: center; /* Vertically center items */
-    }
-
     .social-links a {
         text-decoration: none; /* Remove underline from links */
         color: #333; /* Default text color */

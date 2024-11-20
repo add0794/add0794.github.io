@@ -6,22 +6,24 @@ permalink: /
 
 # Hello, I'm Alex!
 
+<img src="intro-img.png" alt="Image not supported">
+
 ## Who Am I?
 
-I'm your typical nerdy data scientist guiding organizations make sense of their data to make well-informed decisions. 
+I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. 
 
-I didn’t start with data science. In fact, I wanted to be an industrial-organizational (IO) psychologist, and my masters is in sustainability management from [Stevens Institute of Technology](https://www.stevens.edu/. (I studied environmental science at [Cornell University](https://www.cornell.edu/).)
+I didn’t start with data science. In fact, I wanted to be an industrial-organizational (IO) psychologist, and my masters is in sustainability management from [Stevens Institute of Technology](https://www.stevens.edu/). (I studied environmental science at [Cornell University](https://www.cornell.edu/).)
 
-I stayed away from programming until graduate school when I learned R. That moment on, I fell in love with IDEs, the command line, git, and all that software development entailed. 
+I stayed away from programming all through college and until graduate school when I learned R (~6 years). That moment on, I fell in love with IDEs, the command line, git, and all that software development entailed. 
 
 ---
 
 ## Highlights
 
-- Developed recommendations for the [Trust for Governors Island](https://www.govisland.com/about/the-trust-for-governors-island) by analyzing results on Excel of a waste audit conducted in 2018.
-- Published a 7-page [report](https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/) for the Facilities department of Stevens Institute of Technology analyzing results of a survey, recommending best practices for educating students on environmental sustainability in 2020.
-- Published a 10-page report profiling greenhouse gas (GHG) emissions of [Dairy Farmers of America (DFA)](https://www.dfamilk.com/), highlighting prominent sources and showing viability of achieving target by using R and Markdown in 2020.
-- Visualized for professors how well students incorporate sustainability into their capstone design projects, alongside their final grades, by using R and Markdown and presented results at a [peer conference](https://strategy.asee.org/assessing-the-sustainability-components-of-engineering-capstone-projects) in 2021.
+- Developed waste diversion recommendations for the [Trust for Governors Island](https://www.govisland.com/about/the-trust-for-governors-island) by analyzing a 2018 waste audit (Excel).
+- Published a 7-page [report](https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/) on sustainability aptitute for Stevens Institute of Technology by developing, disbursing, and analyzing the results of a campus-wide survey in 2020, in addition to recommending best practices for educating students on environmental sustainability (Excel).
+- Published a 10-page report profiling greenhouse gas (GHG) emissions of [Dairy Farmers of America (DFA)](https://www.dfamilk.com/) prominent sources, showing viability of achieving its Science-based Target (SBT) in 2020 (R and Markdown).
+- Visualized how well students incorporate sustainability into their engineering capstone design projects, comparing their grades on sustainability assessments against their final grades, and presented results at a [peer conference](https://strategy.asee.org/assessing-the-sustainability-components-of-engineering-capstone-projects) in 2021 (R and Markdown).
 
 I make software and data projects for fun, too. Those can be found in [Projects](projects.md).
 
@@ -39,8 +41,6 @@ I make software and data projects for fun, too. Those can be found in [Projects]
 ## Anything Else?
 
 I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also [blog](https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d) regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it.
-
-<img src="intro-img.png" alt="Image not supported">
 
 <footer>
     <div class="social-links">

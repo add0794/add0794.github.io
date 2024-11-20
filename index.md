@@ -31,8 +31,44 @@ title: Home
             <!-- Email -->
         </a>
     </div>
+
+<style>
+/* General styling for the list */
+.social-links {
+    display: flex; /* Arrange items horizontally */
+    gap: 15px; /* Add spacing between items */
+    list-style: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+.social-links li {
+    display: flex; /* Align icon and text */
+    align-items: center; /* Vertically center items */
+}
+
+.social-links a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Default text color */
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.social-links a:hover {
+    color: #0073b1; /* Change color on hover */
+}
+
+.social-links img {
+    width: 20px; /* Set icon width */
+    height: 20px; /* Set icon height */
+    margin-right: 5px; /* Add spacing between icon and text */
+}
+</style>
+
 </footer>
 
+
+<!-- 
 <style>
     /* General styling for the list */
     .social-links {
@@ -68,4 +104,4 @@ title: Home
         height: 24px; /* Set icon height */
         margin-right: 8px; /* Add spacing between icon and text */
     }
-</style>
+</style> -->

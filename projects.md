@@ -67,40 +67,49 @@ This [project](https://github.com/add0794/flask-sqlalchemy-library) uses flask-s
 <footer>
 
 <div class="social-links">
-    <a href="https://www.linkedin.com/in/alexdubro/" class="social-link">
-        <img src="linkedin-icon.png" alt="LinkedIn Icon" />
+    <a href="https://www.linkedin.com/in/alexdubro/">
+        <img src="linkedin-icon.png" alt="LinkedIn Icon" />LinkedIn
     </a>
-    <a href="https://github.com/add0794 class="social-link"">
-        <img src="github-icon.png" alt="GitHub Icon" />
+    <a href="https://github.com/add0794">
+        <img src="github-icon.png" alt="GitHub Icon" />GitHub
     </a>
-    <a href="mailto:add0794@gmail.com" class="social-link">
-        <img src="email-icon.png" alt="Email Icon" />
+    <a href="mailto:add0794@gmail.com">
+        <img src="email-icon.png" alt="Email Icon" />Email
     </a>
 </div>
 
 <style>
+    /* General styling for the list */
     .social-links {
-        display: flex; /* Enable Flexbox */
-        justify-content: center; /* Center horizontally */
-        gap: 20px; /* Space between links */
-        align-items: center; /* Align items vertically */
+        display: flex; /* Arrange items horizontally */
+        gap: 15px; /* Add spacing between items */
+        list-style: none; /* Remove bullets */
+        padding: 0; /* Remove padding */
+        margin: 0; /* Remove margin */
+        text-align: center; 
     }
 
-    .social-link {
-        display: flex; /* Each link uses Flexbox */
-        align-items: center; /* Align icon and text vertically */
-        text-decoration: none; /* Remove underline from text */
-        color: black; /* Text color */
-        font-family: Arial, sans-serif; /* Font style */
-        font-size: 14px; /* Font size */
+    .social-links li {
+        display: flex; /* Align icon and text */
+        align-items: center; /* Vertically center items */
     }
 
-    .social-link img {
-        width: 20px; /* Icon size */
-        margin-right: 5px; /* Space between icon and text */
+    .social-links a {
+        text-decoration: none; /* Remove underline from links */
+        color: #333; /* Default text color */
+        font-family: Arial, sans-serif;
+        font-size: 14px;
     }
 
-    .social-link:hover {
-        color: #0077b5; /* Change text color on hover (e.g., LinkedIn blue) */
+    .social-links a:hover {
+        color: #0073b1; /* Change color on hover */
+    }
+
+    .social-links img {
+        width: 20px; /* Set icon width */
+        height: 20px; /* Set icon height */
+        margin-right: 5px; /* Add spacing between icon and text */
     }
 </style>
+
+</footer>

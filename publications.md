@@ -19,13 +19,13 @@ permalink: /publications-presentations
 
 <div class="social-links">
     <a href="https://www.linkedin.com/in/alexdubro/">
-        <img src="linkedin-icon.png" alt="LinkedIn Icon" />
+        <img src="linkedin-icon.png" alt="LinkedIn Icon" />LinkedIn
     </a>
     <a href="https://github.com/add0794">
-        <img src="github-icon.png" alt="GitHub Icon" />
+        <img src="github-icon.png" alt="GitHub Icon" />GitHub
     </a>
     <a href="mailto:add0794@gmail.com">
-        <img src="email-icon.png" alt="Email Icon" />
+        <img src="email-icon.png" alt="Email Icon" />Email
     </a>
 </div>
 
@@ -37,6 +37,7 @@ permalink: /publications-presentations
         list-style: none; /* Remove bullets */
         padding: 0; /* Remove padding */
         margin: 0; /* Remove margin */
+        text-align: center; 
     }
 
     .social-links li {

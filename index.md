@@ -21,12 +21,15 @@ title: Home
 <div class="social-links">
     <a href="https://www.linkedin.com/in/alexdubro/">
         <img src="linkedin-icon.png" alt="LinkedIn Icon" />
+    LinkedIn
     </a>
     <a href="https://github.com/add0794">
         <img src="github-icon.png" alt="GitHub Icon" />
+    GitHub
     </a>
     <a href="mailto:add0794@gmail.com">
         <img src="email-icon.png" alt="Email Icon" />
+    Email
     </a>
 </div>
 

@@ -52,7 +52,6 @@ This [project](https://github.com/add0794/stock-trading/) uses API requests to t
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
 # Web Scraping
 
 ## Text-to-Morse Code Converter Project

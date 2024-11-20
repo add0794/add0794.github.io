@@ -82,6 +82,21 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
   height: auto;
 }
 
+@media (max-width: 768px) {
+  .intro {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .text {
+    text-align: center;
+  }
+
+  .image img {
+    max-width: 100%;
+  }
+}
+
 /* Styling for the social media */
 .social-links {
     display: flex; /* Arrange items horizontally */

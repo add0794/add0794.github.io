@@ -22,6 +22,13 @@ Data Scientist
     <li><a href="mailto:add0794@gmail.com?subject=Excited to Connect with You!"><i class="far fa-envelope"></i>Contact me by email.</a></li>
 </ul> -->
 
+# Connect With Me
+
+- ![LinkedIn Icon](linkedin-icon.png)(https://www.linkedin.com/in/alexdubro/)
+- ![GitHub Icon](github-icon.png)(https://github.com/add0794)
+- ![Email Icon](email-icon.png)(mailto:add0794@gmail.com?subject=Excited%20to%20Connect%20with%20You!)
+
+
 <ul class="social-links">
     <li>
         <a href="https://www.linkedin.com/in/alexdubro/">

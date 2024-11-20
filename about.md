@@ -6,6 +6,16 @@ permalink: /
 
 # Hello, I'm Alex!
 
+<div class="intro">
+  <div class="text">
+    <h1>Hello, I'm Alex!</h1>
+    <p>I'm a passionate software developer with a strong background in full-stack web development. I love exploring new technologies and building creative solutions to complex problems.</p>
+  </div>
+  <div class="image">
+    <img src="intro-img.png" alt="Image not supported">
+  </div>
+</div>
+
 <div class="intro-image">
     <img src="intro-img.png" alt="Image not supported">
 </div>
@@ -59,14 +69,20 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
 
 <style>
 
-/* Styling for the image */
-.intro-image {
-    text-align: center;
-    margin-top: 20px;
+/* Styling for the intro header and image */
+.intro {
+  display: flex;
+  align-items: center;
+  gap: 30px;
 }
 
-.intro-image img {
-    max-width: 200px;
+.text {
+  flex: 1;
+}
+
+.image img {
+  max-width: 300px;
+  height: auto;
 }
 
 /* Styling for the social media */

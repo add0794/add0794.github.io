@@ -6,7 +6,7 @@ permalink: /projects
 
 # Data Analysis (Python)
 
-## Pet Sales Analysis
+## Pet Sales Project
 
 PetMind aims to launch a monthly pet box subscription to enhance customer retention and foster brand loyalty. The analysis focuses on identifying patterns in product repurchases and their implications for sales. Key questions addressed include:  
 - **Product Repurchases**: How many products are being purchased multiple times?  
@@ -15,7 +15,7 @@ PetMind aims to launch a monthly pet box subscription to enhance customer retent
 
 The project explores these questions using the provided sales dataset, offering insights to guide subscription product offerings. Full project details are available [here](https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md).
 
-## Product Sales Analysis
+## Product Sales Project
 
 Pens and Partners plans to launch a new product line and seeks to evaluate the effectiveness of various sales tactics. The analysis investigates the following:  
 - **Customer Engagement**: How many customers engaged with each sales method?  
@@ -29,7 +29,7 @@ Insights from the dataset guide decisions on which sales tactics to prioritize f
 
 # Data Analysis (Excel)
 
-## Space Missions Analysis
+## Space Missions Project
 
 A rich dataset from [Next Space Flight](https://nextspaceflight.com) offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset to answer key questions:
 
@@ -44,7 +44,7 @@ Explore the analysis and findings in the full project [here](https://github.com/
 
 # API Requests 
 
-## Stock Trading
+## Stock Trading Project
 
 This [project](https://github.com/add0794/stock-trading/) uses API requests to text you when a public company's stock significantly increases or decreases (i.e. by more or less than 5%). It can be time-consuming to follow a company's stock value, but you still want to earn a little extra income from investing. By tracking the percentage change, author, title, and content, you'll get changes straight to your phone -- all you need is to read text messages! The data comes from the stock's daily low. Make your investing life easier, and perhaps, stop using a certified financial analyst (CFA) to do the dirty work.
 
@@ -55,3 +55,11 @@ This [project](https://github.com/add0794/stock-trading/) uses API requests to t
 ## Text-to-Morse Code Converter Project
 
 This [project](https://github.com/add0794/text-to-morse-code-converter) uses web scraping to build and verify a text-to-Morse code converter. It leverages Selenium to scrape the Morse code alphabet from [this website](https://morsedecoder.com/) and uses the data to generate a dictionary-based conversion. The program compares this output against a second message created by directly inputting text into the website’s field and retrieving the resulting Morse code. This approach highlights the power of web scraping in automating data collection and testing for accuracy. The project also demonstrates Morse code's historical importance and modern programming applications in verifying message integrity.
+
+---
+
+# Flask Web Development
+
+## Book Library Project
+
+This [project](https://github.com/add0794/flask-sqlalchemy-library) uses flask-sqlalchemy to create a library of your favorite books. You can easily add, edit, and delete at your convenience. By rating your books, you can conduct SQL queries or analyze the library with pandas and matplotlib. Unhappy with the library? Clear the table with ease. Want the library's data? Download it as a JSON file. Having a library has never been easier.

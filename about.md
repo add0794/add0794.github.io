@@ -4,29 +4,23 @@ title: Home
 permalink: /
 ---
 
-# Hello, I'm Alex!
-
 <div class="intro">
   <div class="text">
     <h1>Hello, I'm Alex!</h1>
-    <p>I'm a passionate software developer with a strong background in full-stack web development. I love exploring new technologies and building creative solutions to complex problems.</p>
+    <p>I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. I love exploring how software can be used to make our lives better, in addition to seeing how it changes cultural norms, locally and globally.</p>
   </div>
   <div class="image">
     <img src="intro-img.png" alt="Image not supported">
   </div>
 </div>
 
-<div class="intro-image">
-    <img src="intro-img.png" alt="Image not supported">
-</div>
-
 ## Who Am I?
-
-I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. 
 
 I didn’t start with data science. In fact, I wanted to be an industrial-organizational (IO) psychologist, and my masters is in sustainability management from [Stevens Institute of Technology](https://www.stevens.edu/). (I studied environmental science at [Cornell University](https://www.cornell.edu/).)
 
-I stayed away from programming all through college and until graduate school when I learned R (~6 years). That moment on, I fell in love with IDEs, the command line, git, and all that software development entailed. 
+I've always been driven to achieving [sustainability goals](https://sdgs.un.org/goals). On a service trip to Haiti in 2013, I saw how waste management infrastructure affects the economy and culture. Without dumpsters, garbage trucks, and recycling bins, littering, dumping, and open burning resulted in a vicious cycle of crime; loss of natural beauty; and air, soil, and water pollution. The truth was in the data. Island nations will bear losses of almost [$2.5 billion per year](https://pubmed.ncbi.nlm.nih.gov/31232294/) if we cannot transform the outdated make-take-waste model. I became a lover of garbage, the most visual aspect of sustainability challenges. This experience sparked my passion for sustainability and began my career in data science, where I use data to drive positive change.
+
+Ironically, I stayed away from programming to conduct data analysis. All through college and until graduate school, I did not use any programming languages. But when I learned R (~6 years), I fell in love with R Studio, the command line, git, and all that software development entailed.
 
 ---
 

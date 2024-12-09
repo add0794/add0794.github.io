@@ -7,7 +7,7 @@ permalink: /
 <div class="intro">
   <div class="text">
     <h1>Hello, I'm Alex!</h1>
-    <p>I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. I love exploring how software can be used to make our lives better, in addition to seeing how it changes cultural norms, locally and globally.</p>
+    <p>I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. I love exploring how software can be used to make our lives better, in addition to seeing how it changes cultural norms, locally and globally. You can usually find me at the library learning linear algebra, new machine learning algorithms, or a new programming language.</p>
   </div>
   <div class="image">
     <img src="intro-img.png" alt="Image not supported">
@@ -16,11 +16,11 @@ permalink: /
 
 ## Who Am I?
 
-I didn’t start with data science. In fact, I wanted to be an industrial-organizational (IO) psychologist, and my masters is in sustainability management from [Stevens Institute of Technology](https://www.stevens.edu/). (I studied environmental science at [Cornell University](https://www.cornell.edu/).)
+I didn’t set out to become a data scientist. My journey began at [Cornell University](https://www.cornell.edu/), where I studied organizational behavior (OB) with the goal of becoming an industrial-organizational (IO) psychologist. Yet, my drive to achieve [sustainability goals](https://sdgs.un.org/goals) and my belief in the power of statistics to drive meaningful action ultimately reshaped my path.
 
-I've always been driven to achieving [sustainability goals](https://sdgs.un.org/goals). On a service trip to Haiti in 2013, I saw how waste management infrastructure affects the economy and culture. Without dumpsters, garbage trucks, and recycling bins, littering, dumping, and open burning resulted in a vicious cycle of crime; loss of natural beauty; and air, soil, and water pollution. The truth was in the data. Island nations will bear losses of almost [$2.5 billion per year](https://pubmed.ncbi.nlm.nih.gov/31232294/) if we cannot transform the outdated make-take-waste model. I became a lover of garbage, the most visual aspect of sustainability challenges. This experience sparked my passion for sustainability and began my career in data science, where I use data to drive positive change.
+A service trip to Haiti in 2013 was a turning point. I witnessed firsthand how inadequate waste management infrastructure—no dumpsters, garbage trucks, or recycling bins—creates a vicious cycle: littering, illegal dumping, and open burning lead to crime, environmental degradation, and air, soil, and water pollution. The data was clear: island nations face losses of nearly [$2.5 billion annually](https://pubmed.ncbi.nlm.nih.gov/31232294/) if we fail to overhaul the outdated make-take-waste model. Garbage, the most visible and visceral element of sustainability challenges, became my unlikely passion. This experience ignited my interest in data science and inspired me to earn a master’s degree in sustainability management from [Stevens Institute of Technology](https://www.stevens.edu/).
 
-Ironically, I stayed away from programming to conduct data analysis. All through college and until graduate school, I did not use any programming languages. But when I learned R (~6 years), I fell in love with R Studio, the command line, git, and all that software development entailed.
+I shied away from programming initially. However, that changed when, six years ago, in graduate school, I started using R and SQL for statistical analysis and data management. Tools like R Studio transformed how I approached data, showing me the limitations of Excel for handling multidimensional datasets. Around the same time, I embraced the command line and Git to manage and share projects. A year later, while taking [100 Days of Code](https://www.udemy.com/course/100-days-of-code/?couponCode=24T3MT120924), I transitioned to Python—a shift that expanded my skills and sparked my love for programming. Since then, I’ve deepened my expertise, diving into languages like JavaScript and Go and discovering the endless possibilities software development offers.
 
 ---
 

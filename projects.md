@@ -25,7 +25,7 @@ Explore the analysis and findings in the full project [here](https://github.com/
 
 ## Data Analysis
 
-### Consumer Behavior Trends Project
+### Consumer Shopping Trends Project
 
 The Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Medium-sized products are universally popular across all age groups, and clothing consistently outperforms other categories, while outerwear lags behind. Male customers dominate in purchasing volume, with five states—Alabama, California, Idaho, Illinois, and Montana—leading sales. Promotional codes generally reduce prices but occasionally increase them, as seen with medium-sized outerwear. Despite these variations, sales remain stable across seasons, offering businesses valuable insights for targeted strategies.
 
@@ -61,8 +61,6 @@ Insights from the dataset guide decisions on which sales tactics to prioritize f
 ### Stock Trading Project
 
 This [project](https://github.com/add0794/stock-trading/) uses API requests to text you when a public company's stock significantly increases or decreases (i.e. by more or less than 5%). It can be time-consuming to follow a company's stock value, but you still want to earn a little extra income from investing. By tracking the percentage change, author, title, and content, you'll get changes straight to your phone -- all you need is to read text messages! The data comes from the stock's daily low. Make your investing life easier, and perhaps, stop using a certified financial analyst (CFA) to do the dirty work.
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 ## Web Scraping
 

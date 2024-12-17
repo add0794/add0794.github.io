@@ -74,6 +74,16 @@ This [project](https://github.com/add0794/text-to-morse-code-converter) uses web
 
 This [project](https://github.com/add0794/flask-sqlalchemy-library) uses flask-sqlalchemy to create a library of your favorite books. You can easily add, edit, and delete at your convenience. By rating your books, you can conduct SQL queries or analyze the library with pandas and matplotlib. Unhappy with the library? Clear the table with ease. Want the library's data? Download it as a JSON file. Having a library has never been easier.
 
+---
+
+# Machine Learning (Python)
+
+## Shallow Learning
+
+### Ordinary Least Squares vs. Gradient Descent (Prediction)
+
+This [project](https://github.com/add0794/ordinary-least-squares-gradient-descent) evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD) to develop a regression model for predicting academic performance, the research guides analysts in selecting the most appropriate modeling approach. The analysis additionally explores alternative machine learning techniques like ridge regression (ℓ2 norm), lasso regression (ℓ1 norm), and cross-validation to illuminate the nuanced decision between traditional and machine learning algorithms.
+
 <footer>
     <div class="social-links">
         <a href="https://www.linkedin.com/in/alexdubro/" aria-label="LinkedIn profile">

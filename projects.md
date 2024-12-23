@@ -84,6 +84,14 @@ This [project](https://github.com/add0794/flask-sqlalchemy-library) uses flask-s
 
 This [project](https://github.com/add0794/ordinary-least-squares-gradient-descent) evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD) to develop a regression model for predicting academic performance, the research guides analysts in selecting the most appropriate modeling approach. The analysis additionally explores alternative machine learning techniques like ridge regression (ℓ2 norm), lasso regression (ℓ1 norm), and cross-validation to illuminate the nuanced decision between traditional and machine learning algorithms.
 
+<nav class="main-nav">
+    <ul class="nav-links">
+        <li><a href="/" class="nav-item">Home</a></li>
+        <li><a href="/projects" class="nav-item">Projects</a></li>
+        <li><a href="/publications" class="nav-item">Publications</a></li>
+    </ul>
+</nav>
+
 <footer>
     <div class="social-links">
         <a href="https://www.linkedin.com/in/alexdubro/" aria-label="LinkedIn profile">
@@ -98,6 +106,62 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
     </div>
 
 <style>
+
+/* Main text styles */
+
+
+.main-nav {
+    padding: 20px 0;
+    background-color: #f8f9fa;  /* Light gray background */
+    margin-bottom: 30px;
+}
+.nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 30px;  /* Space between navigation items */
+}
+.nav-item {
+    text-decoration: none;
+    color: #666;  /* Match the text color from your image */
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: color 0.3s ease;
+}
+/* Hover effect */
+.nav-item:hover {
+    color: #1a4b8c;  /* Blue color from your header */
+}
+/* Active state */
+.nav-item.active {
+    color: #1a4b8c;
+}
+/* Underline effect on hover and active */
+.nav-item::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    background-color: #1a4b8c;
+    transition: width 0.3s ease;
+}
+.nav-item:hover::after,
+.nav-item.active::after {
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+
+ .nav-links {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
 /* General styling for the list */
 .social-links {
     display: flex; /* Arrange items horizontally */

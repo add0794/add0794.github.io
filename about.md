@@ -4,13 +4,14 @@ title: Home
 permalink: /
 ---
 
-<nav class="main-nav">
-    <ul class="nav-links">
-        <li><a href="/" class="nav-item">Home</a></li>
-        <li><a href="/projects" class="nav-item">Projects</a></li>
-        <li><a href="/publications" class="nav-item">Publications</a></li>
-    </ul>
-</nav>
+<div class="top-left-container">
+  <input class="search-bar" type="text" placeholder="Search Alex's Portfolio" />
+  <div class="nav-bar">
+    <a href="#home">Home</a>
+    <a href="#projects">Projects</a>
+    <a href="#publications">Publications</a>
+  </div>
+</div>
 
 <div class="intro">
   <div class="text">
@@ -159,39 +160,48 @@ li {
     height: auto;
 }
 
-/* Style for the container holding the search and navigation bars */
-  .top-left-container {
+/* Container for fixed search and navigation bar */
+.top-left-container {
     position: fixed; /* Keeps the element fixed while scrolling */
     top: 0; /* Aligns the container to the top */
     left: 0; /* Aligns the container to the left */
-    background-color: white; /* Optional: Adds background color to improve visibility */
-    padding: 10px; /* Optional: Adds some spacing inside the container */
+    background-color: white; /* Matches page background */
+    padding: 10px; /* Adds some spacing inside the container */
     z-index: 1000; /* Ensures it stays above other elements */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow for separation */
-  }
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
+    width: 100%; /* Takes full width of the page */
+}
 
-  /* Optional: Style for the search bar */
-  .search-bar {
+/* Style for the search bar */
+.search-bar {
     margin-bottom: 10px; /* Adds spacing below the search bar */
     display: block; /* Ensures it takes up the full width of the container */
-  }
+    width: 100%; /* Takes the full width of the container */
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+}
 
-  /* Style for the navigation bar links */
-  .nav-bar {
-    display: flex; /* Aligns the navigation links in a row */
-    gap: 10px; /* Adds space between the navigation links */
-  }
+/* Style for the navigation bar links */
+.nav-bar {
+    display: flex; /* Aligns links in a row */
+    gap: 15px; /* Adds space between links */
+    justify-content: flex-start; /* Aligns links to the left */
+}
 
-  .nav-bar a {
+.nav-bar a {
     text-decoration: none; /* Removes underline from links */
     color: #333; /* Sets link text color */
-    font-weight: bold; /* Makes the text bold */
-  }
+    font-weight: bold; /* Makes text bold */
+    padding: 5px 10px; /* Adds padding for clickable area */
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
 
-  .nav-bar a:hover {
-    color: #0073e6; /* Changes the color when hovering */
-  }
+.nav-bar a:hover {
+    color: white; /* Changes text color on hover */
+    background-color: #0073e6; /* Adds background on hover */
+    border-radius: 4px; /* Rounds corners */
+}
 
+/* Remaining styles from your existing CSS */
 .main-nav {
     padding: 20px 0;
     background-color: #f8f9fa;  /* Light gray background */
@@ -206,42 +216,7 @@ li {
     gap: 30px;  /* Space between navigation items */
 }
 
-.nav-item {
-    text-decoration: none;
-    color: #666;  /* Match the text color from your image */
-    font-size: 18px;
-    font-family: Arial, sans-serif;
-    position: relative;
-    transition: color 0.3s ease;
-}
-
-/* Hover effect */
-.nav-item:hover {
-    color: #1a4b8c;  /* Blue color from your header */
-}
-
-/* Active state */
-.nav-item.active {
-    color: #1a4b8c;
-}
-
-/* Underline effect on hover and active */
-.nav-item::after {
-    content: '';
-    position: absolute;
-    width: 0;
-    height: 2px;
-    bottom: -5px;
-    left: 0;
-    background-color: #1a4b8c;
-    transition: width 0.3s ease;
-}
-
-.nav-item:hover::after,
-.nav-item.active::after {
-    width: 100%;
-}
-
+/* Responsive design for smaller screens */
 @media (max-width: 768px) {
     .intro {
         flex-direction: column;
@@ -263,64 +238,32 @@ li {
     }
 }
 
-/* Styling for the social media */
-.social-links {
-    display: flex;
-    gap: 15px;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.social-links li {
-    display: flex;
-    align-items: center;
-}
-
-.social-links a {
-    text-decoration: none;
-    color: #333;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-}
-
-.social-links a:hover {
-    color: #0073b1;
-}
-
+/* Additional adjustments to avoid conflicts */
 .side-bar {
     display: none !important;
 }
 
-/* Adjust the main content area to take full width */
 .main {
     margin-left: 0 !important;
-    max-width: 1200px !important;  /* Or your preferred max-width */
-    padding: 0 2rem;  /* Add some padding on the sides */
+    max-width: 1200px !important; /* Or your preferred max-width */
+    padding: 0 2rem; /* Add padding on the sides */
 }
 
-/* Ensure header takes full width */
 .main-header {
     width: 100% !important;
 }
 
-/* Adjust the main content container */
 .main-content-wrap {
     padding-top: 2rem !important;
     padding-bottom: 2rem !important;
 }
 
-/* Make sure content takes full width */
 .main-content {
     width: 100% !important;
     margin: 0 !important;
 }
 
-.social-links img {
-    width: 20px;
-    height: 20px;
-    margin-right: 5px;
-}
 </style>
+
 
 </footer>

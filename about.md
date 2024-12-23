@@ -129,21 +129,21 @@ body {
 
 /* Header section with name and title */
 .header-name {
-    color: #228B22;  /* Dark blue for name */
+    color: #2E8B57;  /* Dark blue for name */
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 5px;
 }
 
 .job-title {
-    color: #228B22;  /* Lighter blue for job title */
+    color: #2E8B57;  /* Lighter blue for job title */
     font-size: 20px;
     margin-bottom: 20px;
 }
 
 /* Section headers with blue background */
 .section-header {
-    background-color: #228B22;  /* Dark blue background */
+    background-color: #2E8B57;  /* Dark blue background */
     color: white;
     padding: 8px 15px;
     margin: 25px 0 15px 0;

@@ -5,8 +5,9 @@ permalink: /
 ---
 
 <div class="intro">
-  <div class="header-name">Alex Dubro</div>
-  <div class="job-title">Sustainability Scientist</div>
+  <div class="text">
+    <div class="header-name">Alex Dubro</div>
+    <div class="job-title">Sustainability Scientist</div>
     
     <p>I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. I love exploring how software can be used to make our lives better, in addition to seeing how it changes cultural norms, locally and globally. You can usually find me at the library learning linear algebra, new machine learning algorithms, or a new programming language.</p>
   </div>
@@ -125,6 +126,10 @@ li {
     display: flex;
     align-items: center;
     gap: 30px;
+}
+
+.text {
+    flex: 1;
 }
 
 .image img {

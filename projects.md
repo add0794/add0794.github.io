@@ -104,8 +104,8 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
             <img src="email-icon.png" alt="Email Icon" />
         </a>
     </div>
-
 </footer>
+
 
 <style>
 
@@ -165,6 +165,7 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
     }
 
 /* General styling for the list */
+
 .social-links {
     display: flex; /* Arrange items horizontally */
     gap: 15px; /* Add spacing between items */
@@ -190,8 +191,10 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
 }
 
 .social-links img {
-    width: 20px; /* Set icon width */
-    height: 20px; /* Set icon height */
-    margin-right: 5px; /* Add spacing between icon and text */
+    width: 24px; /* Set icon width */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 8px; /* Add spacing between icon and text */
+    display: block; /* Ensures consistent rendering */
 }
+
 </style>

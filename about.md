@@ -78,6 +78,8 @@ permalink: /
         </a>
     </div>
 
+</footer>
+
 <style>
 /* Main text styles */
 body {
@@ -87,77 +89,7 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
-}
-
-/* Header section with name and title */
-.header-name {
-    color: #1a4b8c;  /* Dark blue for name */
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-
-.job-title {
-    color: #3373cc;  /* Lighter blue for job title */
-    font-size: 20px;
-    margin-bottom: 20px;
-}
-
-/* Contact information */
-.contact-info {
-    color: #666;
-    margin-bottom: 30px;
-}
-
-/* Section headers with blue background */
-.section-header {
-    background-color: #1a4b8c;  /* Dark blue background */
-    color: white;
-    padding: 8px 15px;
-    margin: 25px 0 15px 0;
-    font-size: 18px;
-    font-weight: bold;
-}
-
-/* Content sections */
-.section-content {
-    margin-bottom: 20px;
-    color: #666;  /* Grey color for main text */
-}
-
-/* For the professional profile section */
-.profile-text {
-    font-size: 15px;
-    line-height: 1.6;
-    color: #666;
-    margin-bottom: 25px;
-}
-
-/* List styling */
-ul {
-    margin: 0;
-    padding-left: 20px;
-}
-
-li {
-    color: #666;
-    margin-bottom: 8px;
-}
-
-/* Styling for the intro header and image */
-.intro {
-    display: flex;
-    align-items: center;
-    gap: 30px;
-}
-
-.text {
-    flex: 1;
-}
-
-.image img {
-    max-width: 300px;
-    height: auto;
+    padding-top: 80px; /* Add padding to prevent text overlap by the fixed container */
 }
 
 /* Container for fixed search and navigation bar */
@@ -170,6 +102,7 @@ li {
     z-index: 1000; /* Ensures it stays above other elements */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
     width: 100%; /* Takes full width of the page */
+    box-sizing: border-box; /* Prevents padding from affecting layout width */
 }
 
 /* Style for the search bar */
@@ -201,21 +134,6 @@ li {
     border-radius: 4px; /* Rounds corners */
 }
 
-/* Remaining styles from your existing CSS */
-.main-nav {
-    padding: 20px 0;
-    background-color: #f8f9fa;  /* Light gray background */
-    margin-bottom: 30px;
-}
-
-.nav-links {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 30px;  /* Space between navigation items */
-}
-
 /* Responsive design for smaller screens */
 @media (max-width: 768px) {
     .intro {
@@ -237,33 +155,4 @@ li {
         max-width: 100%;
     }
 }
-
-/* Additional adjustments to avoid conflicts */
-.side-bar {
-    display: none !important;
-}
-
-.main {
-    margin-left: 0 !important;
-    max-width: 1200px !important; /* Or your preferred max-width */
-    padding: 0 2rem; /* Add padding on the sides */
-}
-
-.main-header {
-    width: 100% !important;
-}
-
-.main-content-wrap {
-    padding-top: 2rem !important;
-    padding-bottom: 2rem !important;
-}
-
-.main-content {
-    width: 100% !important;
-    margin: 0 !important;
-}
-
 </style>
-
-
-</footer>

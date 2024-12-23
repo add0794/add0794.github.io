@@ -159,6 +159,39 @@ li {
     height: auto;
 }
 
+/* Style for the container holding the search and navigation bars */
+  .top-left-container {
+    position: fixed; /* Keeps the element fixed while scrolling */
+    top: 0; /* Aligns the container to the top */
+    left: 0; /* Aligns the container to the left */
+    background-color: white; /* Optional: Adds background color to improve visibility */
+    padding: 10px; /* Optional: Adds some spacing inside the container */
+    z-index: 1000; /* Ensures it stays above other elements */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow for separation */
+  }
+
+  /* Optional: Style for the search bar */
+  .search-bar {
+    margin-bottom: 10px; /* Adds spacing below the search bar */
+    display: block; /* Ensures it takes up the full width of the container */
+  }
+
+  /* Style for the navigation bar links */
+  .nav-bar {
+    display: flex; /* Aligns the navigation links in a row */
+    gap: 10px; /* Adds space between the navigation links */
+  }
+
+  .nav-bar a {
+    text-decoration: none; /* Removes underline from links */
+    color: #333; /* Sets link text color */
+    font-weight: bold; /* Makes the text bold */
+  }
+
+  .nav-bar a:hover {
+    color: #0073e6; /* Changes the color when hovering */
+  }
+
 .main-nav {
     padding: 20px 0;
     background-color: #f8f9fa;  /* Light gray background */

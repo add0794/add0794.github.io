@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: default
 title: Home
 permalink: /
----
+--- -->
 
 <nav class="main-nav">
     <ul class="nav-links">

@@ -7,9 +7,10 @@ permalink: /
 <div class="intro">
   <div class="text">
     <div class="header-name">Alex Dubro</div>
-    <div class="job-title">Sustainability Scientist</div>
-    
-    <p>I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. I love exploring how software can be used to make our lives better, in addition to seeing how it changes cultural norms, locally and globally. You can usually find me at the library learning linear algebra, new machine learning algorithms, or a new programming language.</p>
+    <div class="job-title">Sustainability Manager Turned Data Scientist</div>
+    <p>
+    I solve sustainability issues using a mix of passion, domain expertise, and data science. I love exploring how software can be used to make our lives better, whether by <a href="https://www.clearcogs.com/">reducing food waste through predictive models</a>, <a href="https://ampsortation.com/">separating our garbage by computer vision and classifications</a>, or <a href="https://arxiv.org/abs/2409.12427">clustering between countries on their progress toward the United Nations (UN) Sustainable Development Goals (SDGs)</a>. You can usually find me at the library learning linear algebra, trying out a new machine learning algorithm, or exploring a new programming language.
+    </p>
   </div>
   
   <div class="image">
@@ -26,33 +27,28 @@ permalink: /
   I shied away from programming initially. However, that changed when, six years ago, in graduate school, I started using R and SQL for statistical analysis and data management. Tools like R Studio transformed how I approached data, showing me the limitations of Excel for handling multidimensional datasets. Around the same time, I embraced the command line and Git to manage and share projects. A year later, while taking <a href="https://www.udemy.com/course/100-days-of-code/?couponCode=24T3MT120924">100 Days of Code</a>, I transitioned to Python—a shift that expanded my skills and sparked my love for programming. Since then, I’ve deepened my expertise, diving into languages like JavaScript and Go and discovering the endless possibilities software development offers.</p>
 </div>
 
-<div class="section-header">Accomplishments</div>
+<div class="section-header">Significant Achievements</div>
 <div class="section-content">
-  <p>Developed waste diversion recommendations for the <a href="https://www.govisland.com/about the-trust-for-governors-island">Trust for Governors Island</a> by analyzing a 2018 waste audit (Excel).
-  </p>
-  <p>Published a 7-page <a href="https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/">report</a> on sustainability aptitude for Stevens Institute of Technology by developing, disbursing, and analyzing the results of a campus-wide survey in 2020, in addition to recommending best practices for educating students on environmental sustainability (Excel).
-  </p>
-  <p>Published a 10-page report profiling greenhouse gas (GHG) emissions of <a href="https://www.dfamilk.com/">Dairy Farmers of America (DFA)</a> prominent sources, showing viability of achieving its Science-based Target (SBT) in 2020 (R and Markdown).
-  </p>
-  <p>Visualized how well students incorporate sustainability into their engineering capstone design projects, comparing their grades on sustainability assessments against their final grades, and presented results at a <a href="https://strategy.asee.org/assessing-the-sustainability-components-of-href=">peer conference</a> in 2021 (R and Markdown).
-  </p>
-  <p>
-  I make software and data <a href="projects.md">projects</a> for fun, too.
-  </p>
+  <ul>
+    <li>Developed waste diversion recommendations for the <a href="https://www.govisland.com/about the-trust-for-governors-island">Trust for Governors Island</a> by analyzing a 2018 waste audit (Excel).</li>
+    <li>Published a 7-page <a href="https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/">report</a> on sustainability aptitude for Stevens Institute of Technology by developing, disbursing, and analyzing the results of a campus-wide survey in 2020, in addition to recommending best practices for educating students on environmental sustainability (Excel).</li>
+    <li>Published a 10-page report profiling greenhouse gas (GHG) emissions of <a href="https://www.dfamilk.com/">Dairy Farmers of America (DFA)</a> prominent sources, showing viability of achieving its Science-based Target (SBT) in 2020 (R and Markdown).</li>
+    <li>Visualized how well students incorporate sustainability into their engineering capstone design projects, comparing their grades on sustainability assessments against their final grades, and presented results at a <a href="https://strategy.asee.org/assessing-the-sustainability-components-of-href=">peer conference</a> in 2021 (R and Markdown).</li>
+  </ul>
 </div>
 
-<div class="section-header">Tools</div>
+<div class="section-header">Expertise</div>
 <div class="section-content">
 <ul>
-  <li>Programming: Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript</li>
-  <li>Data Science Packages: IPython/Jupyter, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch, Tensorflow</li>
-  <li>No-code Programming: Tableau, Notion, Airtable, Power BI</li>
-  <li>Developer Tools: Zsh, Bash, CLI (Linux), Git, GitHub, Postman, Markdown, LaTeX, Google Colab, Anaconda, Visual Studio Code, PyCharm, Word, Excel, PowerPoint</li>
+  <li><b>Programming</b>: Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript</li>
+  <li><b>Data Science Packages</b>: IPython/Jupyter, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch, Tensorflow</li>
+  <li><b>No-code Programming</b>: Tableau, Notion, Airtable, Power BI</li>
+  <li><b>Developer Tools</b>: Zsh, Bash, CLI (Linux), Git, GitHub, Postman, Markdown, LaTeX, Google Colab, Anaconda, Visual Studio Code, PyCharm, Word, Excel, PowerPoint</li>
 </ul>
 
-<div class="section-header">Anything Else?</div>
+<div class="section-header">Hobbies & Interests</div>
 <div class="section-content">
-  I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it.
+  I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it. I make software and data <a href="projects.md">projects</a> for fun, too.
 </div>
 
 <footer>

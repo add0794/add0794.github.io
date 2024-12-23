@@ -4,6 +4,14 @@ title: Home
 permalink: /
 ---
 
+<nav class="main-nav">
+    <ul class="nav-links">
+        <li><a href="/" class="nav-item">Home</a></li>
+        <li><a href="/projects" class="nav-item">Projects</a></li>
+        <li><a href="/publications" class="nav-item">Publications</a></li>
+    </ul>
+</nav>
+
 <div class="intro">
   <div class="text">
     <div class="header-name">Alex Dubro</div>
@@ -44,54 +52,12 @@ permalink: /
 
 <div class="section-header">Tools</div>
 <div class="section-content">
-<!-- Programming -->
-<h2>Programming</h2>
 <ul>
-    <li>Python</li>
-    <li>SQL/NoSQL</li>
-    <li>HTML/CSS</li>
-    <li>JavaScript/TypeScript</li>
+  <li>Programming: Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript</li>
+  <li>Data Science Packages: IPython/Jupyter, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch, Tensorflow</li>
+  <li>No-code Programming: Tableau, Notion, Airtable, Power BI</li>
+  <li>Developer Tools: Zsh, Bash, CLI (Linux), Git, GitHub, Postman, Markdown, LaTeX, Google Colab, Anaconda, Visual Studio Code, PyCharm, Word, Excel, PowerPoint</li>
 </ul>
-
-<!-- Data science packages -->
-<h2>Data science packages</h2>
-<ul>
-    <li>IPython/Jupyter</li>
-    <li>Pandas</li>
-    <li>NumPy</li>
-    <li>Matplotlib</li>
-    <li>Seaborn</li>
-</ul>
-
-<!-- No-code programming -->
-<h2>No-code programming</h2>
-<ul>
-    <li>Tableau</li>
-    <li>Notion</li>
-    <li>Airtable</li>
-    <li>Power BI</li>
-</ul>
-
-<!-- Developer tools -->
-<h2>Developer tools</h2>
-<ul>
-    <li>Zsh</li>
-    <li>Bash</li>
-    <li>CLI (Linux)</li>
-    <li>Git</li>
-    <li>GitHub</li>
-    <li>Postman</li>
-    <li>Markdown</li>
-    <li>LaTeX</li>
-    <li>Google Colab</li>
-    <li>Anaconda</li>
-    <li>Visual Studio Code</li>
-    <li>PyCharm</li>
-    <li>Word</li>
-    <li>Excel</li>
-    <li>PowerPoint</li>
-</ul>
-</div>
 
 <div class="section-header">Anything Else?</div>
 <div class="section-content">
@@ -193,10 +159,66 @@ li {
     height: auto;
 }
 
+.main-nav {
+    padding: 20px 0;
+    background-color: #f8f9fa;  /* Light gray background */
+    margin-bottom: 30px;
+}
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 30px;  /* Space between navigation items */
+}
+
+.nav-item {
+    text-decoration: none;
+    color: #666;  /* Match the text color from your image */
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+/* Hover effect */
+.nav-item:hover {
+    color: #1a4b8c;  /* Blue color from your header */
+}
+
+/* Active state */
+.nav-item.active {
+    color: #1a4b8c;
+}
+
+/* Underline effect on hover and active */
+.nav-item::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    background-color: #1a4b8c;
+    transition: width 0.3s ease;
+}
+
+.nav-item:hover::after,
+.nav-item.active::after {
+    width: 100%;
+}
+
 @media (max-width: 768px) {
     .intro {
         flex-direction: column;
         align-items: center;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
     }
 
     .text {

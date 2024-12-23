@@ -30,6 +30,8 @@ permalink: /publications-presentations
         </a>
     </div>
 
+</footer>
+
 <style>
 /* General styling for the list */
 .social-links {
@@ -62,5 +64,3 @@ permalink: /publications-presentations
     margin-right: 5px; /* Add spacing between icon and text */
 }
 </style>
-
-</footer>

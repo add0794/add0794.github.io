@@ -105,6 +105,8 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
         </a>
     </div>
 
+</footer>
+
 <style>
 
 /* Main text styles */
@@ -193,5 +195,3 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
     margin-right: 5px; /* Add spacing between icon and text */
 }
 </style>
-
-</footer>

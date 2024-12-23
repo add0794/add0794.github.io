@@ -4,8 +4,18 @@ title: Home
 permalink: /
 ---
 
-<div class="header-name">David Smith</div>
-<div class="job-title">Data Scientist</div>
+<div class="intro">
+  <div class="text">
+    <div class="header-name">Alex Dubro</div>
+    <div class="job-title">Sustainability Scientist</div>
+    
+    <p>I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. I love exploring how software can be used to make our lives better, in addition to seeing how it changes cultural norms, locally and globally. You can usually find me at the library learning linear algebra, new machine learning algorithms, or a new programming language.</p>
+  </div>
+  
+  <div class="image">
+    <img src="intro-img.png" alt="Image not supported">
+  </div>
+</div>
 
 <div class="section-header">Professional Profile</div>
 <div class="profile-text">
@@ -15,16 +25,6 @@ permalink: /
 <div class="section-header">Core Skills</div>
 <div class="section-content">
     <!-- Your skills list here -->
-</div>
-
-<div class="intro">
-  <div class="text">
-    <h1>Hello, I'm Alex!</h1>
-    <p>I'm your stereotypical nerdy data scientist guiding organizations in making sense of their data to make well-informed decisions. I love exploring how software can be used to make our lives better, in addition to seeing how it changes cultural norms, locally and globally. You can usually find me at the library learning linear algebra, new machine learning algorithms, or a new programming language.</p>
-  </div>
-  <div class="image">
-    <img src="intro-img.png" alt="Image not supported">
-  </div>
 </div>
 
 ## Who Am I?

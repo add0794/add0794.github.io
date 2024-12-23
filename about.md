@@ -4,15 +4,6 @@ title: Home
 permalink: /
 ---
 
-<!-- <div class="top-left-container">
-  <input class="search-bar" type="text" placeholder="Search Alex's Portfolio" />
-  <div class="nav-bar">
-    <a href="#home">Home</a>
-    <a href="#projects">Projects</a>
-    <a href="#publications">Publications</a>
-  </div>
-</div> -->
-
 <div class="intro">
   <div class="text">
     <div class="header-name">Alex Dubro</div>

@@ -153,26 +153,6 @@ li {
     height: auto;
 }
 
-/* Container for fixed search and navigation bar */
-.top-left-container {
-    position: fixed; /* Keeps the element fixed while scrolling */
-    top: 0; /* Aligns the container to the top */
-    left: 0; /* Aligns the container to the left */
-    background-color: white; /* Matches page background */
-    padding: 10px; /* Adds some spacing inside the container */
-    z-index: 1000; /* Ensures it stays above other elements */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
-    width: 100%; /* Takes full width of the page */
-}
-
-/* Style for the search bar */
-.search-bar {
-    margin-bottom: 10px; /* Adds spacing below the search bar */
-    display: block; /* Ensures it takes up the full width of the container */
-    width: 100%; /* Takes the full width of the container */
-    box-sizing: border-box; /* Ensures padding doesn't affect width */
-}
-
 /* Responsive design for smaller screens */
 @media (max-width: 768px) {
     .intro {
@@ -190,9 +170,9 @@ li {
 }
 
 /* Additional adjustments to avoid conflicts */
-/* .side-bar {
-    display: none !important;
-} */
+.side-bar {
+    display: !important;
+}
 
 .main {
     margin-left: 0 !important;

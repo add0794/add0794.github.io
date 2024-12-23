@@ -4,6 +4,19 @@ title: Home
 permalink: /
 ---
 
+<div class="header-name">David Smith</div>
+<div class="job-title">Data Scientist</div>
+
+<div class="section-header">Professional Profile</div>
+<div class="profile-text">
+    I didn't set out to become a data scientist...
+</div>
+
+<div class="section-header">Core Skills</div>
+<div class="section-content">
+    <!-- Your skills list here -->
+</div>
+
 <div class="intro">
   <div class="text">
     <h1>Hello, I'm Alex!</h1>
@@ -65,67 +78,131 @@ I love to bike, learn, volunteer, swim, spend time with friends...all of the ner
     </div>
 
 <style>
+/* Main text styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #4A4A4A;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header section with name and title */
+.header-name {
+    color: #1a4b8c;  /* Dark blue for name */
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.job-title {
+    color: #3373cc;  /* Lighter blue for job title */
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Contact information */
+.contact-info {
+    color: #666;
+    margin-bottom: 30px;
+}
+
+/* Section headers with blue background */
+.section-header {
+    background-color: #1a4b8c;  /* Dark blue background */
+    color: white;
+    padding: 8px 15px;
+    margin: 25px 0 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Content sections */
+.section-content {
+    margin-bottom: 20px;
+    color: #666;  /* Grey color for main text */
+}
+
+/* For the professional profile section */
+.profile-text {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #666;
+    margin-bottom: 25px;
+}
+
+/* List styling */
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+li {
+    color: #666;
+    margin-bottom: 8px;
+}
 
 /* Styling for the intro header and image */
 .intro {
-  display: flex;
-  align-items: center;
-  gap: 30px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
 }
 
 .text {
-  flex: 1;
+    flex: 1;
 }
 
 .image img {
-  max-width: 300px;
-  height: auto;
+    max-width: 300px;
+    height: auto;
 }
 
 @media (max-width: 768px) {
-  .intro {
-    flex-direction: column;
-    align-items: center;
-  }
+    .intro {
+        flex-direction: column;
+        align-items: center;
+    }
 
-  .text {
-    text-align: center;
-  }
+    .text {
+        text-align: center;
+    }
 
-  .image img {
-    max-width: 100%;
-  }
+    .image img {
+        max-width: 100%;
+    }
 }
 
 /* Styling for the social media */
 .social-links {
-    display: flex; /* Arrange items horizontally */
-    gap: 15px; /* Add spacing between items */
-    list-style: none; /* Remove bullets */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .social-links li {
-    display: flex; /* Align icon and text */
-    align-items: center; /* Vertically center items */
+    display: flex;
+    align-items: center;
 }
 
 .social-links a {
-    text-decoration: none; /* Remove underline from links */
-    color: #333; /* Default text color */
+    text-decoration: none;
+    color: #333;
     font-family: Arial, sans-serif;
     font-size: 14px;
 }
 
 .social-links a:hover {
-    color: #0073b1; /* Change color on hover */
+    color: #0073b1;
 }
 
 .social-links img {
-    width: 20px; /* Set icon width */
-    height: 20px; /* Set icon height */
-    margin-right: 5px; /* Add spacing between icon and text */
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
 }
 </style>
 

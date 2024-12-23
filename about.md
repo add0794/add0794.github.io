@@ -48,7 +48,7 @@ permalink: /
 
 <div class="section-header">Hobbies & Interests</div>
 <div class="section-content">
-  I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it. I make software and data <a href="projects.md">projects</a> for fun, too.
+  I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it. I make software and data <a href="https://add0794.github.io/projects">projects</a> for fun, too.
 </div>
 
 <footer>
@@ -75,21 +75,21 @@ body {
 
 /* Header section with name and title */
 .header-name {
-    color: #1a4b8c;  /* Dark blue for name */
+    color: #228B22;  /* Dark blue for name */
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 5px;
 }
 
 .job-title {
-    color: #3373cc;  /* Lighter blue for job title */
+    color: #228B22;  /* Lighter blue for job title */
     font-size: 20px;
     margin-bottom: 20px;
 }
 
 /* Section headers with blue background */
 .section-header {
-    background-color: #1a4b8c;  /* Dark blue background */
+    background-color: #228B22;  /* Dark blue background */
     color: white;
     padding: 8px 15px;
     margin: 25px 0 15px 0;

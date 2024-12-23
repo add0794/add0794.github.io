@@ -163,6 +163,7 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
         align-items: center;
         gap: 15px;
     }
+}    
 
 /* General styling for the list */
 
@@ -191,10 +192,9 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
 }
 
 .social-links img {
-    width: 24px; /* Set icon width */
-    height: auto; /* Maintain aspect ratio */
-    margin-right: 8px; /* Add spacing between icon and text */
-    display: block; /* Ensures consistent rendering */
+    width: 20px; /* Set icon width */
+    height: 20px; /* Set icon height */
+    margin-right: 5px; /* Add spacing between icon and text */
 }
 
 </style>

@@ -173,53 +173,11 @@ li {
     box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
 
-/* Style for the navigation bar links */
-.nav-bar {
-    display: flex; /* Aligns links in a row */
-    gap: 15px; /* Adds space between links */
-    justify-content: flex-start; /* Aligns links to the left */
-}
-
-.nav-bar a {
-    text-decoration: none; /* Removes underline from links */
-    color: #333; /* Sets link text color */
-    font-weight: bold; /* Makes text bold */
-    padding: 5px 10px; /* Adds padding for clickable area */
-    transition: color 0.3s ease, background-color 0.3s ease;
-}
-
-.nav-bar a:hover {
-    color: white; /* Changes text color on hover */
-    background-color: #0073e6; /* Adds background on hover */
-    border-radius: 4px; /* Rounds corners */
-}
-
-/* Remaining styles from your existing CSS */
-.main-nav {
-    padding: 20px 0;
-    background-color: #f8f9fa;  /* Light gray background */
-    margin-bottom: 30px;
-}
-
-.nav-links {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 30px;  /* Space between navigation items */
-}
-
 /* Responsive design for smaller screens */
 @media (max-width: 768px) {
     .intro {
         flex-direction: column;
         align-items: center;
-    }
-
-    .nav-links {
-        flex-direction: column;
-        align-items: center;
-        gap: 15px;
     }
 
     .text {
@@ -232,9 +190,9 @@ li {
 }
 
 /* Additional adjustments to avoid conflicts */
-.side-bar {
+/* .side-bar {
     display: none !important;
-}
+} */
 
 .main {
     margin-left: 0 !important;

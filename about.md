@@ -1,5 +1,5 @@
 ---
-# layout: default
+layout: default
 title: Home
 permalink: /
 ---
@@ -253,6 +253,34 @@ li {
 
 .social-links a:hover {
     color: #0073b1;
+}
+
+.side-bar {
+    display: none !important;
+}
+
+/* Adjust the main content area to take full width */
+.main {
+    margin-left: 0 !important;
+    max-width: 1200px !important;  /* Or your preferred max-width */
+    padding: 0 2rem;  /* Add some padding on the sides */
+}
+
+/* Ensure header takes full width */
+.main-header {
+    width: 100% !important;
+}
+
+/* Adjust the main content container */
+.main-content-wrap {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+/* Make sure content takes full width */
+.main-content {
+    width: 100% !important;
+    margin: 0 !important;
 }
 
 .social-links img {

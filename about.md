@@ -85,23 +85,28 @@ body {
     color: #1a4b8c;  /* Dark blue for name */
     font-size: 24px;
     font-weight: bold;
+    margin-bottom: 5px;
 }
 
 .job-title {
     color: #3373cc;  /* Lighter blue for job title */
     font-size: 20px;
+    margin-bottom: 20px;
 }
 
 /* Section headers with blue background */
 .section-header {
     background-color: #1a4b8c;  /* Dark blue background */
     color: white;
+    padding: 8px 15px;
+    margin: 25px 0 15px 0;
     font-size: 18px;
     font-weight: bold;
 }
 
 /* Content sections */
 .section-content {
+    margin-bottom: 20px;
     color: #666;  /* Grey color for main text */
 }
 

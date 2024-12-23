@@ -69,8 +69,6 @@ permalink: /
         </a>
     </div>
 
-</footer>
-
 <style>
 /* Main text styles */
 body {
@@ -169,11 +167,6 @@ li {
     }
 }
 
-/* Additional adjustments to avoid conflicts */
-.side-bar {
-    display: !important;
-}
-
 .main {
     margin-left: 0 !important;
     max-width: 1200px !important; /* Or your preferred max-width */
@@ -226,3 +219,5 @@ li {
 }
 
 </style>
+
+</footer>

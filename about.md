@@ -75,8 +75,6 @@ body {
     font-family: Arial, sans-serif;
     color: #4A4A4A;
     line-height: 1.6;
-    max-width: 900px;
-    margin: 0 auto;
 }
 
 /* Header section with name and title */

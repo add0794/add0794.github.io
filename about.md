@@ -121,17 +121,6 @@ li {
     margin-bottom: 8px;
 }
 
-/* Styling for the intro header and image */
-.intro {
-    display: flex;
-    align-items: center;
-    gap: 30px;
-}
-
-.text {
-    flex: 1;
-}
-
 .image img {
     max-width: 300px;
     height: auto;

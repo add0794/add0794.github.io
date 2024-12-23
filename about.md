@@ -28,7 +28,6 @@ permalink: /
 
 <div class="section-header">Accomplishments</div>
 <div class="section-content">
- <!-- Trust for Governors Island -->
   <p>Developed waste diversion recommendations for the <a href="https://www.govisland.com/about the-trust-for-governors-island">Trust for Governors Island</a> by analyzing a 2018 waste audit (Excel).
   </p>
   <p>Published a 7-page <a href="https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/">report</a> on sustainability aptitude for Stevens Institute of Technology by developing, disbursing, and analyzing the results of a campus-wide survey in 2020, in addition to recommending best practices for educating students on environmental sustainability (Excel).
@@ -68,6 +67,7 @@ permalink: /
             <img src="email-icon.png" alt="Email Icon" />
         </a>
     </div>
+</footer>
 
 <style>
 /* Main text styles */
@@ -94,12 +94,6 @@ body {
     margin-bottom: 20px;
 }
 
-/* Contact information */
-.contact-info {
-    color: #666;
-    margin-bottom: 30px;
-}
-
 /* Section headers with blue background */
 .section-header {
     background-color: #1a4b8c;  /* Dark blue background */
@@ -114,14 +108,6 @@ body {
 .section-content {
     margin-bottom: 20px;
     color: #666;  /* Grey color for main text */
-}
-
-/* For the professional profile section */
-.profile-text {
-    font-size: 15px;
-    line-height: 1.6;
-    color: #666;
-    margin-bottom: 25px;
 }
 
 /* List styling */
@@ -167,26 +153,6 @@ li {
     }
 }
 
-.main {
-    margin-left: 0 !important;
-    max-width: 1200px !important; /* Or your preferred max-width */
-    padding: 0 2rem; /* Add padding on the sides */
-}
-
-.main-header {
-    width: 100% !important;
-}
-
-.main-content-wrap {
-    padding-top: 2rem !important;
-    padding-bottom: 2rem !important;
-}
-
-.main-content {
-    width: 100% !important;
-    margin: 0 !important;
-}
-
 /* General styling for the list */
 .social-links {
     display: flex; /* Arrange items horizontally */
@@ -219,5 +185,3 @@ li {
 }
 
 </style>
-
-</footer>

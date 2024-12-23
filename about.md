@@ -51,6 +51,14 @@ permalink: /
   I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it. I make software and data <a href="https://add0794.github.io/projects">projects</a> for fun, too.
 </div>
 
+<nav class="main-nav">
+    <ul class="nav-links">
+        <li><a href="/" class="nav-item">Home</a></li>
+        <li><a href="/projects" class="nav-item">Projects</a></li>
+        <li><a href="/publications" class="nav-item">Publications</a></li>
+    </ul>
+</nav>
+
 <footer>
     <div class="social-links">
         <a href="https://www.linkedin.com/in/alexdubro/" aria-label="LinkedIn profile">
@@ -67,6 +75,52 @@ permalink: /
 
 <style>
 /* Main text styles */
+
+
+.main-nav {
+    padding: 20px 0;
+    background-color: #f8f9fa;  /* Light gray background */
+    margin-bottom: 30px;
+}
+.nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 30px;  /* Space between navigation items */
+}
+.nav-item {
+    text-decoration: none;
+    color: #666;  /* Match the text color from your image */
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: color 0.3s ease;
+}
+/* Hover effect */
+.nav-item:hover {
+    color: #1a4b8c;  /* Blue color from your header */
+}
+/* Active state */
+.nav-item.active {
+    color: #1a4b8c;
+}
+/* Underline effect on hover and active */
+.nav-item::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    background-color: #1a4b8c;
+    transition: width 0.3s ease;
+}
+.nav-item:hover::after,
+.nav-item.active::after {
+    width: 100%;
+}
+
 body {
     font-family: Arial, sans-serif;
     color: #4A4A4A;
@@ -135,6 +189,12 @@ li {
     .intro {
         flex-direction: column;
         align-items: center;
+    }
+
+ .nav-links {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
     }
 
     .text {

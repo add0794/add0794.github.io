@@ -156,14 +156,14 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
     width: 100%;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
 
  .nav-links {
         flex-direction: column;
         align-items: center;
         gap: 15px;
     }
-}    
+}     */
 
 /* General styling for the list */
 

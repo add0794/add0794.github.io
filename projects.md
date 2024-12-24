@@ -85,11 +85,7 @@ This [project](https://github.com/add0794/flask-sqlalchemy-library) uses flask-s
 This [project](https://github.com/add0794/ordinary-least-squares-gradient-descent) evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD) to develop a regression model for predicting academic performance, the research guides analysts in selecting the most appropriate modeling approach. The analysis additionally explores alternative machine learning techniques like ridge regression (ℓ2 norm), lasso regression (ℓ1 norm), and cross-validation to illuminate the nuanced decision between traditional and machine learning algorithms.
 
 <nav class="main-nav">
-    <ul class="nav-links">
-        <li><a href="/" class="nav-item">Home</a></li>
-        <li><a href="/projects" class="nav-item">Projects</a></li>
-        <li><a href="/publications" class="nav-item">Publications</a></li>
-    </ul>
+  <a href="/" class="nav-item">Go to Home Page</a>
 </nav>
 
 <footer>
@@ -106,24 +102,78 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
     </div>
 </footer>
 
-
 <style>
 
-/* Main text styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #4A4A4A;
+    line-height: 1.6;
+}
 
+/* Header section with name and title */
+.header-name {
+    color: #2E8B57;  /* Dark blue for name */
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.job-title {
+    color: #2E8B57;  /* Lighter blue for job title */
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Section headers with blue background */
+.section-header {
+    background-color: #2E8B57;  /* Dark blue background */
+    color: white;
+    padding: 8px 15px;
+    margin: 25px 0 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Content sections */
+.section-content {
+    margin-bottom: 20px;
+    color: #666;  /* Grey color for main text */
+}
+
+/* List styling */
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+li {
+    color: #666;
+    margin-bottom: 8px;
+}
+
+/* Styling for the intro header and image */
+.intro {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.text {
+    flex: 1;
+}
+
+.image img {
+    max-width: 300px;
+    height: auto;
+}
+
+/* Navigation styling */
 
 .main-nav {
     padding: 20px 0;
-    background-color: #f8f9fa;  /* Light gray background */
     margin-bottom: 30px;
 }
-.nav-links {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 30px;  /* Space between navigation items */
-}
+
 .nav-item {
     text-decoration: none;
     color: #666;  /* Match the text color from your image */
@@ -156,6 +206,37 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
     width: 100%;
 }
 
+/* General styling for the list */
+.social-links {
+    display: flex; /* Arrange items horizontally */
+    gap: 15px; /* Add spacing between items */
+    list-style: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+.social-links li {
+    display: flex; /* Align icon and text */
+    align-items: center; /* Vertically center items */
+}
+
+.social-links a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Default text color */
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.social-links a:hover {
+    color: #0073b1; /* Change color on hover */
+}
+
+.social-links img {
+    width: 20px; /* Set icon width */
+    height: 20px; /* Set icon height */
+    margin-right: 5px; /* Add spacing between icon and text */
+}
+
 /* Remove side and search bars */
 
 #main-header {
@@ -165,7 +246,6 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
 .side-bar {
     display: none;
 }
-
 
 /* Center the main content text */
 .main {
@@ -195,36 +275,26 @@ This [project](https://github.com/add0794/ordinary-least-squares-gradient-descen
     text-align: center; /* Centers the text */
 }
 
-/* General styling for the list */
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .intro {
+        flex-direction: column;
+        align-items: center;
+    }
 
-.social-links {
-    display: flex; /* Arrange items horizontally */
-    gap: 15px; /* Add spacing between items */
-    list-style: none; /* Remove bullets */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
-}
+ .nav-links {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
 
-.social-links li {
-    display: flex; /* Align icon and text */
-    align-items: center; /* Vertically center items */
-}
+    .text {
+        text-align: center;
+    }
 
-.social-links a {
-    text-decoration: none; /* Remove underline from links */
-    color: #333; /* Default text color */
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-}
-
-.social-links a:hover {
-    color: #0073b1; /* Change color on hover */
-}
-
-.social-links img {
-    width: 20px; /* Set icon width */
-    height: 20px; /* Set icon height */
-    margin-right: 5px; /* Add spacing between icon and text */
+    .image img {
+        max-width: 100%;
+    }
 }
 
 </style>

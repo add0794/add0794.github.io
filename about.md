@@ -52,15 +52,13 @@ permalink: /
   </p> 
   <p>I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it. 
   </p>
-  <p>I make software and data projects for fun, too. Check a few samples out by using the navigation bar!
+  <p>I make software and data projects for fun, too. Check a few samples out by clicking "Projects" below!
   </p>
 
 </div>
 
 <nav class="main-nav">
-  <a href="/" class="nav-item">Home</a>
-  <a href="/projects" class="nav-item">Projects</a>
-  <a href="/publications" class="nav-item">Publications</a>
+  <a href="/projects" class="nav-item">Check Out My Projects!</a>
 </nav>
 
 
@@ -79,45 +77,6 @@ permalink: /
 </footer>
 
 <style>
-
-/* Main text styles */
-
-.main-nav {
-    padding: 20px 0;
-    margin-bottom: 30px;
-}
-
-.nav-item {
-    text-decoration: none;
-    color: #666;  /* Match the text color from your image */
-    font-size: 18px;
-    font-family: Arial, sans-serif;
-    position: relative;
-    transition: color 0.3s ease;
-}
-/* Hover effect */
-.nav-item:hover {
-    color: #1a4b8c;  /* Blue color from your header */
-}
-/* Active state */
-.nav-item.active {
-    color: #1a4b8c;
-}
-/* Underline effect on hover and active */
-.nav-item::after {
-    content: '';
-    position: absolute;
-    width: 0;
-    height: 2px;
-    bottom: -5px;
-    left: 0;
-    background-color: #1a4b8c;
-    transition: width 0.3s ease;
-}
-.nav-item:hover::after,
-.nav-item.active::after {
-    width: 100%;
-}
 
 body {
     font-family: Arial, sans-serif;
@@ -182,26 +141,74 @@ li {
     height: auto;
 }
 
-/* Responsive design for smaller screens */
-@media (max-width: 768px) {
-    .intro {
-        flex-direction: column;
-        align-items: center;
-    }
+/* Navigation styling */
 
- .nav-links {
-        flex-direction: column;
-        align-items: center;
-        gap: 15px;
-    }
+.main-nav {
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
 
-    .text {
-        text-align: center;
-    }
+.nav-item {
+    text-decoration: none;
+    color: #666;  /* Match the text color from your image */
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: color 0.3s ease;
+}
+/* Hover effect */
+.nav-item:hover {
+    color: #1a4b8c;  /* Blue color from your header */
+}
+/* Active state */
+.nav-item.active {
+    color: #1a4b8c;
+}
+/* Underline effect on hover and active */
+.nav-item::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    background-color: #1a4b8c;
+    transition: width 0.3s ease;
+}
+.nav-item:hover::after,
+.nav-item.active::after {
+    width: 100%;
+}
 
-    .image img {
-        max-width: 100%;
-    }
+/* General styling for the list */
+.social-links {
+    display: flex; /* Arrange items horizontally */
+    gap: 15px; /* Add spacing between items */
+    list-style: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+.social-links li {
+    display: flex; /* Align icon and text */
+    align-items: center; /* Vertically center items */
+}
+
+.social-links a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Default text color */
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.social-links a:hover {
+    color: #0073b1; /* Change color on hover */
+}
+
+.social-links img {
+    width: 20px; /* Set icon width */
+    height: 20px; /* Set icon height */
+    margin-right: 5px; /* Add spacing between icon and text */
 }
 
 /* Remove side and search bars */
@@ -242,36 +249,26 @@ li {
     text-align: center; /* Centers the text */
 }
 
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .intro {
+        flex-direction: column;
+        align-items: center;
+    }
 
-/* General styling for the list */
-.social-links {
-    display: flex; /* Arrange items horizontally */
-    gap: 15px; /* Add spacing between items */
-    list-style: none; /* Remove bullets */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
-}
+ .nav-links {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
 
-.social-links li {
-    display: flex; /* Align icon and text */
-    align-items: center; /* Vertically center items */
-}
+    .text {
+        text-align: center;
+    }
 
-.social-links a {
-    text-decoration: none; /* Remove underline from links */
-    color: #333; /* Default text color */
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-}
-
-.social-links a:hover {
-    color: #0073b1; /* Change color on hover */
-}
-
-.social-links img {
-    width: 20px; /* Set icon width */
-    height: 20px; /* Set icon height */
-    margin-right: 5px; /* Add spacing between icon and text */
+    .image img {
+        max-width: 100%;
+    }
 }
 
 </style>

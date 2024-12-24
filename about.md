@@ -243,11 +243,7 @@ li {
     margin-right: 5px; /* Add spacing between icon and text */
 }
 
-.search {
-    display: none;
-}
-
-.horizontal-bar {
+#main-header {
     display: none;
 }
 

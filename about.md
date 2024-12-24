@@ -88,11 +88,11 @@ permalink: /
     margin-bottom: 30px;
 }
 .nav-links {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 30px;  /* Space between navigation items */
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding from the list */
+    margin: 0; /* Remove margin from the list */
+    display: flex; /* Arrange items in a row */
+    gap: 20px; /* Add spacing between navigation items */
 }
 .nav-item {
     text-decoration: none;

@@ -48,7 +48,13 @@ permalink: /
 
 <div class="section-header">Hobbies & Interests</div>
 <div class="section-content">
-  I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer. I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it. I make software and data <a href="https://add0794.github.io/projects">projects</a> for fun, too.
+  <p>I love to bike, learn, volunteer, swim, spend time with friends...all of the nerdy stuff you'd expect from someone who likes to play on his computer.
+  </p> 
+  <p>I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it. 
+  </p>
+  <p>I make software and data projects for fun, too. Check a few samples out by using the navigation bar!
+  </p>
+
 </div>
 
 <nav class="main-nav">
@@ -237,6 +243,13 @@ li {
     margin-right: 5px; /* Add spacing between icon and text */
 }
 
-/*  */
+.search-bar {
+    display: none;
+}
+
+/* Hide the sidebar */
+.sidebar {
+    display: none;
+}
 
 </style>

@@ -127,10 +127,14 @@ permalink: /
     width: 100%;
 }
 
+/* Center the main content vertically and horizontally */
 body {
-    font-family: Arial, sans-serif;
-    color: #4A4A4A;
-    line-height: 1.6;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Ensure the body takes full height of the viewport */
+    margin: 0; /* Remove default margin */
+    background-color: #f8f9fa; /* Optional: Light background for better aesthetics */
 }
 
 /* Header section with name and title */
@@ -255,25 +259,20 @@ li {
     display: none;
 }
 
-/* Adjust line spacing for a more compact look */
+/* Main content styles */
+.main {
+    max-width: 800px !important; /* Reduce width for a tighter layout */
+    padding: 2rem; /* Add some padding around the content */
+    background-color: white; /* Optional: Add background to highlight content */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    border-radius: 8px; /* Optional: Rounded corners */
+    text-align: center; /* Center the text */
+}
+
+/* Adjust line spacing for compact layout */
 .main p, .main-content p {
     line-height: 1.4 !important; /* Reduce line spacing */
     margin-bottom: 0.8rem !important; /* Reduce bottom margin between paragraphs */
-}
-
-/* Adjust the main content container */
-.main-content-wrap {
-    padding-top: 1.5rem !important; /* Reduce top padding */
-    padding-bottom: 1.5rem !important; /* Reduce bottom padding */
-    text-align: center; /* Center text within content wrap */
-}
-
-/* Make sure content takes full width */
-.main-content {
-    width: 100% !important;
-    margin: 0 auto !important; /* Centers content within its container */
-    text-align: center; /* Centers the text */
-    padding: 0 1rem; /* Add smaller padding */
 }
 
 /* Ensure header takes full width */

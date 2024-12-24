@@ -58,11 +58,9 @@ permalink: /
 </div>
 
 <nav class="main-nav">
-    <ul class="nav-links">
-        <li><a href="/" class="nav-item">Home</a></li>
-        <li><a href="/projects" class="nav-item">Projects</a></li>
-        <li><a href="/publications" class="nav-item">Publications</a></li>
-    </ul>
+  <a href="/" class="nav-item">Home</a>
+  <a href="/projects" class="nav-item">Projects</a>
+  <a href="/publications" class="nav-item">Publications</a>
 </nav>
 
 <footer>
@@ -87,13 +85,7 @@ permalink: /
     padding: 20px 0;
     margin-bottom: 30px;
 }
-.nav-links {
-    list-style-type: none; /* Remove bullets */
-    padding: 0; /* Remove padding from the list */
-    margin: 0; /* Remove margin from the list */
-    display: flex; /* Arrange items in a row */
-    gap: 20px; /* Add spacing between navigation items */
-}
+
 .nav-item {
     text-decoration: none;
     color: #666;  /* Match the text color from your image */

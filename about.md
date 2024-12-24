@@ -85,7 +85,6 @@ permalink: /
 
 .main-nav {
     padding: 20px 0;
-    background-color: #f8f9fa;  /* Light gray background */
     margin-bottom: 30px;
 }
 .nav-links {

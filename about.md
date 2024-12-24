@@ -58,10 +58,13 @@ permalink: /
 </div>
 
 <nav class="main-nav">
-  <a href="/" class="nav-item">Home</a>
-  <a href="/projects" class="nav-item">Projects</a>
-  <a href="/publications" class="nav-item">Publications</a>
+  <div class="nav-links">
+      <a href="/" class="nav-item">Home</a>
+      <a href="/projects" class="nav-item">Projects</a>
+      <a href="/publications" class="nav-item">Publications</a>
+  </div>
 </nav>
+
 
 <footer>
     <div class="social-links">
@@ -86,18 +89,29 @@ permalink: /
     margin-bottom: 30px;
 }
 
+/* Remove default styles for nav-links */
+.nav-links {
+    display: flex; /* Arrange links horizontally */
+    justify-content: space-between; /* Space links evenly */
+    gap: 20px; /* Add spacing between links */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+/* Style individual links */
 .nav-item {
-    text-decoration: none;
-    color: #666;  /* Match the text color from your image */
-    font-size: 18px;
+    text-decoration: none; /* Remove underline */
+    color: #000; /* Default black text color */
+    font-size: 18px; /* Adjust font size */
     font-family: Arial, sans-serif;
-    position: relative;
-    transition: color 0.3s ease;
+    transition: color 0.3s ease; /* Smooth hover effect */
 }
-/* Hover effect */
+
+/* Add hover effect */
 .nav-item:hover {
-    color: #1a4b8c;  /* Blue color from your header */
+    color: #1a4b8c; /* Blue color on hover */
 }
+
 /* Active state */
 .nav-item.active {
     color: #1a4b8c;

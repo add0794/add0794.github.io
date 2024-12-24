@@ -243,13 +243,11 @@ li {
     margin-right: 5px; /* Add spacing between icon and text */
 }
 
-.search-bar {
+/* Target input fields within a header or nav */
+header input[type="search"], 
+nav input[type="search"] {
     display: none;
 }
 
-/* Hide the sidebar */
-.side-bar {
-    display: none;
-}
 
 </style>

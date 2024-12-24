@@ -248,7 +248,7 @@ li {
 }
 
 /* Hide the sidebar */
-.sidebar {
+.side-bar {
     display: none;
 }
 

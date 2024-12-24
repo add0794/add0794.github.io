@@ -57,12 +57,10 @@ permalink: /
 
 </div>
 
-<nav class="main-nav">
-    <ul class="nav-links">
-        <li><a href="/" class="nav-item">Home</a></li>
-        <li><a href="/projects" class="nav-item">Projects</a></li>
-        <li><a href="/publications" class="nav-item">Publications</a></li>
-    </ul>
+<nav class="main-nav nav-links">
+  <a href="/" class="nav-item">Home</a>
+  <a href="/projects" class="nav-item">Projects</a>
+  <a href="/publications" class="nav-item">Publications</a>
 </nav>
 
 
@@ -81,12 +79,11 @@ permalink: /
 </footer>
 
 <style>
-  
+
 /* Main text styles */
 
 .main-nav {
     padding: 20px 0;
-    background-color: #f8f9fa;  /* Light gray background */
     margin-bottom: 30px;
 }
 .nav-links {

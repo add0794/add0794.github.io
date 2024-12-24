@@ -255,31 +255,4 @@ li {
     display: none;
 }
 
-/* Adjust line spacing for a more compact look */
-.main p, .main-content p {
-    line-height: 1.4 !important; /* Reduce line spacing */
-    margin-bottom: 0.8rem !important; /* Reduce bottom margin between paragraphs */
-}
-
-/* Adjust the main content container */
-.main-content-wrap {
-    padding-top: 1.5rem !important; /* Reduce top padding */
-    padding-bottom: 1.5rem !important; /* Reduce bottom padding */
-    text-align: center; /* Center text within content wrap */
-}
-
-/* Make sure content takes full width */
-.main-content {
-    width: 100% !important;
-    margin: 0 auto !important; /* Centers content within its container */
-    text-align: center; /* Centers the text */
-    padding: 0 1rem; /* Add smaller padding */
-}
-
-/* Ensure header takes full width */
-.main-header {
-    width: 100% !important;
-    margin-bottom: 1rem !important; /* Reduce space below the header */
-}
-
 </style>

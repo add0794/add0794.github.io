@@ -243,33 +243,35 @@ li {
     margin-right: 5px; /* Add spacing between icon and text */
 }
 
-.search {
-    display: none;
-}
-
-/* Hide the sidebar */
-.side-bar {
+.search .horizontal-bar .side-bar {
     display: none;
 }
 
 .main {
-    margin-left: 0 !important;
+    margin-left: auto !important; /* Centers horizontally */
+    margin-right: auto !important; /* Centers horizontally */
     max-width: 1200px !important;  /* Or your preferred max-width */
     padding: 0 2rem;  /* Add some padding on the sides */
+    text-align: center; /* Centers the text */
 }
+
 /* Ensure header takes full width */
 .main-header {
     width: 100% !important;
 }
+
 /* Adjust the main content container */
 .main-content-wrap {
     padding-top: 2rem !important;
     padding-bottom: 2rem !important;
+    text-align: center; /* Center text within content wrap */
 }
+
 /* Make sure content takes full width */
 .main-content {
     width: 100% !important;
-    margin: 0 !important;
+    margin: 0 auto !important; /* Centers content within its container */
+    text-align: center; /* Centers the text */
 }
 
 </style>

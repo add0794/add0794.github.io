@@ -58,11 +58,11 @@ permalink: /
 </div>
 
 <nav class="main-nav">
-  <div class="nav-links">
-      <a href="/" class="nav-item">Home</a>
-      <a href="/projects" class="nav-item">Projects</a>
-      <a href="/publications" class="nav-item">Publications</a>
-  </div>
+    <ul class="nav-links">
+        <li><a href="/" class="nav-item">Home</a></li>
+        <li><a href="/projects" class="nav-item">Projects</a></li>
+        <li><a href="/publications" class="nav-item">Publications</a></li>
+    </ul>
 </nav>
 
 
@@ -81,37 +81,33 @@ permalink: /
 </footer>
 
 <style>
+  
 /* Main text styles */
-
 
 .main-nav {
     padding: 20px 0;
+    background-color: #f8f9fa;  /* Light gray background */
     margin-bottom: 30px;
 }
-
-/* Remove default styles for nav-links */
 .nav-links {
-    display: flex; /* Arrange links horizontally */
-    justify-content: space-between; /* Space links evenly */
-    gap: 20px; /* Add spacing between links */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 30px;  /* Space between navigation items */
 }
-
-/* Style individual links */
 .nav-item {
-    text-decoration: none; /* Remove underline */
-    color: #000; /* Default black text color */
-    font-size: 18px; /* Adjust font size */
+    text-decoration: none;
+    color: #666;  /* Match the text color from your image */
+    font-size: 18px;
     font-family: Arial, sans-serif;
-    transition: color 0.3s ease; /* Smooth hover effect */
+    position: relative;
+    transition: color 0.3s ease;
 }
-
-/* Add hover effect */
+/* Hover effect */
 .nav-item:hover {
-    color: #1a4b8c; /* Blue color on hover */
+    color: #1a4b8c;  /* Blue color from your header */
 }
-
 /* Active state */
 .nav-item.active {
     color: #1a4b8c;

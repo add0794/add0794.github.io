@@ -57,7 +57,7 @@ permalink: /
 
 </div>
 
-<nav class="main-nav nav-links">
+<nav class="main-nav">
   <a href="/" class="nav-item">Home</a>
   <a href="/projects" class="nav-item">Projects</a>
   <a href="/publications" class="nav-item">Publications</a>
@@ -86,13 +86,7 @@ permalink: /
     padding: 20px 0;
     margin-bottom: 30px;
 }
-.nav-links {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 30px;  /* Space between navigation items */
-}
+
 .nav-item {
     text-decoration: none;
     color: #666;  /* Match the text color from your image */
@@ -210,6 +204,45 @@ li {
     }
 }
 
+/* Remove side and search bars */
+
+#main-header {
+    display: none;
+}
+
+.side-bar {
+    display: none;
+}
+
+/* Center the main content text */
+.main {
+    margin-left: auto !important; /* Centers horizontally */
+    margin-right: auto !important; /* Centers horizontally */
+    max-width: 1200px !important;  /* Or your preferred max-width */
+    padding: 0 2rem;  /* Add some padding on the sides */
+    text-align: center; /* Centers the text */
+}
+
+/* Ensure header takes full width */
+.main-header {
+    width: 100% !important;
+}
+
+/* Adjust the main content container */
+.main-content-wrap {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+    text-align: center; /* Center text within content wrap */
+}
+
+/* Make sure content takes full width */
+.main-content {
+    width: 100% !important;
+    margin: 0 auto !important; /* Centers content within its container */
+    text-align: center; /* Centers the text */
+}
+
+
 /* General styling for the list */
 .social-links {
     display: flex; /* Arrange items horizontally */
@@ -239,43 +272,6 @@ li {
     width: 20px; /* Set icon width */
     height: 20px; /* Set icon height */
     margin-right: 5px; /* Add spacing between icon and text */
-}
-
-#main-header {
-    display: none;
-}
-
-.side-bar {
-    display: none;
-}
-
-
-/* Center the main content text */
-.main {
-    margin-left: auto !important; /* Centers horizontally */
-    margin-right: auto !important; /* Centers horizontally */
-    max-width: 1200px !important;  /* Or your preferred max-width */
-    padding: 0 2rem;  /* Add some padding on the sides */
-    text-align: center; /* Centers the text */
-}
-
-/* Ensure header takes full width */
-.main-header {
-    width: 100% !important;
-}
-
-/* Adjust the main content container */
-.main-content-wrap {
-    padding-top: 2rem !important;
-    padding-bottom: 2rem !important;
-    text-align: center; /* Center text within content wrap */
-}
-
-/* Make sure content takes full width */
-.main-content {
-    width: 100% !important;
-    margin: 0 auto !important; /* Centers content within its container */
-    text-align: center; /* Centers the text */
 }
 
 </style>

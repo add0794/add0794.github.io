@@ -29,22 +29,19 @@ permalink: /
 
 <div class="section-header">Significant Achievements</div>
 <div class="section-content">
-  <ul>
-    <li>Developed waste diversion recommendations for the <a href="https://www.govisland.com/about the-trust-for-governors-island">Trust for Governors Island</a> by analyzing a 2018 waste audit (Excel).</li>
-    <li>Published a 7-page <a href="https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/">report</a> on sustainability aptitude for Stevens Institute of Technology by developing, disbursing, and analyzing the results of a campus-wide survey in 2020, in addition to recommending best practices for educating students on environmental sustainability (Excel).</li>
-    <li>Published a 10-page report profiling greenhouse gas (GHG) emissions of <a href="https://www.dfamilk.com/">Dairy Farmers of America (DFA)</a> prominent sources, showing viability of achieving its Science-based Target (SBT) in 2020 (R and Markdown).</li>
-    <li>Visualized how well students incorporate sustainability into their engineering capstone design projects, comparing their grades on sustainability assessments against their final grades, and presented results at a <a href="https://strategy.asee.org/assessing-the-sustainability-components-of-href=">peer conference</a> in 2021 (R and Markdown).</li>
-  </ul>
+  <p>Developed waste diversion recommendations for the <a href="https://www.govisland.com/about the-trust-for-governors-island">Trust for Governors Island</a> by analyzing a 2018 waste audit (Excel).</p>
+  <p>Published a 7-page <a href="https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/">report</a> on sustainability aptitude for Stevens Institute of Technology by developing, disbursing, and analyzing the results of a campus-wide survey in 2020, in addition to recommending best practices for educating students on environmental sustainability (Excel).</p>
+  <p>Published a 10-page report profiling greenhouse gas (GHG) emissions of <a href="https://www.dfamilk.com/">Dairy Farmers of America (DFA)</a> prominent sources, showing viability of achieving its Science-based Target (SBT) in 2020 (R and Markdown).</p>
+  <p>Visualized how well students incorporate sustainability into their engineering capstone design projects, comparing their grades on sustainability assessments against their final grades, and presented results at a <a href="https://strategy.asee.org/assessing-the-sustainability-components-of-href=">peer conference</a> in 2021 (R and Markdown).</p>
 </div>
 
 <div class="section-header">Expertise</div>
 <div class="section-content">
-<ul>
-  <li><b>Programming</b>: Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript</li>
-  <li><b>Data Science Packages</b>: IPython/Jupyter, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch, Tensorflow</li>
-  <li><b>No-code Programming</b>: Tableau, Notion, Airtable, Power BI</li>
-  <li><b>Developer Tools</b>: Zsh, Bash, CLI (Linux), Git, GitHub, Postman, Markdown, LaTeX, Google Colab, Anaconda, Visual Studio Code, PyCharm, Word, Excel, PowerPoint</li>
-</ul>
+  <p><b>Programming</b>: Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript</p>
+  <p><b>Data Science Packages</b>: IPython/Jupyter, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch, Tensorflow</p>
+  <p><b>No-code Programming</b>: Tableau, Notion, Airtable, Power BI</p>
+  <p><b>Developer Tools</b>: Zsh, Bash, CLI (Linux), Git, GitHub, Postman, Markdown, LaTeX, Google Colab, Anaconda, Visual Studio Code, PyCharm, Word, Excel, PowerPoint</p>
+</div>
 
 <div class="section-header">Hobbies & Interests</div>
 <div class="section-content">

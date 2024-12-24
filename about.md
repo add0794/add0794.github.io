@@ -243,7 +243,7 @@ li {
     margin-right: 5px; /* Add spacing between icon and text */
 }
 
-.search-bar {
+.search {
     display: none;
 }
 

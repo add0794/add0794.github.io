@@ -4,13 +4,13 @@ title: Projects
 permalink: /projects
 ---
 
-# Excel
+# No-code Tools
 
-## Data Analysis
+## Excel
 
 ### Space Missions Project
 
-A rich dataset from [Next Space Flight](https://nextspaceflight.com) offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset to answer key questions:
+A rich dataset from [Next Space Flight](https://nextspaceflight.com) offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset *using Excel (!)* to answer key questions:
 
 - **Top Launchers**: Who launched the most missions in any given year?  
 - **Cost Trends**: How has the cost of a space mission varied over time?  
@@ -19,23 +19,25 @@ A rich dataset from [Next Space Flight](https://nextspaceflight.com) offers valu
 
 Explore the analysis and findings in the full project [here](https://github.com/add0794/space_race/blob/8a1ebe36f9c88862b1bd0f89841e1685f2bf2cf5/README.md).
 
----
-
-# Tableau (VizQL)
-
-## Data Analysis
+## Tableau (VizQL)
 
 ### Consumer Shopping Trends Project
 
-The Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Medium-sized products are universally popular across all age groups, and clothing consistently outperforms other categories, while outerwear lags behind. Male customers dominate in purchasing volume, with five states—Alabama, California, Idaho, Illinois, and Montana—leading sales. Promotional codes generally reduce prices but occasionally increase them, as seen with medium-sized outerwear. Despite these variations, sales remain stable across seasons, offering businesses valuable insights for targeted strategies.
+A Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Key findings include:
+- Men outspend women.
+- Medium-size clothing is preferred age group.
+- Clothing leads product categories.
+- AL, CA, ID, IL, MT lead in state sales.
+- Promo code has a *mixed* impact on average price.
+- Seasonal sales is consistent.
 
-Explore the analysis and findings in the full project [here](https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/ConsumerBehavior?publish=yes).
+Explore the analysis and findings in the full project [here](https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/Story1?publish=yes).
 
 ---
 
-# Python 
+# Programming Tools
 
-## Data Analysis
+## Business Analytics
 
 ### Pet Sales Project
 
@@ -56,21 +58,19 @@ Pens and Partners plans to launch a new product line and seeks to evaluate the e
 
 Insights from the dataset guide decisions on which sales tactics to prioritize for maximum impact. Full project details are available [here](https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md).
 
-## API Requests 
+---
 
-### Stock Trading Project
+## General Programming
+
+### Stock Trading Project (API Requests)
 
 This [project](https://github.com/add0794/stock-trading/) uses API requests to text you when a public company's stock significantly increases or decreases (i.e. by more or less than 5%). It can be time-consuming to follow a company's stock value, but you still want to earn a little extra income from investing. By tracking the percentage change, author, title, and content, you'll get changes straight to your phone -- all you need is to read text messages! The data comes from the stock's daily low. Make your investing life easier, and perhaps, stop using a certified financial analyst (CFA) to do the dirty work.
 
-## Web Scraping
+### Testing International Morse Code Translator Project (Web Scraping)
 
-### Text-to-Morse Code Converter Project
+This [project](https://github.com/add0794/Testing-International-Morse-Code-Translator/tree/main) uses web scraping to test the accuracy of an [International Morse Code translator](https://morsecodetranslator.com/). By leveraging Beautiful Soup, it creates a Pandas DataFrame that translates English to [Morse Code](https://www.hobby-hour.com/electronics/morse_code.php#google_vignette). Selenium automates inputting text into the translator and verifies its output by cross-checking it against the custom Morse code alphabet. The project highlights the effectiveness of web scraping, automation, and data validation in testing online tools, while showcasing Morse code’s historical relevance and modern applications in ensuring message integrity.
 
-This [project](https://github.com/add0794/text-to-morse-code-converter) uses web scraping to build and verify a text-to-Morse code converter. It leverages Selenium to scrape the Morse code alphabet from [this website](https://morsedecoder.com/) and uses the data to generate a dictionary-based conversion. The program compares this output against a second message created by directly inputting text into the website’s field and retrieving the resulting Morse code. This approach highlights the power of web scraping in automating data collection and testing for accuracy. The project also demonstrates Morse code's historical importance and modern programming applications in verifying message integrity.
-
-## Flask Web Development
-
-### Book Library Project
+### Book Library Project (Flask Web Development)
 
 This [project](https://github.com/add0794/flask-sqlalchemy-library) uses flask-sqlalchemy to create a library of your favorite books. You can easily add, edit, and delete at your convenience. By rating your books, you can conduct SQL queries or analyze the library with pandas and matplotlib. Unhappy with the library? Clear the table with ease. Want the library's data? Download it as a JSON file. Having a library has never been easier.
 

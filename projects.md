@@ -72,7 +72,7 @@ This [project](https://github.com/add0794/Testing-International-Morse-Code-Trans
 
 ### Book Library Project (Flask Web Development)
 
-This [project](https://github.com/add0794/flask-sqlalchemy-library) uses flask-sqlalchemy to create a library of your favorite books. You can easily add, edit, and delete at your convenience. By rating your books, you can conduct SQL queries or analyze the library with pandas and matplotlib. Unhappy with the library? Clear the table with ease. Want the library's data? Download it as a JSON file. Having a library has never been easier.
+This [project](https://github.com/add0794/flask-sqlalchemy-library) leverages Flask-SQLAlchemy with SQLite to help you manage a personalized library of your favorite books. Rate your books from 1 to 10 and effortlessly add, edit, or delete entries. Use Pandas to perform SQL queries and generate tables tailored to your inputs. Ready for a reset? Clear the library in one simple step. Need a backup? Export your collection as a JSON file. Managing your book collection has never been more intuitive.
 
 ---
 

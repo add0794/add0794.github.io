@@ -4,6 +4,30 @@ title: Projects
 permalink: /projects
 ---
 
+<!-- Projects
+- Business Analytics - DONE [12/24/24]
+    - Pet Sales - DONE [12/24/24]
+	⁃ Product Sales - DONE [12/24/24]
+- Data Analysis - DONE [12/24/24]
+	⁃ Excel - DONE [12/24/24]
+	⁃ Tableau - DONE [12/24/24]
+- General Programming - 
+	⁃ Morse Code Translator (beautiful soup, selenium) - DONE [12/24/24]
+	⁃ Book Library Project (flask-sqlalchemy, flask) - DONE [12/24/24]
+	⁃ Stock Trading (json, API requests) - REVIEW RESULTS
+- Machine Learning/Data Science
+	⁃ OLS vs. Gradient Descent - THEORETICAL => NEEDS TO BE COMPLETED
+	⁃ sustainability? => waste management, sustainability in business
+	⁃ k nearest neighbors? PyTorch? -->
+
+<!-- Schedule:
+Wednesday: 
+Thursday: Review Stock Trading, Complete OLS/GD project
+Friday: Complete KNN project, start DS sustainability project
+Saturday: Complete DS sustainability project, update resume  --->
+
+On this page, you will find an amalgamation of independent projects that reflect my interest in programming, business analytics, and machine learning. 
+
 # No-code Tools
 
 ## Excel
@@ -83,6 +107,10 @@ This [project](https://github.com/add0794/flask-sqlalchemy-library) leverages Fl
 ### Ordinary Least Squares vs. Gradient Descent (Prediction)
 
 This [project](https://github.com/add0794/ordinary-least-squares-gradient-descent) evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD) to develop a regression model for predicting academic performance, the research guides analysts in selecting the most appropriate modeling approach. The analysis additionally explores alternative machine learning techniques like ridge regression (ℓ2 norm), lasso regression (ℓ1 norm), and cross-validation to illuminate the nuanced decision between traditional and machine learning algorithms.
+
+### Predicting Breast Cancer with K-Nearest Neighbors (KNN)
+
+This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main) aims to make predicting breast cancer easier. Unlike a typical approach to choosing for the $k$ in K-nearest neighbors, the hyperparameter is derived by finding the $k$ with the smallest difference in accuracy (and F1 score!) between the training and test set. Not surprisingly, that value is equal to the one derived by cross validation. KNN is then used to predict future values, and an evaluation (e.g. precision, recall, confusion matrix) is done.
 
 <nav class="main-nav">
   <a href="/" class="nav-item">Go to Home Page</a>

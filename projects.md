@@ -238,6 +238,16 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
     color: #000; /* Black text */
 }
 
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+/* Example for the text size */
+p {
+  font-size: 1rem; /* Adjust this as needed */
+  line-height: 1.5; /* Improves readability */
+}
 
 /* Navigation styling */
 

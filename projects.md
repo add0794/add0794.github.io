@@ -204,33 +204,25 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 
 /* Split text into left and right containers, with left scrolling */
 .split-container {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2rem 1rem;
-    height: 100vh; /* Full viewport height */
-    overflow: visible; /* Prevent container scrolling */
+  display: flex; /* Ensure sections are side by side */
+  flex-direction: row; /* Aligns children horizontally */
+  margin: 0;
+  padding: 0;
 }
 
 .left-section {
-    property: sticky;
-    top: 0;
-    flex: 1;
-    padding-right: 1rem;
-    font-size: 1rem;
-    color: #555;
-    overflow-y: auto; /* Enable scrolling for left section */
-    height: 100%; /* Take full height of container */
+  position: sticky; /* Makes the left section stick to the top of the viewport */
+  top: 0; /* Adjust to account for any header if needed */
+  height: 100vh; /* Makes it span the full height of the viewport */
+  overflow-y: auto; /* Adds a scrollbar if content overflows */
+  flex: 1; /* Allows it to take proportional width in a flex container */
+  padding-right: 1rem; /* Adds space between the left and right sections */
+  font-size: 1rem; /* Sets a readable font size */
+  color: #555; /* Neutral color for text */
 }
 
 .right-section {
-    flex: 2;
-    text-align: center;
-    font-size: 2rem;
-    color: #000;
-    /* No overflow or scroll properties */
+  flex: 2; /* Allows the right section to take more space */
 }
 
 /* Text size for paragraphs */

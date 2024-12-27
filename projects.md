@@ -49,7 +49,7 @@ Saturday: Complete DS sustainability project, update resume  --->
                 <p>Medium-size clothing is preferred by most age groups.</p>
                 <p>Clothing leads product categories.</p>
                 <p>AL, CA, ID, IL, MT lead in state sales.</p>
-                <>Promo codes have a <em>mixed</em> impact on average price.</p>
+                <p>Promo codes have a <em>mixed</em> impact on average price.</p>
                 <p>Seasonal sales are consistent.</p>
             <p>Explore the analysis and findings in the full project <a href="https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/Story1?publish=yes" target="_blank">here</a>.</p>
 
@@ -202,43 +202,34 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 
 <style>
 
-/* Split the text into two sides. */
+/* Split text into left and right containers, with left scrolling */
 .split-container {
     display: flex;
-    justify-content: space-between; /* Creates space between left and right sections */
-    flex-direction: row; /* Aligns children horizontally */
-
-    align-items: center; /* Vertically aligns items to the center */
-    max-width: 1200px; /* Adjust based on your page width */
-    margin: 0 auto; /* Centers the container on the page */
-    padding: 2rem 1rem; /* Adds padding around the container */
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start; /* Changed from center to allow natural flow */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
 }
 
 .left-section {
-  position: sticky; /* Makes the left section stick to the top of the viewport */
-  top: 0; /* Adjust to account for any header if needed */
-  height: 100vh; /* Makes it span the full height of the viewport */
-  overflow-y: auto; /* Adds a scrollbar if content overflows */
-  flex: 1; /* Allows it to take proportional width in a flex container */
-  padding-right: 1rem; /* Adds space between the left and right sections */
-  font-size: 1rem; /* Sets a readable font size */
-  color: #555; /* Neutral color for text */
+    /* Removed position: sticky to allow natural scrolling */
+    flex: 1;
+    padding-right: 1rem;
+    font-size: 1rem;
+    color: #555;
 }
 
 .right-section {
-    flex: 2; /* Allows the right section to take more space */
-    text-align: center; /* Centers the content inside this section */
-    font-size: 2rem; /* Adjust the font size for the header */
-    color: #000; /* Black text */
+    flex: 2;
+    text-align: center;
+    font-size: 2rem;
+    color: #000;
 }
 
-/* Example for the text size */
+/* Text size for paragraphs */
 p {
-  font-size: 1rem; /* Adjust this as needed */
-  line-height: 1.5; /* Improves readability */
-}
-
-ul {
   font-size: 1rem; /* Adjust this as needed */
   line-height: 1.5; /* Improves readability */
 }

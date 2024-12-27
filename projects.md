@@ -17,81 +17,92 @@ permalink: /projects
 	⁃ Stock Trading (json, API requests) - REVIEW RESULTS
 - Machine Learning/Data Science
 	⁃ OLS vs. Gradient Descent - THEORETICAL => NEEDS TO BE COMPLETED
-	⁃ sustainability? => waste management, sustainability in business
+	⁃ sustainability? => https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment
 	⁃ KNN Breast Cancer => NEEDS TO BE REVIEWED (review jupyter notebook; add OOP version)
     - Neural Networks? PyTorch? -->
 
+<!-- Finish stats course: 
+    - sections 14, 11, 15 (what about sections 12-13?)
+    ⁃ start doing the coding for the course
+⁃	start the statistics book
+	⁃	briefly review linear algebra (will have to finish course at some point)
+-	Complete online course: feature engineering and cross validation (sections 11-12) -->
+
 <!-- Schedule:
-Thursday: Review Stock Trading, Complete OLS/GD project
-Friday: Complete KNN project, start DS sustainability project, review KNN project
-Saturday: Complete DS sustainability project, update resume  --->
+Friday: Review/Complete KNN project, Review Stock Trading, Complete OLS/GD project, start DS sustainability project
+Saturday: Complete DS sustainability project, do neural networks project (?), update resume  --->
 
 <div class="split-container">
     <div class="left-section">
-        <h2>On this page, you will find an amalgamation of independent projects that reflect my interest in programming, business analytics, and machine learning.</h2>
+        <div class="introduction">
+            <p>
+                This page showcases a curated selection of projects covering:
+            </p>
+            <p><a href="#no-code-tools">No-code Tools</a></p>
+            <p><a href="#business-analytics">Business Analytics</a></p>
+            <p><a href="#general-programming">General Programming</a></p>
+            <p><a href="#machine-learning">Machine Learning</a></p>
+        </div>
     </div>
     <div class="right-section">
-        <h1>No-code Tools</h1>
-
-        <h2>Excel</h2>
-        <h3>Space Missions Project</h3>
-            <p>A rich dataset from <a href="https://nextspaceflight.com" target="_blank">Next Space Flight</a> offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset <em>using Excel (!)</em> to answer key questions:</p>
-                <p><strong>Top Launchers</strong>: Who launched the most missions in any given year?</p>
-                <p><strong>Cost Trends</strong>: How has the cost of a space mission varied over time?</p>
-                <p><strong>Seasonal Patterns</strong>: Which months are the most popular for launches?</p>
-                <p><strong>Mission Safety</strong>: Have space missions gotten safer, or has the chance of failure remained unchanged?</p>
-            <p>Explore the analysis and findings in the full project <a href="https://github.com/add0794/space_race/blob/8a1ebe36f9c88862b1bd0f89841e1685f2bf2cf5/README.md" target="_blank">here</a>.</p>
-
-        <h2>Tableau (VizQL)</h2>
-        <h3>Consumer Shopping Trends Project</h3>
-            <p>A Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Key findings include:</p>
-                <p>Men outspend women.</p>
-                <p>Medium-size clothing is preferred by most age groups.</p>
-                <p>Clothing leads product categories.</p>
-                <p>AL, CA, ID, IL, MT lead in state sales.</p>
-                <p>Promo codes have a <em>mixed</em> impact on average price.</p>
-                <p>Seasonal sales are consistent.</p>
-            <p>Explore the analysis and findings in the full project <a href="https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/Story1?publish=yes" target="_blank">here</a>.</p>
-
-        <h1>Programming Tools</h1>
-
-        <h2>Business Analytics</h2>
-
-        <h3>Pet Sales Project</h3>
-            <p>PetMind aims to launch a monthly pet box subscription to enhance customer retention and foster brand loyalty. The analysis focuses on identifying patterns in product repurchases and their implications for sales. Key questions addressed include:</p>
-                <p><strong>Product Repurchases</strong>: How many products are being purchased multiple times?</p>
-                <p><strong>Sales Performance</strong>: Do products purchased repeatedly perform better in sales?</p>
-                <p><strong>Pet-Specific Trends</strong>: What products are frequently repurchased for different pet types?</p>
-            <p>The project explores these questions using the provided sales dataset, offering insights to guide subscription product offerings. Full project details are available <a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md" target="_blank">here</a>.</p>
-
-        <h3>Product Sales Project</h3>
-            <p>Pens and Partners plans to launch a new product line and seeks to evaluate the effectiveness of various sales tactics. The analysis investigates the following:</p>
-                <p><strong>Customer Engagement</strong>: How many customers engaged with each sales method?</p>
-                <p><strong>Revenue Distribution</strong>: What is the overall revenue spread, and how does it differ by sales method?</p>
-                <p><strong>Trends Over Time</strong>: Are there notable revenue differences over time for each method?</p>
-                <p><strong>Recommended Tactics</strong>: Which sales method is most effective, factoring in team effort and similar results?</p>
-            <p>Insights from the dataset guide decisions on which sales tactics to prioritize for maximum impact. Full project details are available <a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">here</a>.</p>
-
-        <h2>General Programming</h2>
-
-        <h3>Stock Trading Project (API Requests)</h3>
-            <p>This <a href="https://github.com/add0794/stock-trading/" target="_blank">project</a> uses API requests to text you when a public company's stock significantly increases or decreases (i.e., by more or less than 5%). It tracks the percentage change, author, title, and content, and sends changes straight to your phone. The data comes from the stock's daily low. Make your investing life easier and perhaps stop using a certified financial analyst (CFA) to do the dirty work.</p>
-
-        <h3>Testing International Morse Code Translator Project (Web Scraping)</h3>
-            <p>This <a href="https://github.com/add0794/Testing-International-Morse-Code-Translator/tree/main" target="_blank">project</a> uses web scraping to test the accuracy of an <a href="https://morsecodetranslator.com/" target="_blank">International Morse Code translator</a>. By leveraging Beautiful Soup, it creates a Pandas DataFrame that translates English to <a href="https://www.hobby-hour.com/electronics/morse_code.php#google_vignette" target="_blank">Morse Code</a>. Selenium automates inputting text into the translator and verifies its output by cross-checking it against the custom Morse code alphabet.</p>
-
-        <h3>Book Library Project (Flask Web Development)</h3>
-            <p>This <a href="https://github.com/add0794/flask-sqlalchemy-library" target="_blank">project</a> leverages Flask-SQLAlchemy with SQLite to help you manage a personalized library of your favorite books. Use Pandas to perform SQL queries and generate tables tailored to your inputs. Ready for a reset? Clear the library in one simple step. Need a backup? Export your collection as a JSON file. Managing your book collection has never been more intuitive.</p>
-
-        <h1>Machine Learning (Python)</h1>
-
-        <h2>Shallow Learning</h2>
-
-        <h3>Ordinary Least Squares vs. Gradient Descent (Prediction)</h3>
-            <p>This <a href="https://github.com/add0794/ordinary-least-squares-gradient-descent" target="_blank">project</a> evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD), it develops a regression model for predicting academic performance.</p>
-
-        <h3>Predicting Breast Cancer with K-Nearest Neighbors (KNN)</h3>
-            <p>This <a href="https://github.com/add0794/knn-breast-cancer-prediction/tree/main" target="_blank">project</a> predicts breast cancer using KNN, finding the best $k$ value based on the smallest difference in accuracy (and F1 score) between training and test sets.</p>
+        <div id="no-code-tools">
+            <h1>No-code Tools</h1>
+        </div>
+            <h2>Excel</h2>
+                <h3>Space Missions Project</h3>
+                    <p>A rich dataset from <a href="https://nextspaceflight.com" target="_blank">Next Space Flight</a> offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset <em>using Excel (!)</em> to answer key questions:</p>
+                        <p><strong>Top Launchers</strong>: Who launched the most missions in any given year?</p>
+                        <p><strong>Cost Trends</strong>: How has the cost of a space mission varied over time?</p>
+                        <p><strong>Seasonal Patterns</strong>: Which months are the most popular for launches?</p>
+                        <p><strong>Mission Safety</strong>: Have space missions gotten safer, or has the chance of failure remained unchanged?</p>
+                    <p>Explore the analysis and findings in the full project <a href="https://github.com/add0794/space_race/blob/8a1ebe36f9c88862b1bd0f89841e1685f2bf2cf5/README.md">here</a>.
+                    </p>
+                <h2>Tableau (VizQL)</h2>
+                    <h3>Consumer Shopping Trends Project</h3>
+                        <p>A Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Key findings include:</p>
+                            <p>Men outspend women.</p>
+                            <p>Medium-size clothing is preferred by most age groups.</p>
+                            <p>Clothing leads product categories.</p>
+                            <p>AL, CA, ID, IL, MT lead in state sales.</p>
+                            <p>Promo codes have a <em>mixed</em> impact on average price.</p>
+                            <p>Seasonal sales are consistent.</p>
+                        <p>Explore the analysis and findings in the full project <a href="https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/Story1?publish=yes" target="_blank">here</a>.</p>
+        <div id="business-analytics">
+            <h1>Business Analytics</h1>
+        </div>
+            <h2>Pet Sales Project</h2>
+                <p>PetMind aims to launch a monthly pet box subscription to enhance customer retention and foster brand loyalty. The analysis focuses on identifying patterns in product repurchases and their implications for sales. Key questions addressed include:</p>
+                    <p><strong>Product Repurchases</strong>: How many products are being purchased multiple times?</p>
+                    <p><strong>Sales Performance</strong>: Do products purchased repeatedly perform better in sales?</p>
+                    <p><strong>Pet-Specific Trends</strong>: What products are frequently repurchased for different pet types?</p>
+                <p>The project explores these questions using the provided sales dataset, offering insights to guide subscription product offerings. Full project details are available <a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md">here</a>.</p>
+            <h2>Product Sales Project</h2>
+                <p>Pens and Partners plans to launch a new product line and seeks to evaluate the effectiveness of various sales tactics. The analysis investigates the following:</p>
+                    <p><strong>Customer Engagement</strong>: How many customers engaged with each sales method?</p>
+                    <p><strong>Revenue Distribution</strong>: What is the overall revenue spread, and how does it differ by sales method?</p>
+                    <p><strong>Trends Over Time</strong>: Are there notable revenue differences over time for each method?</p>
+                    <p><strong>Recommended Tactics</strong>: Which sales method is most effective, factoring in team effort and similar results?</p>
+                <p>Insights from the dataset guide decisions on which sales tactics to prioritize for maximum impact. Full project details are available <a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">here</a>.</p>
+        <div id="general-programming">
+            <h1>General Programming</h1>
+        </div>
+            <h2>Stock Trading Project (API Requests)</h2>
+                <p>This <a href="https://github.com/add0794/stock-trading/" target="_blank">project</a> uses API requests to text you when a public company's stock significantly increases or decreases (i.e., by more or less than 5%). It tracks the percentage change, author, title, and content, and sends changes straight to your phone. The data comes from the stock's daily low. Make your investing life easier and perhaps stop using a certified financial analyst (CFA) to do the dirty work.
+                </p>
+            <h2>Testing International Morse Code Translator Project (Web Scraping)</h2>
+                <p>This <a href="https://github.com/add0794/Testing-International-Morse-Code-Translator/tree/main" target="_blank">project</a> uses web scraping to test the accuracy of an <a href="https://morsecodetranslator.com/" target="_blank">International Morse Code translator</a>. By leveraging Beautiful Soup, it creates a Pandas DataFrame that translates English to <a href="https://www.hobby-hour.com/electronics/morse_code.php#google_vignette" target="_blank">Morse Code</a>. Selenium automates inputting text into the translator and verifies its output by cross-checking it against the custom Morse code alphabet.
+                </p>
+            <h2>Book Library Project (Flask Web Development)</h2>
+                <p>This <a href="https://github.com/add0794/flask-sqlalchemy-library" target="_blank">project</a> leverages Flask-SQLAlchemy with SQLite to help you manage a personalized library of your favorite books. Use Pandas to perform SQL queries and generate tables tailored to your inputs. Ready for a reset? Clear the library in one simple step. Need a backup? Export your collection as a JSON file. Managing your book collection has never been more intuitive.
+                </p>
+        <div id="machine-learning">
+            <h1>Machine Learning (Python)</h1>
+        </div>
+            <h2>Shallow Learning</h2>
+            <h3>Ordinary Least Squares vs. Gradient Descent (Prediction)</h3>
+                <p>This <a href="https://github.com/add0794/ordinary-least-squares-gradient-descent" target="_blank">project</a> evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD), it develops a regression model for predicting academic performance.</p>
+            <h3>Predicting Breast Cancer with K-Nearest Neighbors (KNN)</h3>
+                <p>This <a href="https://github.com/add0794/knn-breast-cancer-prediction/tree/main" target="_blank">project</a> predicts breast cancer using KNN, finding the best $k$ value based on the smallest difference in accuracy (and F1 score) between training and test sets.</p>
     </div>
 </div>
 

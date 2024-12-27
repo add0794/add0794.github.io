@@ -202,36 +202,6 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 
 <style>
 
-/* Split text into left and right containers, with left scrolling */
-.split-container {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2rem 1rem;
-    height: 100vh; /* Full viewport height */
-    overflow: visible; /* Prevent container scrolling */
-}
-
-.left-section {
-    property: sticky;
-    flex: 1;
-    padding-right: 1rem;
-    font-size: 1rem;
-    color: #555;
-    overflow-y: auto; /* Enable scrolling for left section */
-    height: 100%; /* Take full height of container */
-}
-
-.right-section {
-    flex: 2;
-    text-align: center;
-    font-size: 2rem;
-    color: #000;
-    /* No overflow or scroll properties */
-}
-
 /* Text size for paragraphs */
 p {
   font-size: 1rem; /* Adjust this as needed */
@@ -307,43 +277,63 @@ p {
     height: 20px; /* Set icon height */
     margin-right: 5px; /* Add spacing between icon and text */
 }
-
-/* Remove side and search bars */
-
+/* Hide unnecessary elements */
 #main-header {
     display: none;
 }
-
 .side-bar {
     display: none;
 }
 
-/* Center the main content text */
+/* Main container styles */
 .main {
-    margin-left: auto !important; /* Centers horizontally */
-    margin-right: auto !important; /* Centers horizontally */
-    max-width: 1200px !important;  /* Or your preferred max-width */
-    padding: 0 2rem;  /* Add some padding on the sides */
-    text-align: center; /* Centers the text */
+    margin: 0 auto !important;
+    max-width: none !important; /* Remove max-width constraint */
+    padding: 0 !important; /* Remove padding to prevent interference */
+    width: 100% !important;
 }
 
-/* Ensure header takes full width */
+/* Split layout styles */
+.split-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+}
+
+.left-section {
+    flex: 1;
+    padding-right: 1rem;
+    font-size: 1rem;
+    color: #555;
+    overflow-y: auto;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+.right-section {
+    flex: 2;
+    text-align: center;
+    font-size: 2rem;
+    color: #000;
+}
+
+/* Reset other interfering styles */
 .main-header {
     width: 100% !important;
 }
 
-/* Adjust the main content container */
 .main-content-wrap {
-    padding-top: 2rem !important;
-    padding-bottom: 2rem !important;
-    text-align: center; /* Center text within content wrap */
+    padding: 0 !important;
+    width: 100% !important;
 }
 
-/* Make sure content takes full width */
 .main-content {
     width: 100% !important;
-    margin: 0 auto !important; /* Centers content within its container */
-    text-align: center; /* Centers the text */
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 /* Responsive design for smaller screens */

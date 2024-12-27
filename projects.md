@@ -221,16 +221,17 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 }
 
 .container {
-  position: relative; /* Ensures proper alignment within its parent */
-  margin: 0; /* Removes any external spacing */
-  padding: 0; /* Removes internal spacing */
+  display: flex; /* Ensure sections are side by side */
+  flex-direction: row; /* Aligns children horizontally */
+  margin: 0;
+  padding: 0;
 }
 
 .left-section {
-  position: absolute; /* Makes it start exactly where the container starts */
-  top: 0; /* Keeps it at the top of the viewport while scrolling */
-  height: 100vh; /* Ensures the section spans the full viewport height */
-  overflow-y: auto; /* Adds a scrollbar if the content overflows */
+  position: sticky; /* Makes the left section stick to the top of the viewport */
+  top: 0; /* Adjust to account for any header if needed */
+  height: 100vh; /* Makes it span the full height of the viewport */
+  overflow-y: auto; /* Adds a scrollbar if content overflows */
   flex: 1; /* Allows it to take proportional width in a flex container */
   padding-right: 1rem; /* Adds space between the left and right sections */
   font-size: 1rem; /* Sets a readable font size */
@@ -238,14 +239,19 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 }
 
 .right-section {
-    flex: 1; /* Takes up half the container width */
+  flex: 2; /* Allows the right section to take more space */
     text-align: center; /* Centers the content inside this section */
     font-size: 2rem; /* Adjust the font size for the header */
     color: #000; /* Black text */
 }
 
 /* Example for the text size */
-p ul {
+p {
+  font-size: 1rem; /* Adjust this as needed */
+  line-height: 1.5; /* Improves readability */
+}
+
+ul {
   font-size: 1rem; /* Adjust this as needed */
   line-height: 1.5; /* Improves readability */
 }

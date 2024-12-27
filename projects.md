@@ -28,78 +28,78 @@ Saturday: Complete DS sustainability project, update resume  --->
 
 <div class="split-container">
     <div class="left-section">
-        <p>On this page, you will find an amalgamation of independent projects that reflect my interest in programming, business analytics, and machine learning.</p>
+        <h2>On this page, you will find an amalgamation of independent projects that reflect my interest in programming, business analytics, and machine learning.</h2>
     </div>
     <div class="right-section">
         <h1>No-code Tools</h1>
 
         <h2>Excel</h2>
         <h3>Space Missions Project</h3>
-        <p>A rich dataset from <a href="https://nextspaceflight.com" target="_blank">Next Space Flight</a> offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset <em>using Excel (!)</em> to answer key questions:</p>
-        <ul>
-            <li><strong>Top Launchers</strong>: Who launched the most missions in any given year?</li>
-            <li><strong>Cost Trends</strong>: How has the cost of a space mission varied over time?</li>
-            <li><strong>Seasonal Patterns</strong>: Which months are the most popular for launches?</li>
-            <li><strong>Mission Safety</strong>: Have space missions gotten safer, or has the chance of failure remained unchanged?</li>
-        </ul>
-        <p>Explore the analysis and findings in the full project <a href="https://github.com/add0794/space_race/blob/8a1ebe36f9c88862b1bd0f89841e1685f2bf2cf5/README.md" target="_blank">here</a>.</p>
+            <p>A rich dataset from <a href="https://nextspaceflight.com" target="_blank">Next Space Flight</a> offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset <em>using Excel (!)</em> to answer key questions:</p>
+            <ul>
+                <li><strong>Top Launchers</strong>: Who launched the most missions in any given year?</li>
+                <li><strong>Cost Trends</strong>: How has the cost of a space mission varied over time?</li>
+                <li><strong>Seasonal Patterns</strong>: Which months are the most popular for launches?</li>
+                <li><strong>Mission Safety</strong>: Have space missions gotten safer, or has the chance of failure remained unchanged?</li>
+            </ul>
+            <p>Explore the analysis and findings in the full project <a href="https://github.com/add0794/space_race/blob/8a1ebe36f9c88862b1bd0f89841e1685f2bf2cf5/README.md" target="_blank">here</a>.</p>
 
         <h2>Tableau (VizQL)</h2>
         <h3>Consumer Shopping Trends Project</h3>
-        <p>A Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Key findings include:</p>
-        <ul>
-            <li>Men outspend women.</li>
-            <li>Medium-size clothing is preferred by most age groups.</li>
-            <li>Clothing leads product categories.</li>
-            <li>AL, CA, ID, IL, MT lead in state sales.</li>
-            <li>Promo codes have a <em>mixed</em> impact on average price.</li>
-            <li>Seasonal sales are consistent.</li>
-        </ul>
-        <p>Explore the analysis and findings in the full project <a href="https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/Story1?publish=yes" target="_blank">here</a>.</p>
+            <p>A Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Key findings include:</p>
+            <ul>
+                <li>Men outspend women.</li>
+                <li>Medium-size clothing is preferred by most age groups.</li>
+                <li>Clothing leads product categories.</li>
+                <li>AL, CA, ID, IL, MT lead in state sales.</li>
+                <li>Promo codes have a <em>mixed</em> impact on average price.</li>
+                <li>Seasonal sales are consistent.</li>
+            </ul>
+            <p>Explore the analysis and findings in the full project <a href="https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/Story1?publish=yes" target="_blank">here</a>.</p>
 
         <h1>Programming Tools</h1>
 
         <h2>Business Analytics</h2>
 
         <h3>Pet Sales Project</h3>
-        <p>PetMind aims to launch a monthly pet box subscription to enhance customer retention and foster brand loyalty. The analysis focuses on identifying patterns in product repurchases and their implications for sales. Key questions addressed include:</p>
-        <ul>
-            <li><strong>Product Repurchases</strong>: How many products are being purchased multiple times?</li>
-            <li><strong>Sales Performance</strong>: Do products purchased repeatedly perform better in sales?</li>
-            <li><strong>Pet-Specific Trends</strong>: What products are frequently repurchased for different pet types?</li>
-        </ul>
-        <p>The project explores these questions using the provided sales dataset, offering insights to guide subscription product offerings. Full project details are available <a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md" target="_blank">here</a>.</p>
+            <p>PetMind aims to launch a monthly pet box subscription to enhance customer retention and foster brand loyalty. The analysis focuses on identifying patterns in product repurchases and their implications for sales. Key questions addressed include:</p>
+            <ul>
+                <li><strong>Product Repurchases</strong>: How many products are being purchased multiple times?</li>
+                <li><strong>Sales Performance</strong>: Do products purchased repeatedly perform better in sales?</li>
+                <li><strong>Pet-Specific Trends</strong>: What products are frequently repurchased for different pet types?</li>
+            </ul>
+            <p>The project explores these questions using the provided sales dataset, offering insights to guide subscription product offerings. Full project details are available <a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md" target="_blank">here</a>.</p>
 
         <h3>Product Sales Project</h3>
-        <p>Pens and Partners plans to launch a new product line and seeks to evaluate the effectiveness of various sales tactics. The analysis investigates the following:</p>
-        <ul>
-            <li><strong>Customer Engagement</strong>: How many customers engaged with each sales method?</li>
-            <li><strong>Revenue Distribution</strong>: What is the overall revenue spread, and how does it differ by sales method?</li>
-            <li><strong>Trends Over Time</strong>: Are there notable revenue differences over time for each method?</li>
-            <li><strong>Recommended Tactics</strong>: Which sales method is most effective, factoring in team effort and similar results?</li>
-        </ul>
-        <p>Insights from the dataset guide decisions on which sales tactics to prioritize for maximum impact. Full project details are available <a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">here</a>.</p>
+            <p>Pens and Partners plans to launch a new product line and seeks to evaluate the effectiveness of various sales tactics. The analysis investigates the following:</p>
+            <ul>
+                <li><strong>Customer Engagement</strong>: How many customers engaged with each sales method?</li>
+                <li><strong>Revenue Distribution</strong>: What is the overall revenue spread, and how does it differ by sales method?</li>
+                <li><strong>Trends Over Time</strong>: Are there notable revenue differences over time for each method?</li>
+                <li><strong>Recommended Tactics</strong>: Which sales method is most effective, factoring in team effort and similar results?</li>
+            </ul>
+            <p>Insights from the dataset guide decisions on which sales tactics to prioritize for maximum impact. Full project details are available <a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">here</a>.</p>
 
         <h2>General Programming</h2>
 
         <h3>Stock Trading Project (API Requests)</h3>
-        <p>This <a href="https://github.com/add0794/stock-trading/" target="_blank">project</a> uses API requests to text you when a public company's stock significantly increases or decreases (i.e., by more or less than 5%). It tracks the percentage change, author, title, and content, and sends changes straight to your phone. The data comes from the stock's daily low. Make your investing life easier and perhaps stop using a certified financial analyst (CFA) to do the dirty work.</p>
+            <p>This <a href="https://github.com/add0794/stock-trading/" target="_blank">project</a> uses API requests to text you when a public company's stock significantly increases or decreases (i.e., by more or less than 5%). It tracks the percentage change, author, title, and content, and sends changes straight to your phone. The data comes from the stock's daily low. Make your investing life easier and perhaps stop using a certified financial analyst (CFA) to do the dirty work.</p>
 
         <h3>Testing International Morse Code Translator Project (Web Scraping)</h3>
-        <p>This <a href="https://github.com/add0794/Testing-International-Morse-Code-Translator/tree/main" target="_blank">project</a> uses web scraping to test the accuracy of an <a href="https://morsecodetranslator.com/" target="_blank">International Morse Code translator</a>. By leveraging Beautiful Soup, it creates a Pandas DataFrame that translates English to <a href="https://www.hobby-hour.com/electronics/morse_code.php#google_vignette" target="_blank">Morse Code</a>. Selenium automates inputting text into the translator and verifies its output by cross-checking it against the custom Morse code alphabet.</p>
+            <p>This <a href="https://github.com/add0794/Testing-International-Morse-Code-Translator/tree/main" target="_blank">project</a> uses web scraping to test the accuracy of an <a href="https://morsecodetranslator.com/" target="_blank">International Morse Code translator</a>. By leveraging Beautiful Soup, it creates a Pandas DataFrame that translates English to <a href="https://www.hobby-hour.com/electronics/morse_code.php#google_vignette" target="_blank">Morse Code</a>. Selenium automates inputting text into the translator and verifies its output by cross-checking it against the custom Morse code alphabet.</p>
 
         <h3>Book Library Project (Flask Web Development)</h3>
-        <p>This <a href="https://github.com/add0794/flask-sqlalchemy-library" target="_blank">project</a> leverages Flask-SQLAlchemy with SQLite to help you manage a personalized library of your favorite books. Use Pandas to perform SQL queries and generate tables tailored to your inputs. Ready for a reset? Clear the library in one simple step. Need a backup? Export your collection as a JSON file. Managing your book collection has never been more intuitive.</p>
+            <p>This <a href="https://github.com/add0794/flask-sqlalchemy-library" target="_blank">project</a> leverages Flask-SQLAlchemy with SQLite to help you manage a personalized library of your favorite books. Use Pandas to perform SQL queries and generate tables tailored to your inputs. Ready for a reset? Clear the library in one simple step. Need a backup? Export your collection as a JSON file. Managing your book collection has never been more intuitive.</p>
 
         <h1>Machine Learning (Python)</h1>
 
         <h2>Shallow Learning</h2>
 
         <h3>Ordinary Least Squares vs. Gradient Descent (Prediction)</h3>
-        <p>This <a href="https://github.com/add0794/ordinary-least-squares-gradient-descent" target="_blank">project</a> evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD), it develops a regression model for predicting academic performance.</p>
+            <p>This <a href="https://github.com/add0794/ordinary-least-squares-gradient-descent" target="_blank">project</a> evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD), it develops a regression model for predicting academic performance.</p>
 
         <h3>Predicting Breast Cancer with K-Nearest Neighbors (KNN)</h3>
-        <p>This <a href="https://github.com/add0794/knn-breast-cancer-prediction/tree/main" target="_blank">project</a> predicts breast cancer using KNN, finding the best $k$ value based on the smallest difference in accuracy (and F1 score) between training and test sets.</p>
+            <p>This <a href="https://github.com/add0794/knn-breast-cancer-prediction/tree/main" target="_blank">project</a> predicts breast cancer using KNN, finding the best $k$ value based on the smallest difference in accuracy (and F1 score) between training and test sets.</p>
     </div>
 </div>
 
@@ -210,7 +210,7 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 
 <style>
 
-/* Split the text */
+/* Split the text into two sides. */
 .split-container {
     display: flex;
     justify-content: space-between; /* Creates space between left and right sections */
@@ -221,10 +221,14 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 }
 
 .left-section {
-    flex: 1; /* Takes up half the container width */
-    padding-right: 1rem; /* Adds space between the sections */
-    font-size: 1rem; /* Adjust the font size */
-    color: #555; /* Neutral color for text */
+  position: sticky;
+  top: 0; /* Keeps it at the top of the viewport while scrolling */
+  height: 100vh; /* Ensures the section spans the full viewport height */
+  overflow-y: auto; /* Adds a scrollbar if the content overflows */
+  flex: 1; /* Allows it to take proportional width in a flex container */
+  padding-right: 1rem; /* Adds space between the left and right sections */
+  font-size: 1rem; /* Sets a readable font size */
+  color: #555; /* Neutral color for text */
 }
 
 .right-section {

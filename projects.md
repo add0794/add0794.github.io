@@ -34,15 +34,15 @@ Saturday: Complete DS sustainability project, do neural networks project (?), up
 
 <div class="split-container">
     <div class="left-section">
-        <div class="introduction">
-            <p>
-                This page showcases a curated selection of projects covering:
-            </p>
-            <p><a href="#no-code-tools">No-code Tools</a></p>
-            <p><a href="#business-analytics">Business Analytics</a></p>
-            <p><a href="#general-programming">General Programming</a></p>
-            <p><a href="#machine-learning">Machine Learning</a></p>
-        </div>
+        <!-- <div class="introduction"> -->
+        <p>
+            This page showcases a curated selection of projects covering:
+        </p>
+        <p><a href="#no-code-tools">No-code Tools</a></p>
+        <p><a href="#business-analytics">Business Analytics</a></p>
+        <p><a href="#general-programming">General Programming</a></p>
+        <p><a href="#machine-learning">Machine Learning</a></p>
+        <!-- </div> -->
     </div>
     <div class="right-section">
         <div id="no-code-tools">

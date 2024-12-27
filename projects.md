@@ -211,6 +211,7 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem 1rem;
+    overflow: visible;
 }
 
 .left-section {

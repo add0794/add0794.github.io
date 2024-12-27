@@ -220,8 +220,14 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
     padding: 2rem 1rem; /* Adds padding around the container */
 }
 
+.container {
+  position: relative; /* Ensures proper alignment within its parent */
+  margin: 0; /* Removes any external spacing */
+  padding: 0; /* Removes internal spacing */
+}
+
 .left-section {
-  position: sticky;
+  position: absolute; /* Makes it start exactly where the container starts */
   top: 0; /* Keeps it at the top of the viewport while scrolling */
   height: 100vh; /* Ensures the section spans the full viewport height */
   overflow-y: auto; /* Adds a scrollbar if the content overflows */
@@ -238,13 +244,8 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
     color: #000; /* Black text */
 }
 
-.container {
-  margin: 0;
-  padding: 0;
-}
-
 /* Example for the text size */
-p {
+p ul {
   font-size: 1rem; /* Adjust this as needed */
   line-height: 1.5; /* Improves readability */
 }

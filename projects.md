@@ -214,17 +214,12 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 .split-container {
     display: flex;
     justify-content: space-between; /* Creates space between left and right sections */
+    flex-direction: row; /* Aligns children horizontally */
+
     align-items: center; /* Vertically aligns items to the center */
     max-width: 1200px; /* Adjust based on your page width */
     margin: 0 auto; /* Centers the container on the page */
     padding: 2rem 1rem; /* Adds padding around the container */
-}
-
-.container {
-  display: flex; /* Ensure sections are side by side */
-  flex-direction: row; /* Aligns children horizontally */
-  margin: 0;
-  padding: 0;
 }
 
 .left-section {
@@ -239,7 +234,7 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 }
 
 .right-section {
-  flex: 2; /* Allows the right section to take more space */
+    flex: 2; /* Allows the right section to take more space */
     text-align: center; /* Centers the content inside this section */
     font-size: 2rem; /* Adjust the font size for the header */
     color: #000; /* Black text */

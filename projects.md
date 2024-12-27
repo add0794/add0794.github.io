@@ -214,7 +214,7 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
 }
 
 .left-section {
-    /* Removed position: sticky to allow natural scrolling */
+    position: sticky
     flex: 1;
     padding-right: 1rem;
     font-size: 1rem;

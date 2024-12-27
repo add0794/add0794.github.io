@@ -211,10 +211,11 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
     margin: 0 auto;
     padding: 2rem 1rem;
     height: 100vh; /* Full viewport height */
-    overflow: hidden; /* Prevent container scrolling */
+    overflow: visible; /* Prevent container scrolling */
 }
 
 .left-section {
+    property: sticky;
     flex: 1;
     padding-right: 1rem;
     font-size: 1rem;
@@ -229,11 +230,6 @@ This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main
     font-size: 2rem;
     color: #000;
     /* No overflow or scroll properties */
-}
-
-/* For smooth scrolling */
-.left-section {
-    scroll-behavior: smooth;
 }
 
 /* Text size for paragraphs */

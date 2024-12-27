@@ -36,25 +36,21 @@ Saturday: Complete DS sustainability project, update resume  --->
         <h2>Excel</h2>
         <h3>Space Missions Project</h3>
             <p>A rich dataset from <a href="https://nextspaceflight.com" target="_blank">Next Space Flight</a> offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset <em>using Excel (!)</em> to answer key questions:</p>
-            <ul>
-                <li><strong>Top Launchers</strong>: Who launched the most missions in any given year?</li>
-                <li><strong>Cost Trends</strong>: How has the cost of a space mission varied over time?</li>
-                <li><strong>Seasonal Patterns</strong>: Which months are the most popular for launches?</li>
-                <li><strong>Mission Safety</strong>: Have space missions gotten safer, or has the chance of failure remained unchanged?</li>
-            </ul>
+                <p><strong>Top Launchers</strong>: Who launched the most missions in any given year?</p>
+                <p><strong>Cost Trends</strong>: How has the cost of a space mission varied over time?</p>
+                <p><strong>Seasonal Patterns</strong>: Which months are the most popular for launches?</p>
+                <p><strong>Mission Safety</strong>: Have space missions gotten safer, or has the chance of failure remained unchanged?</p>
             <p>Explore the analysis and findings in the full project <a href="https://github.com/add0794/space_race/blob/8a1ebe36f9c88862b1bd0f89841e1685f2bf2cf5/README.md" target="_blank">here</a>.</p>
 
         <h2>Tableau (VizQL)</h2>
         <h3>Consumer Shopping Trends Project</h3>
             <p>A Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Key findings include:</p>
-            <ul>
-                <li>Men outspend women.</li>
-                <li>Medium-size clothing is preferred by most age groups.</li>
-                <li>Clothing leads product categories.</li>
-                <li>AL, CA, ID, IL, MT lead in state sales.</li>
-                <li>Promo codes have a <em>mixed</em> impact on average price.</li>
-                <li>Seasonal sales are consistent.</li>
-            </ul>
+                <p>Men outspend women.</p>
+                <p>Medium-size clothing is preferred by most age groups.</p>
+                <p>Clothing leads product categories.</p>
+                <p>AL, CA, ID, IL, MT lead in state sales.</p>
+                <>Promo codes have a <em>mixed</em> impact on average price.</p>
+                <p>Seasonal sales are consistent.</p>
             <p>Explore the analysis and findings in the full project <a href="https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/Story1?publish=yes" target="_blank">here</a>.</p>
 
         <h1>Programming Tools</h1>
@@ -63,21 +59,17 @@ Saturday: Complete DS sustainability project, update resume  --->
 
         <h3>Pet Sales Project</h3>
             <p>PetMind aims to launch a monthly pet box subscription to enhance customer retention and foster brand loyalty. The analysis focuses on identifying patterns in product repurchases and their implications for sales. Key questions addressed include:</p>
-            <ul>
-                <li><strong>Product Repurchases</strong>: How many products are being purchased multiple times?</li>
-                <li><strong>Sales Performance</strong>: Do products purchased repeatedly perform better in sales?</li>
-                <li><strong>Pet-Specific Trends</strong>: What products are frequently repurchased for different pet types?</li>
-            </ul>
+                <p><strong>Product Repurchases</strong>: How many products are being purchased multiple times?</p>
+                <p><strong>Sales Performance</strong>: Do products purchased repeatedly perform better in sales?</p>
+                <p><strong>Pet-Specific Trends</strong>: What products are frequently repurchased for different pet types?</p>
             <p>The project explores these questions using the provided sales dataset, offering insights to guide subscription product offerings. Full project details are available <a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md" target="_blank">here</a>.</p>
 
         <h3>Product Sales Project</h3>
             <p>Pens and Partners plans to launch a new product line and seeks to evaluate the effectiveness of various sales tactics. The analysis investigates the following:</p>
-            <ul>
-                <li><strong>Customer Engagement</strong>: How many customers engaged with each sales method?</li>
-                <li><strong>Revenue Distribution</strong>: What is the overall revenue spread, and how does it differ by sales method?</li>
-                <li><strong>Trends Over Time</strong>: Are there notable revenue differences over time for each method?</li>
-                <li><strong>Recommended Tactics</strong>: Which sales method is most effective, factoring in team effort and similar results?</li>
-            </ul>
+                <p><strong>Customer Engagement</strong>: How many customers engaged with each sales method?</p>
+                <p><strong>Revenue Distribution</strong>: What is the overall revenue spread, and how does it differ by sales method?</p>
+                <p><strong>Trends Over Time</strong>: Are there notable revenue differences over time for each method?</p>
+                <p><strong>Recommended Tactics</strong>: Which sales method is most effective, factoring in team effort and similar results?</p>
             <p>Insights from the dataset guide decisions on which sales tactics to prioritize for maximum impact. Full project details are available <a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">here</a>.</p>
 
         <h2>General Programming</h2>

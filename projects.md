@@ -14,12 +14,14 @@ permalink: /projects
 - General Programming - 
 	⁃ Morse Code Translator (beautiful soup, selenium) - DONE [12/24/24]
 	⁃ Book Library Project (flask-sqlalchemy, flask) - DONE [12/24/24]
-	⁃ Stock Trading (json, API requests) - REVIEW RESULTS
+	⁃ Stock Trading (json, API requests) - DONE [12/29/24]
 - Machine Learning/Data Science
-	⁃ OLS vs. Gradient Descent - THEORETICAL => NEEDS TO BE COMPLETED
-	⁃ sustainability? => https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment
-	⁃ KNN Breast Cancer => NEEDS TO BE REVIEWED (review jupyter notebook; add OOP version)
+    ⁃ KNN Breast Cancer - DONE [1/3/25]
+	⁃ OLS vs. Gradient Descent - DONE [1/2/25]
+	⁃ sustainability? => https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment (random forests) => 1/4-1/5?
     - Neural Networks? PyTorch? -->
+
+<!-- THEN: Finish updating resume with work experience and projects -->
 
 <!-- Finish stats course: 
     - sections 14, 11, 15 (what about sections 12-13?)
@@ -29,8 +31,8 @@ permalink: /projects
 -	Complete online course: feature engineering and cross validation (sections 11-12) -->
 
 <!-- Schedule:
-Friday: Review/Complete KNN project, Review Stock Trading, Complete OLS/GD project, start DS sustainability project
-Saturday: Complete DS sustainability project, do neural networks project (?), update resume  --->
+Saturday: start DS sustainability project
+Sunday: Complete DS sustainability project, do neural networks project (?), update resume w/ QR code  --->
 
 <div class="split-container">
     <div class="left-section">
@@ -102,96 +104,10 @@ Saturday: Complete DS sustainability project, do neural networks project (?), up
             <h3>Ordinary Least Squares vs. Gradient Descent (Prediction)</h3>
                 <p>This <a href="https://github.com/add0794/ordinary-least-squares-gradient-descent" target="_blank">project</a> evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD), it develops a regression model for predicting academic performance.</p>
             <h3>Predicting Breast Cancer with K-Nearest Neighbors (KNN)</h3>
-                <p>This <a href="https://github.com/add0794/knn-breast-cancer-prediction/tree/main" target="_blank">project</a> predicts breast cancer using KNN, finding the best $k$ value based on the smallest difference in accuracy (and F1 score) between training and test sets.</p>
+                <p>This <a href="https://github.com/add0794/knn-breast-cancer-prediction/tree/main" target="_blank">project</a> predicts breast cancer using KNN, finding the best <i>k</i> value based on the smallest difference in accuracy (and F1 score) between training and test sets.</p>
+            <i>Note: Every machine learning project has a Jupyter notebook and an object-oriented programming (OOP) version. The Jupyter notebook version allows you to see how I completed the project while the OOP version allows you to apply the program to your own examples.</i>
     </div>
 </div>
-
-
-<!-- On this page, you will find an amalgamation of independent projects that reflect my interest in programming, business analytics, and machine learning.  -->
-
-<!-- # No-code Tools
-
-## Excel
-
-### Space Missions Project
-
-A rich dataset from [Next Space Flight](https://nextspaceflight.com) offers valuable insights into the history of space missions, including information on organizations, launch dates, and costs. As part of the 100 Days of Code Bootcamp on Udemy, I explored this dataset *using Excel (!)* to answer key questions:
-
-- **Top Launchers**: Who launched the most missions in any given year?  
-- **Cost Trends**: How has the cost of a space mission varied over time?  
-- **Seasonal Patterns**: Which months are the most popular for launches?  
-- **Mission Safety**: Have space missions gotten safer, or has the chance of failure remained unchanged?  
-
-Explore the analysis and findings in the full project [here](https://github.com/add0794/space_race/blob/8a1ebe36f9c88862b1bd0f89841e1685f2bf2cf5/README.md).
-
-## Tableau (VizQL)
-
-### Consumer Shopping Trends Project
-
-A Tableau story analyzes customer shopping trends, highlighting product preferences, demographic insights, and regional sales performance. Key findings include:
-- Men outspend women.
-- Medium-size clothing is preferred age group.
-- Clothing leads product categories.
-- AL, CA, ID, IL, MT lead in state sales.
-- Promo code has a *mixed* impact on average price.
-- Seasonal sales is consistent.
-
-Explore the analysis and findings in the full project [here](https://public.tableau.com/app/profile/alex.dubro/viz/CustomerShoppingTrends_17337058411000/Story1?publish=yes).
-
----
-
-# Programming Tools
-
-## Business Analytics
-
-### Pet Sales Project
-
-PetMind aims to launch a monthly pet box subscription to enhance customer retention and foster brand loyalty. The analysis focuses on identifying patterns in product repurchases and their implications for sales. Key questions addressed include:  
-- **Product Repurchases**: How many products are being purchased multiple times?  
-- **Sales Performance**: Do products purchased repeatedly perform better in sales?  
-- **Pet-Specific Trends**: What products are frequently repurchased for different pet types?  
-
-The project explores these questions using the provided sales dataset, offering insights to guide subscription product offerings. Full project details are available [here](https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md).
-
-### Product Sales Project
-
-Pens and Partners plans to launch a new product line and seeks to evaluate the effectiveness of various sales tactics. The analysis investigates the following:  
-- **Customer Engagement**: How many customers engaged with each sales method?  
-- **Revenue Distribution**: What is the overall revenue spread, and how does it differ by sales method?  
-- **Trends Over Time**: Are there notable revenue differences over time for each method?  
-- **Recommended Tactics**: Which sales method is most effective, factoring in team effort and similar results?  
-
-Insights from the dataset guide decisions on which sales tactics to prioritize for maximum impact. Full project details are available [here](https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md).
-
----
-
-## General Programming
-
-### Stock Trading Project (API Requests)
-
-This [project](https://github.com/add0794/stock-trading/) uses API requests to text you when a public company's stock significantly increases or decreases (i.e. by more or less than 5%). It can be time-consuming to follow a company's stock value, but you still want to earn a little extra income from investing. By tracking the percentage change, author, title, and content, you'll get changes straight to your phone -- all you need is to read text messages! The data comes from the stock's daily low. Make your investing life easier, and perhaps, stop using a certified financial analyst (CFA) to do the dirty work.
-
-### Testing International Morse Code Translator Project (Web Scraping)
-
-This [project](https://github.com/add0794/Testing-International-Morse-Code-Translator/tree/main) uses web scraping to test the accuracy of an [International Morse Code translator](https://morsecodetranslator.com/). By leveraging Beautiful Soup, it creates a Pandas DataFrame that translates English to [Morse Code](https://www.hobby-hour.com/electronics/morse_code.php#google_vignette). Selenium automates inputting text into the translator and verifies its output by cross-checking it against the custom Morse code alphabet. The project highlights the effectiveness of web scraping, automation, and data validation in testing online tools, while showcasing Morse code’s historical relevance and modern applications in ensuring message integrity.
-
-### Book Library Project (Flask Web Development)
-
-This [project](https://github.com/add0794/flask-sqlalchemy-library) leverages Flask-SQLAlchemy with SQLite to help you manage a personalized library of your favorite books. Rate your books from 1 to 10 and effortlessly add, edit, or delete entries. Use Pandas to perform SQL queries and generate tables tailored to your inputs. Ready for a reset? Clear the library in one simple step. Need a backup? Export your collection as a JSON file. Managing your book collection has never been more intuitive.
-
----
-
-# Machine Learning (Python)
-
-## Shallow Learning
-
-### Ordinary Least Squares vs. Gradient Descent (Prediction)
-
-This [project](https://github.com/add0794/ordinary-least-squares-gradient-descent) evaluates when traditional statistical methods are as effective as machine learning algorithms. By comparing ordinary least squares (OLS) with gradient descent (GD) to develop a regression model for predicting academic performance, the research guides analysts in selecting the most appropriate modeling approach. The analysis additionally explores alternative machine learning techniques like ridge regression (ℓ2 norm), lasso regression (ℓ1 norm), and cross-validation to illuminate the nuanced decision between traditional and machine learning algorithms.
-
-### Predicting Breast Cancer with K-Nearest Neighbors (KNN)
-
-This [project](https://github.com/add0794/knn-breast-cancer-prediction/tree/main) aims to make predicting breast cancer easier. Unlike a typical approach to choosing for the $k$ in K-nearest neighbors, the hyperparameter is derived by finding the $k$ with the smallest difference in accuracy (and F1 score!) between the training and test set. Not surprisingly, that value is equal to the one derived by cross validation. KNN is then used to predict future values, and an evaluation (e.g. precision, recall, confusion matrix) is done. -->
 
 <nav class="main-nav">
   <a href="/" class="nav-item">Go to Home Page</a>

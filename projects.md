@@ -97,6 +97,8 @@ Sunday: Complete DS sustainability project, do neural networks project (?), upda
             <h2>Book Library Project (Flask Web Development)</h2>
                 <p>This <a href="https://github.com/add0794/flask-sqlalchemy-library" target="_blank">project</a> leverages Flask-SQLAlchemy with SQLite to help you manage a personalized library of your favorite books. Use Pandas to perform SQL queries and generate tables tailored to your inputs. Ready for a reset? Clear the library in one simple step. Need a backup? Export your collection as a JSON file. Managing your book collection has never been more intuitive.
                 </p>
+            <h2>LGBTQ+ Rights in 2025: A Global Snapshot (Streamlit & Plotly)</h2>
+                <p>This <a href="https://github.com/add0794/lgbtq-rights" target="_blank">project</a> leverages publicly available data to visualize and analyze the state of LGBTQ+ rights across the globe. It explores key legal indicators—such as marriage equality, adoption rights, and anti-discrimination protections—and examines how these correlate with democracy scores. Built with Streamlit and Plotly, the app highlights both progress and ongoing disparities in LGBTQ+ rights worldwide.</p>
         <div id="machine-learning">
             <h1>Machine Learning (Python)</h1>
         </div>

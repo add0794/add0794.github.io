@@ -38,10 +38,10 @@ permalink: /
 
 <div class="section-header">Expertise</div>
 <div class="section-content">
-  <p><b>Programming</b>: R, Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript</p>
-  <p><b>Data Science Packages</b>: IPython/Jupyter, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch, Tensorflow</p>
+  <p><b>Programming</b>: R, Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript (React)</p>
+  <p><b>Data Science & Full Stack Packages</b>: IPython/Jupyter, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch, Tensorflow, Streamlit, FastAPI, LangChain, Flask, Beautiful Soup, Selenium, SQLAlchemy, Pydantic, TKinter</p>
   <p><b>No-code Programming</b>: Tableau, Notion, Airtable, Power BI</p>
-  <p><b>Developer Tools</b>: Zsh, Bash, CLI (Linux), Git, GitHub, Postman, Markdown, LaTeX, Google Colab, Anaconda, Visual Studio Code, PyCharm, Word, Excel, PowerPoint</p>
+  <p><b>Developer Tools</b>: Zsh, Bash, CLI (Unix), Git, GitHub, Postman, Markdown, LaTeX, Google Colab, Anaconda, Visual Studio Code, PyCharm, Word, Excel, PowerPoint</p>
 </div>
 
 <div class="section-header">Hobbies & Interests</div>

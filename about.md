@@ -30,10 +30,21 @@ permalink: /
 
 <div class="section-header">Significant Achievements</div>
 <div class="section-content">
-  <p>Developed waste diversion recommendations for the Trust for Governors Island by analyzing a 2018 waste audit (Excel).</p>
-  <p>Published a 7-page <a href="https://reports.aashe.org/institutions/stevens-institute-of-technology-nj/report/2020-03-02/AC/curriculum/AC-6/">report</a> on sustainability aptitude for Stevens Institute of Technology by developing, disbursing, and analyzing the results of a campus-wide survey in 2020, in addition to recommending best practices for educating students on environmental sustainability (Excel).</p>
-  <p>Published a 10-page report profiling greenhouse gas (GHG) emissions of Dairy Farmers of America (DFA) prominent sources, showing viability of achieving its Science-based Target (SBT) in 2020 (R and Markdown).</p>
-  <p>Visualized how well students incorporate sustainability into their engineering capstone design projects, comparing their grades on sustainability assessments against their final grades, and presented results at a <a href="https://monolith.asee.org/public/conferences/223/papers/33977/view">peer conference</a> in 2021 (R and Markdown).</p>
+    <!-- <p>Developed waste diversion recommendations for the Trust for Governors Island by analyzing a 2018 waste audit (Excel).</p> -->
+
+    <p>Published a 7-page <a href="https://reports.aashe.org/media/secure/808/8/729/6449/AC_6_SLA_2020_Report_Final.pdf" target="_blank">report</a> on sustainability aptitude at Stevens Institute of Technology by designing, distributing, and analyzing a campus-wide survey in 2020, then recommending best practices for improving student education on environmental sustainability (Excel).</p>
+
+    <!-- <p>Published a 10-page report profiling prominent greenhouse gas (GHG) emissions sources for Dairy Farmers of America (DFA), assessing the viability of achieving its Science-Based Target (SBT) in 2020 (R and Markdown).</p> -->
+
+    <p>Visualized how well students incorporated sustainability into engineering capstone design projects by comparing sustainability assessment grades against final project grades, then presented the results at a <a href="https://monolith.asee.org/public/conferences/223/papers/33977/view" target="_blank">peer conference</a> in 2021 (R and Markdown).</p>
+
+    <p>Earned a DataCamp data analyst certificate by completing two applied business analytics projects:</p>
+
+    <p>Analyzed PetMind sales data to identify product repurchase patterns, evaluate whether repeatedly purchased products performed better in sales, and recommend product opportunities for a monthly pet box subscription. Full project details are available <a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md" target="_blank">here</a>.</p>
+
+    <p>Evaluated sales tactics for Pens and Partners by analyzing customer engagement, revenue distribution, and revenue trends over time to recommend which sales methods the company should prioritize. Full project details are available <a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">here</a>.</p>
+
+    <p>Built an interactive <a href="https://lgbtq-rights.streamlit.app/" target="_blank">dashboard</a> providing a global snapshot of LGBTQ+ rights by visualizing publicly available legal and social indicators in Streamlit (Python).</p>
 </div>
 
 <div class="section-header">Expertise</div>

@@ -49,10 +49,12 @@ permalink: /
 
 <div class="section-header">Expertise</div>
 <div class="section-content">
-  <p><b>Programming</b>: R, Python, SQL/NoSQL, HTML/CSS, JavaScript/TypeScript (React)</p>
-  <p><b>Data Science & Full Stack Packages</b>: IPython/Jupyter, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-Learn, Pytorch, Tensorflow, Streamlit, FastAPI, LangChain, Flask, Beautiful Soup, Selenium, SQLAlchemy, Pydantic, TKinter</p>
-  <p><b>No-code Programming</b>: Tableau, Notion, Airtable, Power BI</p>
-  <p><b>Developer Tools</b>: Zsh, Bash, CLI (Unix), Git, GitHub, Postman, Markdown, LaTeX, Google Colab, Anaconda, Visual Studio Code, PyCharm, Word, Excel, PowerPoint</p>
+    <p><b>Applied Research Methods</b>: Survey design, questionnaire development, descriptive analysis, cross-tabulation, program evaluation, market research, stakeholder analysis, sustainability analysis</p>
+    <p><b>Data Analysis</b>: Excel, R, Python, SQL, Pandas, NumPy, SciPy, Jupyter, Google Colab</p>
+    <p><b>Data Visualization & Dashboards</b>: Tableau, Power BI, Streamlit, Matplotlib, Seaborn</p>
+    <p><b>Research Communication</b>: Markdown, R Markdown, LaTeX, Word, PowerPoint, executive summaries, technical reports, data storytelling</p>
+    <p><b>Web Development & Data Applications</b>: HTML/CSS, JavaScript, React, Flask, FastAPI, SQLAlchemy, Pydantic</p>
+    <p><b>Automation & Developer Tools</b>: Beautiful Soup, Selenium, Bash, Zsh, Unix CLI, Git, GitHub, Postman, Anaconda, Visual Studio Code, PyCharm</p>
 </div>
 
 <div class="section-header">Hobbies & Interests</div>

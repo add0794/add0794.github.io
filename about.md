@@ -46,17 +46,17 @@ permalink: /
     <p><a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">Evaluated</a> sales tactics for Pens and Partners by analyzing customer engagement, revenue distribution, and revenue trends over time to recommend which sales methods the company should prioritize.</p>
 
     <p>Built an interactive <a href="https://lgbtq-rights.streamlit.app/" target="_blank">dashboard</a> providing a global snapshot of LGBTQ+ rights by visualizing publicly available legal and social indicators in Streamlit (Python).</p>
-    
+
   </div>
 
 <div class="section-header">Expertise</div>
 <div class="section-content">
-    <p><b>Applied Research Methods</b>: Survey design, questionnaire development, descriptive analysis, cross-tabulation, program evaluation, market research, stakeholder analysis, sustainability analysis</p>
-    <p><b>Data Analysis</b>: Excel, R, Python, SQL, Pandas, NumPy, SciPy, Jupyter, Google Colab</p>
-    <p><b>Data Visualization & Dashboards</b>: Tableau, Power BI, Streamlit, Matplotlib, Seaborn</p>
-    <p><b>Research Communication</b>: Markdown, R Markdown, LaTeX, Word, PowerPoint, executive summaries, technical reports, data storytelling</p>
-    <p><b>Web Development & Data Applications</b>: HTML/CSS, JavaScript, React, Flask, FastAPI, SQLAlchemy, Pydantic</p>
-    <p><b>Automation & Developer Tools</b>: Beautiful Soup, Selenium, Bash, Zsh, Unix CLI, Git, GitHub, Postman, Anaconda, Visual Studio Code, PyCharm</p>
+    <p><b>Applied Research Methods</b>: Survey design, questionnaire development, descriptive analysis, cross-tabulation, statistical modeling, machine learning (regression, classification)</p>
+    <p><b>Data Analysis</b>: Excel (advanced), Python, Pandas, NumPy, SciPy, Statsmodels, Jupyter</p>
+    <p><b>Data Visualization & Dashboards</b>: Tableau, Streamlit, Matplotlib, Seaborn</p>
+    <p><b>Research Communication</b>: Markdown, Word, PowerPoint, executive summaries, technical reports, data storytelling</p>
+    <p><b>Web Development & Data Applications</b>: HTML/CSS, Flask, SQLAlchemy, REST API development and integration</p>
+    <p><b>Automation & Developer Tools</b>: Beautiful Soup, Selenium, Postman, Command Line (Bash/Zsh), Git</p>
 </div>
 
 <div class="section-header">Hobbies & Interests</div>

@@ -8,7 +8,7 @@ permalink: /
   <div class="text">
     <div class="header-name">Alex Dubro</div>
     <!-- <div class="job-title">Data Scientist</div> -->
-    <div class="job-title">Applied Research Strategies</div>
+    <div class="job-title">Applied Research Strategist</div>
     <div class="job-description">Using data and research to solve sustainability challenges</div>
     <p>
     I solve sustainability issues using a mix of passion, domain expertise, and data-driven research. I love exploring how software can be used to make our lives better, whether by <a href="https://www.clearcogs.com/">reducing food waste through predictive models</a>, <a href="https://ampsortation.com/">separating our garbage by computer vision and classifications</a>, or <a href="https://arxiv.org/abs/2409.12427">clustering between countries on their progress toward the United Nations (UN) Sustainable Development Goals (SDGs)</a>. You can usually find me at the library learning linear algebra, trying out a new machine learning algorithm, or exploring a new programming language.

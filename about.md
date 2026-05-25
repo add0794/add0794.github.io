@@ -74,6 +74,10 @@ permalink: /
   <a href="/projects" class="nav-item">Check Out My Projects!</a>
 </nav> -->
 
+<nav class="main-nav">
+  <a href="/about-copy" class="nav-item">Check Out My Projects!</a>
+</nav>
+
 
 <footer>
     <div class="social-links">

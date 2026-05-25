@@ -7,10 +7,11 @@ permalink: /
 <div class="intro">
   <div class="text">
     <div class="header-name">Alex Dubro</div>
-    <div class="job-title">Data Scientist</div>
-    <div class="job-description">Using data tools to solve sustainability challenges</div>
+    <!-- <div class="job-title">Data Scientist</div> -->
+    <div class="job-title">Applied Research Strategies</div>
+    <div class="job-description">Using data and research to solve sustainability challenges</div>
     <p>
-    I solve sustainability issues using a mix of passion, domain expertise, and data science. I love exploring how software can be used to make our lives better, whether by <a href="https://www.clearcogs.com/">reducing food waste through predictive models</a>, <a href="https://ampsortation.com/">separating our garbage by computer vision and classifications</a>, or <a href="https://arxiv.org/abs/2409.12427">clustering between countries on their progress toward the United Nations (UN) Sustainable Development Goals (SDGs)</a>. You can usually find me at the library learning linear algebra, trying out a new machine learning algorithm, or exploring a new programming language.
+    I solve sustainability issues using a mix of passion, domain expertise, and data-driven research. I love exploring how software can be used to make our lives better, whether by <a href="https://www.clearcogs.com/">reducing food waste through predictive models</a>, <a href="https://ampsortation.com/">separating our garbage by computer vision and classifications</a>, or <a href="https://arxiv.org/abs/2409.12427">clustering between countries on their progress toward the United Nations (UN) Sustainable Development Goals (SDGs)</a>. You can usually find me at the library learning linear algebra, trying out a new machine learning algorithm, or exploring a new programming language.
     </p>
   </div>
   
@@ -21,7 +22,7 @@ permalink: /
 
 <div class="section-header">Who Am I?</div>
 <div class="section-content">
-  <p>I didn’t set out to become a data scientist. My journey began at Cornell University, where I studied organizational behavior (OB) with the goal of becoming an industrial-organizational (IO) psychologist. Yet, my drive to achieve <a href="https://sdgs.un.org/goals">sustainability goals</a> and my belief in the power of statistics to drive meaningful action ultimately reshaped my path.</p>
+  <p>I didn’t set out to become a researcher, much less an applied one. My journey began at Cornell University, where I studied organizational behavior (OB) with the goal of becoming an industrial-organizational (IO) psychologist. Yet, my drive to achieve <a href="https://sdgs.un.org/goals">sustainability goals</a> and my belief in the power of data and statistics to drive meaningful action ultimately reshaped my path.</p>
   <p>
   A service trip to Haiti in 2013 was a turning point. I witnessed firsthand how inadequate waste management infrastructure—no dumpsters, garbage trucks, or recycling bins—creates a vicious cycle: littering, illegal dumping, and open burning lead to crime, environmental degradation, and air, soil, and water pollution. The data was clear: island nations face losses of nearly <a href="https://pubmed.ncbi.nlm.nih.gov/31232294/">$2.5 billion annually</a> if we fail to overhaul the outdated make-take-waste model. Garbage, the most visible and visceral element of sustainability challenges, became my unlikely passion. This experience ignited my interest in data science and inspired me to earn a master’s degree in sustainability management from Stevens Institute of Technology.</p>
   <p>

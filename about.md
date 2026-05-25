@@ -29,8 +29,8 @@ permalink: /
   I shied away from programming initially. However, that changed when, six years ago, in graduate school, I started using R and SQL for statistical analysis and data management. Tools like R Studio transformed how I approached data, showing me the limitations of Excel for handling multidimensional datasets. Around the same time, I embraced the command line and Git to manage and share projects. A year later, while taking <a href="https://www.udemy.com/course/100-days-of-code/?couponCode=24T3MT120924">100 Days of Code</a>, I transitioned to Python—a shift that expanded my skills and sparked my love for programming. Since then, I’ve deepened my expertise, diving into languages like JavaScript and Go and discovering the endless possibilities software development offers.</p>
 </div>
 
-<div class="section-header">Significant Achievements</div>
-<div class="section-content">
+<!-- <div class="section-header">Selected Work</div> -->
+<!-- <div class="section-content">
     <!-- <p>Developed waste diversion recommendations for the Trust for Governors Island by analyzing a 2018 waste audit (Excel).</p> -->
 
     <p>Published a 7-page <a href="https://reports.aashe.org/media/secure/808/8/729/6449/AC_6_SLA_2020_Report_Final.pdf" target="_blank">report</a> on sustainability aptitude at Stevens Institute of Technology by designing, distributing, and analyzing a campus-wide survey in 2020, then recommending best practices for improving student education on environmental sustainability (Excel).</p>
@@ -39,14 +39,65 @@ permalink: /
 
     <p>Visualized how well students incorporated sustainability into engineering capstone design projects by comparing sustainability assessment grades against final project grades, then presented the results at a <a href="https://monolith.asee.org/public/conferences/223/papers/33977/view" target="_blank">peer conference</a> in 2021 (R and Markdown).</p>
 
-    <p>Earned a DataCamp data analyst certificate by completing two applied business analytics projects:</p>
+    <!-- <p>Earned a DataCamp data analyst certificate by completing two applied business analytics projects:</p> -->
 
-    <p>Analyzed PetMind sales data to identify product repurchase patterns, evaluate whether repeatedly purchased products performed better in sales, and recommend product opportunities for a monthly pet box subscription. Full project details are available <a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md" target="_blank">here</a>.</p>
+    <p><a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md" target="_blank">Analyzed</a> PetMind sales data to identify product repurchase patterns, evaluate whether repeatedly purchased products performed better in sales, and recommend product opportunities for a monthly pet box subscription.</p>
 
-    <p>Evaluated sales tactics for Pens and Partners by analyzing customer engagement, revenue distribution, and revenue trends over time to recommend which sales methods the company should prioritize. Full project details are available <a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">here</a>.</p>
+    <p><a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">Evaluated</a> sales tactics for Pens and Partners by analyzing customer engagement, revenue distribution, and revenue trends over time to recommend which sales methods the company should prioritize.</p>
 
     <p>Built an interactive <a href="https://lgbtq-rights.streamlit.app/" target="_blank">dashboard</a> providing a global snapshot of LGBTQ+ rights by visualizing publicly available legal and social indicators in Streamlit (Python).</p>
-</div>
+<!-- </div> -->
+
+<section class="selected-work">
+  <h2>Selected Work</h2>
+
+  <div class="work-list">
+
+    <article class="work-item">
+      <h3>Sustainability Aptitude Survey</h3>
+      <p class="work-meta">Survey Research · Excel · Stevens Institute of Technology</p>
+      <p>
+        Published a 7-page <a href="https://reports.aashe.org/media/secure/808/8/729/6449/AC_6_SLA_2020_Report_Final.pdf" target="_blank">report</a>
+        analyzing campus-wide survey results and recommending best practices for improving student education on environmental sustainability.
+      </p>
+    </article>
+
+    <article class="work-item">
+      <h3>Engineering Capstone Sustainability Assessment</h3>
+      <p class="work-meta">Program Evaluation · R Markdown · Peer Conference</p>
+      <p>
+        Visualized how well students incorporated sustainability into engineering capstone design projects by comparing sustainability assessment grades against final project grades.
+        Presented the results at a <a href="https://monolith.asee.org/public/conferences/223/papers/33977/view" target="_blank">peer conference</a>.
+      </p>
+    </article>
+
+    <article class="work-item">
+      <h3>PetMind Sales Analysis</h3>
+      <p class="work-meta">Business Analytics · DataCamp · Python/SQL</p>
+      <p>
+        <a href="https://github.com/add0794/pet_sales_analysis/blob/1526e06fd0b8338261c4ab0718ad06529486883e/README.md" target="_blank">Analyzed</a> sales data to identify product repurchase patterns, evaluate whether repeatedly purchased products performed better, and recommend product opportunities for a monthly pet box subscription.
+      </p>
+    </article>
+
+    <article class="work-item">
+      <h3>Pens and Partners Sales Strategy Analysis</h3>
+      <p class="work-meta">Business Analytics · DataCamp · Python/SQL</p>
+      <p>
+        <a href="https://github.com/add0794/product_sales_analysis/blob/f85af366447686c8ff2b724e8aafee580a3c8707/README.md" target="_blank">Evaluated<a> sales tactics by analyzing customer engagement, revenue distribution, and revenue trends over time to recommend which sales methods the company should prioritize.
+      </p>
+    </article>
+
+    <article class="work-item">
+      <h3>LGBTQ+ Rights Global Snapshot</h3>
+      <p class="work-meta">Interactive Dashboard · Streamlit · Python</p>
+      <p>
+        Built an interactive <a href="https://lgbtq-rights.streamlit.app/" target="_blank">dashboard</a>
+        visualizing publicly available legal and social indicators to provide a global snapshot of LGBTQ+ rights.
+      </p>
+    </article>
+
+  </div>
+</section>
 
 <div class="section-header">Expertise</div>
 <div class="section-content">
@@ -284,6 +335,52 @@ li {
     .image img {
         max-width: 100%;
     }
+
+    .selected-work {
+    margin: 3rem auto;
+    max-width: 1100px;
+    padding: 0 1.5rem;
+    }
+
+    .selected-work h2 {
+    background-color: #2f8f5b;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    }
+
+    .work-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    }
+
+    .work-item {
+    text-align: left;
+    border-left: 5px solid #2f8f5b;
+    padding: 1.25rem 1.5rem;
+    background: #f8f8f8;
+    border-radius: 8px;
+    }
+
+    .work-item h3 {
+    margin: 0 0 0.25rem 0;
+    color: #333;
+    }
+
+    .work-meta {
+    margin: 0 0 0.75rem 0;
+    font-size: 0.95rem;
+    color: #666;
+    font-weight: 600;
+    }
+
+    .work-item p {
+    line-height: 1.6;
+    color: #555;
+    }
+
 }
 
 </style>

@@ -63,14 +63,14 @@ permalink: /
   </p> 
   <p>I also <a href="https://furry-date-ae4.notion.site/Rethinking-Circular-Economy-34b44ede819c49158d207ac18607e85d">blog</a> regularly: on civic issues, reducing food waste, recycling, startups, and so much more. Whatever crosses my mind and I have an insight, I write about it. 
   </p>
-  <p>I make software and data projects for fun, too. Check a few samples out by clicking "Projects" below!
+  <p>I make software and data projects for fun, too. Check a few samples out by checking out my <a href="https://github.com/add0794">GitHub</a>!
   </p>
 
 </div>
 
-<nav class="main-nav">
+<!-- <nav class="main-nav">
   <a href="/projects" class="nav-item">Check Out My Projects!</a>
-</nav>
+</nav> -->
 
 
 <footer>

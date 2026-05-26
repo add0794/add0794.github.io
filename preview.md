@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-permalink: /
+title: Redesign Preview
+permalink: /preview/
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;1,9..40,400&display=swap" rel="stylesheet">

@@ -9,8 +9,8 @@ permalink: /
 <div class="intro">
   <div class="text">
     <div class="header-name">Alex Dubro</div>
-    <div class="job-title">Applied Research Strategist</div>
-    <div class="job-description">Building data tools and research applications that answer hard questions</div>
+    <div class="job-title">Applied Research & Data Analyst</div>
+    <div class="job-description">I use survey research, data analysis, and sustainability strategy to turn messy information into clear recommendations.</div>
     <p>
     I build research tools and data applications that help people make better decisions. Whether that means <a href="https://www.clearcogs.com/">reducing food waste through predictive models</a>, <a href="https://ampsortation.com/">using computer vision to sort recycling streams</a>, or <a href="https://arxiv.org/abs/2409.12427">clustering countries by their progress toward the UN Sustainable Development Goals</a>, I'm drawn to problems where rigorous analysis leads to real-world change. You can usually find me at the library working through linear algebra or testing a new machine learning approach.
     </p>
@@ -23,11 +23,9 @@ permalink: /
 
 <div class="section-header">Who Am I?</div>
 <div class="section-content">
-  <p>I didn't set out to become a researcher, much less an applied one. My journey began at Cornell University, where, as a Traditions Scholar, I studied organizational behavior (OB) with the goal of becoming an industrial-organizational (IO) psychologist. I later earned my masters in sustainability management from the Stevens Institute of Technology as a Provost Master's Scholar, where I was the recipient of best individual capstone project and recognized for my leadership. Yet, my belief in the power of data and statistics to drive meaningful action ultimately reshaped my path.</p>
-  <p>
-  A service trip to Haiti in 2013 was a turning point. I witnessed firsthand how inadequate waste management infrastructure — no dumpsters, garbage trucks, or recycling bins — creates a vicious cycle: littering, illegal dumping, and open burning lead to crime, environmental degradation, and air, soil, and water pollution. The data was clear: island nations face losses of nearly <a href="https://pubmed.ncbi.nlm.nih.gov/31232294/">$2.5 billion annually</a> if we fail to overhaul the outdated make-take-waste model. This experience ignited my interest in data science and inspired me to earn a master's degree in sustainability management from Stevens Institute of Technology.</p>
-  <p>
-  I shied away from programming initially. That changed in graduate school, where I began using R for statistical analysis — work that led to a peer-reviewed publication. Around the same time, I embraced the command line and Git. While taking <a href="https://www.udemy.com/course/100-days-of-code/?couponCode=24T3MT120924">100 Days of Code</a>, I transitioned to Python — a shift that expanded my skills and sparked my love for building data-driven applications.</p>
+  <p>I didn't set out to become an applied researcher. My journey began at Cornell University, where, as a Tradition Scholar, I studied organizational behavior (OB) with the goal of becoming an industrial-organizational (IO) psychologist. Yet, my drive to achieve <a href="https://sdgs.un.org/goals">sustainability goals</a> and my belief in the power of data and statistics to drive meaningful action ultimately reshaped my path.</p>
+  <p>A service trip to Haiti in 2013 was a turning point. I witnessed firsthand how inadequate waste management infrastructure — no dumpsters, garbage trucks, or recycling bins — creates a vicious cycle: littering, illegal dumping, and open burning lead to crime, environmental degradation, and air, soil, and water pollution. The data was clear: island nations face losses of nearly <a href="https://pubmed.ncbi.nlm.nih.gov/31232294/">$2.5 billion annually</a> if we fail to overhaul the outdated make-take-waste model. That experience ignited my interest in data science and taught me that environmental problems are not just technical or moral problems; they are measurement, infrastructure, behavior, and policy problems.</p>
+  <p>Inspired by that work, I earned a master's degree in sustainability management from Stevens Institute of Technology. As a Provost Master's Scholar, I was recognized for leadership and received the best individual capstone project award. In graduate school, I began using R for statistical analysis on sustainability research that led to a peer-reviewed publication. I later expanded into the command line, Git, and Python through <a href="https://www.udemy.com/course/100-days-of-code/?couponCode=24T3MT120924" target="_blank">100 Days of Code</a>, building the technical foundation for applied research, data visualization, and data-driven applications.</p>
 </div>
 
 <div class="section-header">Selected Work</div>

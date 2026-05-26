@@ -37,7 +37,7 @@ permalink: /alt
 
     <!-- <p>Published a 10-page report profiling prominent greenhouse gas (GHG) emissions sources for Dairy Farmers of America (DFA), assessing the viability of achieving its Science-Based Target (SBT) in 2020 (R and Markdown).</p> -->
 
-    <p>Visualized how well students incorporated sustainability into engineering capstone design projects by comparing sustainability assessment grades against final project grades, then presented the results at a <a href="https://monolith.asee.org/public/conferences/223/papers/33977/view" target="_blank">peer conference</a> in 2021 (R and Markdown).</p>
+    <p>Visualized how well students incorporated sustainability into engineering capstone design projects by comparing sustainability assessment grades against final project grades, then presented the results at a <a href="https://peer.asee.org/assessing-the-sustainability-components-of-engineering-capstone-projects" target="_blank">peer conference</a> in 2021 (R and Markdown).</p>
 
     <!-- <p>Earned a DataCamp data analyst certificate by completing two applied business analytics projects:</p> -->
 

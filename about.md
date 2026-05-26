@@ -36,7 +36,7 @@ permalink: /
   </div>
 
   <div class="work-card">
-    <p>Visualized how well students incorporated sustainability into engineering capstone design projects by comparing sustainability assessment grades against final project grades, then presented findings at a <a href="https://monolith.asee.org/public/conferences/223/papers/33977/view" target="_blank">peer conference</a> (R and Markdown).</p>
+    <p>Visualized how well students incorporated sustainability into engineering capstone design projects by comparing sustainability assessment grades against final project grades, then presented findings at a <a href="https://peer.asee.org/assessing-the-sustainability-components-of-engineering-capstone-projects" target="_blank">peer conference</a> (R and Markdown).</p>
   </div>
 
   <div class="work-card">

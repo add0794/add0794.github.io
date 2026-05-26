@@ -23,7 +23,7 @@ permalink: /preview/
 
 <div class="section-header">Who Am I?</div>
 <div class="section-content">
-  <p>I didn't set out to become a researcher, much less an applied one. My journey began at Cornell University, where I studied organizational behavior (OB) with the goal of becoming an industrial-organizational (IO) psychologist. Yet, my belief in the power of data and statistics to drive meaningful action ultimately reshaped my path.</p>
+  <p>I didn't set out to become a researcher, much less an applied one. My journey began at Cornell University, where, as a Traditions Scholar, I studied organizational behavior (OB) with the goal of becoming an industrial-organizational (IO) psychologist. I later earned my masters in sustainability management from the Stevens Institute of Technology as a Provost Master's Scholar, where I was the recipient of best individual capstone project and recognized for my leadership. Yet, my belief in the power of data and statistics to drive meaningful action ultimately reshaped my path.</p>
   <p>
   A service trip to Haiti in 2013 was a turning point. I witnessed firsthand how inadequate waste management infrastructure — no dumpsters, garbage trucks, or recycling bins — creates a vicious cycle: littering, illegal dumping, and open burning lead to crime, environmental degradation, and air, soil, and water pollution. The data was clear: island nations face losses of nearly <a href="https://pubmed.ncbi.nlm.nih.gov/31232294/">$2.5 billion annually</a> if we fail to overhaul the outdated make-take-waste model. This experience ignited my interest in data science and inspired me to earn a master's degree in sustainability management from Stevens Institute of Technology.</p>
   <p>

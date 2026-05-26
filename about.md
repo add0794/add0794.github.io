@@ -17,7 +17,7 @@ permalink: /
   </div>
   
   <div class="image">
-    <img src="about-img.jpg" alt="Alex Dubro">
+    <img src="about-img.png" alt="Alex Dubro">
   </div>
 </div>
 

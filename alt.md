@@ -16,7 +16,7 @@ permalink: /alt
   </div>
   
   <div class="image">
-    <img src="intro-img.png" alt="Image not supported">
+    <img src="alt-img.png" alt="Image not supported">
   </div>
 </div>
 

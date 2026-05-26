@@ -74,9 +74,9 @@ permalink: /alt
   <a href="/projects" class="nav-item">Check Out My Projects!</a>
 </nav> -->
 
-<nav class="main-nav">
+<!-- <nav class="main-nav">
   <a href="/about-copy" class="nav-item">Check Out My Projects!</a>
-</nav>
+</nav> -->
 
 
 <footer>
